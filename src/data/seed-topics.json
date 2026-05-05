@@ -1,0 +1,182 @@
+[
+  {
+    "title": "What Is Somatic Therapy and How Does It Actually Work?",
+    "category": "somatic-healing",
+    "tags": ["somatic therapy", "body-based healing", "trauma", "nervous system"],
+    "priority": 1
+  },
+  {
+    "title": "Polyvagal Theory Explained: Why Your Nervous System Is Not Overreacting",
+    "category": "polyvagal-theory",
+    "tags": ["polyvagal theory", "Stephen Porges", "nervous system", "vagus nerve"],
+    "priority": 1
+  },
+  {
+    "title": "The Window of Tolerance: What It Is and How to Widen Yours",
+    "category": "nervous-system",
+    "tags": ["window of tolerance", "Dan Siegel", "regulation", "trauma"],
+    "priority": 1
+  },
+  {
+    "title": "Somatic Experiencing: Peter Levine's Approach to Releasing Stored Trauma",
+    "category": "somatic-healing",
+    "tags": ["somatic experiencing", "Peter Levine", "trauma release", "body"],
+    "priority": 1
+  },
+  {
+    "title": "EMDR Therapy: What It Is, What the Research Shows, and Who It Helps",
+    "category": "emdr-therapy",
+    "tags": ["EMDR", "eye movement", "trauma therapy", "research"],
+    "priority": 1
+  },
+  {
+    "title": "Fight, Flight, Freeze, Fawn: Understanding Your Trauma Response",
+    "category": "nervous-system",
+    "tags": ["fight flight freeze fawn", "trauma response", "nervous system", "survival"],
+    "priority": 1
+  },
+  {
+    "title": "Dissociation and Trauma: What's Happening in the Body",
+    "category": "trauma-therapy",
+    "tags": ["dissociation", "trauma", "body", "nervous system"],
+    "priority": 1
+  },
+  {
+    "title": "TRE: Tension and Trauma Releasing Exercises Explained",
+    "category": "somatic-practices",
+    "tags": ["TRE", "tension release", "trauma", "shaking"],
+    "priority": 1
+  },
+  {
+    "title": "The Vagus Nerve and Trauma: What You Actually Need to Know",
+    "category": "nervous-system",
+    "tags": ["vagus nerve", "polyvagal", "nervous system", "regulation"],
+    "priority": 1
+  },
+  {
+    "title": "Sensorimotor Psychotherapy: Pat Ogden's Body-First Approach",
+    "category": "trauma-therapy",
+    "tags": ["sensorimotor psychotherapy", "Pat Ogden", "body-first", "trauma"],
+    "priority": 1
+  },
+  {
+    "title": "Hypervigilance After Trauma: Why Your Body Won't Stand Down",
+    "category": "nervous-system",
+    "tags": ["hypervigilance", "trauma", "nervous system", "threat response"],
+    "priority": 2
+  },
+  {
+    "title": "Trauma-Sensitive Yoga: What It Is and Why It's Different",
+    "category": "somatic-practices",
+    "tags": ["trauma-sensitive yoga", "yoga", "body", "healing"],
+    "priority": 2
+  },
+  {
+    "title": "Complex PTSD vs PTSD: The Difference and Why It Matters for Treatment",
+    "category": "trauma-therapy",
+    "tags": ["complex PTSD", "CPTSD", "PTSD", "treatment"],
+    "priority": 2
+  },
+  {
+    "title": "Breathwork for Nervous System Regulation: What Works and What Doesn't",
+    "category": "somatic-practices",
+    "tags": ["breathwork", "breathing", "nervous system", "regulation"],
+    "priority": 2
+  },
+  {
+    "title": "Interoception: The Body Sense That Trauma Disrupts",
+    "category": "body-mind",
+    "tags": ["interoception", "body awareness", "trauma", "sensation"],
+    "priority": 2
+  },
+  {
+    "title": "Resmaa Menakem and Racialized Trauma: What the Body Carries Across Generations",
+    "category": "trauma-research",
+    "tags": ["Resmaa Menakem", "racialized trauma", "generational trauma", "body"],
+    "priority": 2
+  },
+  {
+    "title": "Somatic Markers: How the Body Signals What the Mind Misses",
+    "category": "body-mind",
+    "tags": ["somatic markers", "body signals", "intuition", "nervous system"],
+    "priority": 2
+  },
+  {
+    "title": "Grounding Techniques That Actually Work for Trauma",
+    "category": "self-directed",
+    "tags": ["grounding", "techniques", "trauma", "regulation"],
+    "priority": 2
+  },
+  {
+    "title": "The Freeze Response: When the Body Stops Instead of Fights or Flees",
+    "category": "nervous-system",
+    "tags": ["freeze response", "dorsal vagal", "shutdown", "trauma"],
+    "priority": 2
+  },
+  {
+    "title": "Attachment Trauma and the Body: How Early Wounds Shape the Nervous System",
+    "category": "trauma-research",
+    "tags": ["attachment trauma", "early childhood", "nervous system", "development"],
+    "priority": 2
+  },
+  {
+    "title": "Somatic Therapy vs Talk Therapy: When the Body Needs More Than Words",
+    "category": "somatic-healing",
+    "tags": ["somatic therapy", "talk therapy", "comparison", "trauma"],
+    "priority": 3
+  },
+  {
+    "title": "The Fawn Response: People-Pleasing as a Trauma Survival Strategy",
+    "category": "trauma-therapy",
+    "tags": ["fawn response", "people-pleasing", "trauma", "survival"],
+    "priority": 3
+  },
+  {
+    "title": "Chronic Pain and Trauma: The Body's Unfinished Business",
+    "category": "body-mind",
+    "tags": ["chronic pain", "trauma", "body", "somatic"],
+    "priority": 3
+  },
+  {
+    "title": "Nervous System Regulation: Practical Tools for Daily Life",
+    "category": "self-directed",
+    "tags": ["nervous system regulation", "tools", "daily practice", "self-care"],
+    "priority": 3
+  },
+  {
+    "title": "What Is Dorsal Vagal Shutdown and How Do You Come Back From It?",
+    "category": "polyvagal-theory",
+    "tags": ["dorsal vagal", "shutdown", "polyvagal", "recovery"],
+    "priority": 3
+  },
+  {
+    "title": "Somatic Experiencing for Complex Trauma: What to Expect",
+    "category": "somatic-healing",
+    "tags": ["somatic experiencing", "complex trauma", "therapy", "process"],
+    "priority": 3
+  },
+  {
+    "title": "The Body Scan: A Somatic Practice for Reconnecting With Your Body",
+    "category": "somatic-practices",
+    "tags": ["body scan", "mindfulness", "somatic", "practice"],
+    "priority": 3
+  },
+  {
+    "title": "Titration in Trauma Therapy: Why Slow Is Actually Faster",
+    "category": "trauma-therapy",
+    "tags": ["titration", "pacing", "trauma therapy", "somatic"],
+    "priority": 3
+  },
+  {
+    "title": "Internal Family Systems and the Body: Parts Work Meets Somatic Healing",
+    "category": "trauma-therapy",
+    "tags": ["IFS", "internal family systems", "parts work", "somatic"],
+    "priority": 3
+  },
+  {
+    "title": "How to Find a Somatic Therapist: What to Look For and What to Ask",
+    "category": "self-directed",
+    "tags": ["finding therapist", "somatic therapy", "guide", "practical"],
+    "priority": 3
+  }
+]

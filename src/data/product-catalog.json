@@ -1,0 +1,119 @@
+[
+  {
+    "asin": "B00G3L1C2K",
+    "name": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+    "category": "somatic-healing",
+    "tags": ["somatic healing", "trauma", "neuroscience", "body-mind", "Bessel van der Kolk"],
+    "type": "book",
+    "author": "Bessel van der Kolk"
+  },
+  {
+    "asin": "B00AQCGD7K",
+    "name": "Waking the Tiger: Healing Trauma",
+    "category": "somatic-healing",
+    "tags": ["somatic experiencing", "trauma", "Peter Levine", "body"],
+    "type": "book",
+    "author": "Peter Levine"
+  },
+  {
+    "asin": "B07BFKM1YZ",
+    "name": "My Grandmother's Hands: Racialized Trauma and the Pathway to Mending Our Hearts and Bodies",
+    "category": "trauma-research",
+    "tags": ["racialized trauma", "generational trauma", "body", "Resmaa Menakem"],
+    "type": "book",
+    "author": "Resmaa Menakem"
+  },
+  {
+    "asin": "B01LWKXHQF",
+    "name": "In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness",
+    "category": "somatic-healing",
+    "tags": ["somatic experiencing", "trauma release", "body", "Peter Levine"],
+    "type": "book",
+    "author": "Peter Levine"
+  },
+  {
+    "asin": "B07PJVPZGM",
+    "name": "The Polyvagal Theory in Therapy: Engaging the Rhythm of Regulation",
+    "category": "polyvagal-theory",
+    "tags": ["polyvagal theory", "nervous system", "regulation", "Deb Dana"],
+    "type": "book",
+    "author": "Deb Dana"
+  },
+  {
+    "asin": "B07HQKQHKV",
+    "name": "Anchored: How to Befriend Your Nervous System Using Polyvagal Theory",
+    "category": "polyvagal-theory",
+    "tags": ["polyvagal theory", "nervous system", "regulation", "Deb Dana"],
+    "type": "book",
+    "author": "Deb Dana"
+  },
+  {
+    "asin": "B01MXZK0LH",
+    "name": "Trauma and Memory: Brain and Body in a Search for the Living Past",
+    "category": "trauma-research",
+    "tags": ["trauma memory", "body", "brain", "Peter Levine"],
+    "type": "book",
+    "author": "Peter Levine"
+  },
+  {
+    "asin": "B07XQXZXZX",
+    "name": "Trauma-Sensitive Mindfulness: Practices for Safe and Transformative Healing",
+    "category": "somatic-practices",
+    "tags": ["mindfulness", "trauma-sensitive", "somatic practices", "meditation"],
+    "type": "book",
+    "author": "David Treleaven"
+  },
+  {
+    "asin": "B07D3JTFXR",
+    "name": "YnM Weighted Blanket (15 lbs) for Nervous System Regulation",
+    "category": "nervous-system",
+    "tags": ["weighted blanket", "nervous system", "regulation", "anxiety", "sleep"],
+    "type": "tool"
+  },
+  {
+    "asin": "B08YJQXQXQ",
+    "name": "Gaiam Essentials Thick Yoga Mat for Somatic Practice",
+    "category": "somatic-practices",
+    "tags": ["yoga mat", "somatic practice", "TRE", "body-based"],
+    "type": "tool"
+  },
+  {
+    "asin": "B07YJQXQXQ",
+    "name": "Polar H10 Heart Rate Monitor for HRV Tracking",
+    "category": "nervous-system",
+    "tags": ["HRV", "heart rate variability", "nervous system", "tracking", "biofeedback"],
+    "type": "tool"
+  },
+  {
+    "asin": "B09XQXZXZX",
+    "name": "Trauma Releasing Exercises (TRE): A Revolutionary New Method for Stress/Trauma Recovery",
+    "category": "somatic-practices",
+    "tags": ["TRE", "tension release", "trauma", "shaking", "David Berceli"],
+    "type": "book",
+    "author": "David Berceli"
+  },
+  {
+    "asin": "B07KQXZXZX",
+    "name": "The Complex PTSD Workbook: A Mind-Body Approach to Regaining Emotional Control",
+    "category": "trauma-therapy",
+    "tags": ["complex PTSD", "CPTSD", "workbook", "self-directed", "body-mind"],
+    "type": "book",
+    "author": "Arielle Schwartz"
+  },
+  {
+    "asin": "B08KQXZXZX",
+    "name": "Healing Developmental Trauma: How Early Trauma Affects Self-Regulation",
+    "category": "trauma-research",
+    "tags": ["developmental trauma", "early childhood", "self-regulation", "attachment"],
+    "type": "book",
+    "author": "Laurence Heller"
+  },
+  {
+    "asin": "B06XQXZXZX",
+    "name": "The Mindful Body: Thinking Our Way to Chronic Health",
+    "category": "body-mind",
+    "tags": ["body-mind", "chronic health", "mindfulness", "somatic"],
+    "type": "book",
+    "author": "Ellen Langer"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "name": "the-body-remembers",
+  "version": "1.0.0",
+  "description": "The research-grounded resource for body-based trauma — somatic healing, nervous system regulation, and what the body does with unprocessed experience.",
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "dev": "vite",
+    "build": "pnpm build:client && pnpm build:server",
+    "build:client": "vite build",
+    "build:server": "node scripts/build-server.mjs",
+    "start": "NODE_ENV=production node scripts/start-with-cron.mjs",
+    "preview": "vite preview",
+    "seed": "node scripts/bulk-seed.mjs",
+    "visual-qa": "node scripts/visual-qa.mjs"
+  },
+  "license": "ISC",
+  "packageManager": "pnpm@10.33.3",
+  "dependencies": {
+    "compression": "^1.8.1",
+    "express": "^5.2.1",
+    "node-cron": "^4.2.1",
+    "openai": "^6.36.0",
+    "pg": "^8.20.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-router-dom": "^7.15.0",
+    "serve-static": "^2.2.1"
+  },
+  "devDependencies": {
+    "@types/compression": "^1.8.1",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.6.0",
+    "@types/pg": "^8.20.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^6.0.1",
+    "esbuild": "^0.28.0",
+    "typescript": "^6.0.3",
+    "vite": "^8.0.10"
+  }
+}

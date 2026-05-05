@@ -1,0 +1,187 @@
+/* ═══════════════════════════════════════════════════════
+   THE BODY REMEMBERS — Design Tokens
+   Palette: Soft violet/lavender — organized, trustworthy, grounded
+   ═══════════════════════════════════════════════════════ */
+
+:root {
+  /* ─── Site Palette ─────────────────────────────────── */
+  --bg-primary: #F2EFF5;
+  --bg-secondary: #EAE5F5;
+  --bg-card: #FFFFFF;
+  --bg-sidebar: #EAE5F5;
+  --bg-dark: #1E1828;
+  --bg-hero: #2D2540;
+
+  --text-primary: #1E1828;
+  --text-secondary: #4A4260;
+  --text-muted: #7A7090;
+  --text-inverse: #FFFFFF;
+  --text-accent: #6A5A90;
+
+  --accent: #6A5A90;
+  --accent-hover: #5A4A80;
+  --accent-soft: #D4C8F0;
+  --accent-light: #F0ECFA;
+  --accent-dark: #3D2F6B;
+
+  --border: #D8D0EC;
+  --border-card: rgba(106, 90, 144, 0.12);
+  --shadow-card: 0 2px 12px rgba(106, 90, 144, 0.10), 0 1px 3px rgba(106, 90, 144, 0.08);
+  --shadow-card-hover: 0 8px 32px rgba(106, 90, 144, 0.18), 0 2px 8px rgba(106, 90, 144, 0.12);
+  --shadow-sidebar: 2px 0 16px rgba(30, 24, 40, 0.06);
+
+  /* ─── Typography ───────────────────────────────────── */
+  --font-sans: 'Inter', 'DM Sans', system-ui, -apple-system, sans-serif;
+  --font-heading: 'Lora', 'Georgia', serif;
+
+  --body-font-size-desktop: 17px;
+  --body-font-size-mobile: 16px;
+  --line-height-body: 1.75;
+  --line-height-heading: 1.25;
+
+  --text-xs: 0.75rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.25rem;
+  --text-2xl: 1.5rem;
+  --text-3xl: 1.875rem;
+  --text-4xl: 2.25rem;
+  --text-5xl: 3rem;
+
+  /* ─── Layout ───────────────────────────────────────── */
+  --sidebar-width: 240px;
+  --max-content-width: 740px;
+  --max-site-width: 1280px;
+  --tap-target-min: 44px;
+
+  /* ─── Spacing ──────────────────────────────────────── */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-24: 6rem;
+
+  /* ─── Border Radius ────────────────────────────────── */
+  --radius-sm: 4px;
+  --radius: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  --radius-xl: 24px;
+  --radius-full: 9999px;
+
+  /* ─── Transitions ──────────────────────────────────── */
+  --transition-fast: 150ms ease;
+  --transition: 250ms ease;
+  --transition-slow: 400ms ease;
+
+  /* ─── Z-index ──────────────────────────────────────── */
+  --z-sidebar: 100;
+  --z-header: 200;
+  --z-modal: 300;
+  --z-toast: 400;
+}
+
+/* ─── Base Reset ─────────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: var(--body-font-size-desktop);
+  scroll-behavior: smooth;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: var(--body-font-size-desktop);
+  line-height: var(--line-height-body);
+  color: var(--text-primary);
+  background-color: var(--bg-primary);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+a:hover {
+  color: var(--accent-hover);
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  line-height: var(--line-height-heading);
+  color: var(--text-primary);
+}
+
+h1 { font-size: var(--text-4xl); }
+h2 { font-size: var(--text-2xl); }
+h3 { font-size: var(--text-xl); }
+h4 { font-size: var(--text-lg); }
+
+p { margin-bottom: var(--space-4); }
+p:last-child { margin-bottom: 0; }
+
+ul, ol { padding-left: var(--space-6); }
+li { margin-bottom: var(--space-2); }
+
+/* ─── Reading progress bar ───────────────────────────── */
+#reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: linear-gradient(90deg, var(--accent), var(--accent-soft));
+  z-index: var(--z-modal);
+  transition: width 100ms linear;
+  pointer-events: none;
+}
+
+/* ─── Utility classes ────────────────────────────────── */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: var(--max-site-width);
+  margin: 0 auto;
+  padding: 0 var(--space-6);
+}
+
+@media (max-width: 768px) {
+  html { font-size: var(--body-font-size-mobile); }
+  h1 { font-size: var(--text-3xl); }
+  h2 { font-size: var(--text-xl); }
+  .container { padding: 0 var(--space-4); }
+}

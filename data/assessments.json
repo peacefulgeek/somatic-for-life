@@ -1,0 +1,730 @@
+[
+  {
+    "id": "nervous-system-state",
+    "slug": "nervous-system-state",
+    "title": "What State Is Your Nervous System In Right Now?",
+    "description": "Discover whether your nervous system is in a ventral vagal (safe), sympathetic (activated), or dorsal vagal (shutdown) state — and what that means for your healing.",
+    "icon": "🧠",
+    "time_minutes": 5,
+    "question_count": 12,
+    "category": "polyvagal-theory",
+    "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting",
+    "questions": [
+      {
+        "id": 1,
+        "text": "When you think about your day ahead, your first feeling is:",
+        "options": [
+          { "label": "Curious and ready", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Slightly anxious but manageable", "score": { "ventral": 1, "sympathetic": 2, "dorsal": 0 } },
+          { "label": "Overwhelmed or dreading it", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Numb or disconnected — like it doesn't matter", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Your breathing right now feels:",
+        "options": [
+          { "label": "Easy and natural", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Shallow or tight in the chest", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Slow but heavy, like an effort", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "I'm not really aware of it", "score": { "ventral": 0, "sympathetic": 1, "dorsal": 2 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "When someone you trust reaches out to connect, you typically:",
+        "options": [
+          { "label": "Feel warm and want to engage", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Feel a flicker of warmth but also some tension", "score": { "ventral": 1, "sympathetic": 2, "dorsal": 0 } },
+          { "label": "Feel irritated or want to be left alone", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Feel like you can't really respond — too flat", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Your body's energy level right now is:",
+        "options": [
+          { "label": "Steady and available", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Buzzy, restless, or hard to settle", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Heavy, sluggish, or exhausted", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Unpredictable — spikes and crashes", "score": { "ventral": 0, "sympathetic": 2, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "When you make a mistake, your immediate inner response is:",
+        "options": [
+          { "label": "Acknowledge it, learn, move on", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Harsh self-criticism or shame spiral", "score": { "ventral": 0, "sympathetic": 2, "dorsal": 1 } },
+          { "label": "Panic or catastrophizing", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Nothing — I feel strangely blank about it", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Your jaw and shoulders right now feel:",
+        "options": [
+          { "label": "Relaxed and soft", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Tight or braced", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Heavy and dropped, like they're weighted", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "I can't really feel them", "score": { "ventral": 0, "sympathetic": 1, "dorsal": 2 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "When you're in a social situation, you generally feel:",
+        "options": [
+          { "label": "Present and able to connect", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "On guard or scanning for problems", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Like you're watching from behind glass", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Performing — going through the motions", "score": { "ventral": 0, "sympathetic": 1, "dorsal": 2 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Your sleep has been:",
+        "options": [
+          { "label": "Generally restful and restorative", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Disrupted — waking, racing thoughts", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Excessive — sleeping too much but never rested", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Variable and unpredictable", "score": { "ventral": 0, "sympathetic": 2, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "When you encounter a new challenge, you tend to:",
+        "options": [
+          { "label": "Feel interested and engaged", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Feel your heart rate rise and start problem-solving frantically", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Feel overwhelmed and want to avoid it", "score": { "ventral": 0, "sympathetic": 1, "dorsal": 2 } },
+          { "label": "Feel nothing — like it doesn't register", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Your digestion and appetite have been:",
+        "options": [
+          { "label": "Regular and comfortable", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Tight, crampy, or appetite is off", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Sluggish, bloated, or low appetite", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Inconsistent — can't predict it", "score": { "ventral": 0, "sympathetic": 2, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 11,
+        "text": "When you look in the mirror, you feel:",
+        "options": [
+          { "label": "Neutral or friendly toward yourself", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Critical or uncomfortable", "score": { "ventral": 0, "sympathetic": 2, "dorsal": 1 } },
+          { "label": "Like you're looking at a stranger", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Anxious or want to look away quickly", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } }
+        ]
+      },
+      {
+        "id": 12,
+        "text": "Your sense of hope about the future is:",
+        "options": [
+          { "label": "Present and real", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Fragile — depends on the day", "score": { "ventral": 1, "sympathetic": 2, "dorsal": 0 } },
+          { "label": "Mostly absent — hard to imagine things improving", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Anxious about it — afraid to hope", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } }
+        ]
+      }
+    ],
+    "results": {
+      "ventral": {
+        "label": "Ventral Vagal: Safe and Social",
+        "range": [0, 100],
+        "threshold": 50,
+        "color": "#2E8B6E",
+        "emoji": "🌿",
+        "headline": "Your nervous system is in a regulated, connected state.",
+        "body": "Right now, your nervous system is operating from what Stephen Porges calls the ventral vagal state. You have access to social engagement, curiosity, and genuine connection. This doesn't mean life is perfect — it means your body feels safe enough to be present. This is the state where healing actually happens, where learning sticks, and where relationships feel real. The work here is to notice this state, name it, and learn what conditions support it so you can return to it more easily.",
+        "practices": ["Savoring moments of connection", "Gentle movement or walking in nature", "Journaling about what feels good right now"],
+        "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+      },
+      "sympathetic": {
+        "label": "Sympathetic: Activated and On Guard",
+        "range": [0, 100],
+        "threshold": 50,
+        "color": "#C4713A",
+        "emoji": "⚡",
+        "headline": "Your nervous system is mobilized — running on high alert.",
+        "body": "Your results suggest your nervous system is currently in a sympathetic activation state. This is the fight-or-flight branch — your body is mobilized, scanning for threat, and burning energy to keep you safe. This isn't a character flaw or a sign something is wrong with you. It's your biology doing exactly what it was designed to do. The problem is when this state becomes chronic. Sustained sympathetic activation depletes your system, disrupts sleep, digestion, and connection, and keeps you locked in a cycle of reactivity. The path forward starts with helping your body learn that the threat has passed.",
+        "practices": ["Extended exhale breathing (4 in, 8 out)", "Cold water on the face or wrists", "Vigorous movement to discharge activation", "TRE (Tension and Trauma Releasing Exercises)"],
+        "related_article": "fight-flight-freeze-fawn-understanding-your-trauma-response"
+      },
+      "dorsal": {
+        "label": "Dorsal Vagal: Shutdown and Withdrawn",
+        "range": [0, 100],
+        "threshold": 50,
+        "color": "#4A5568",
+        "emoji": "🌑",
+        "headline": "Your nervous system has moved into a protective shutdown state.",
+        "body": "Your results suggest your nervous system may be in a dorsal vagal state — what Peter Levine calls the freeze or collapse response. This is the oldest branch of the autonomic nervous system, and it activates when the threat feels too big to fight or flee. The result is a kind of protective numbness: low energy, disconnection, difficulty feeling emotions or motivation. This is not weakness. It's your body's last-resort protection. The path back is slow and gentle — not forcing activation, but carefully building safety signals that let your system know it's okay to come back online.",
+        "practices": ["Gentle rhythmic movement (rocking, swaying)", "Warm baths or heat on the body", "Orienting exercises — slowly looking around the room", "Small, achievable tasks to rebuild a sense of agency"],
+        "related_article": "what-is-dorsal-vagal-shutdown-and-how-do-you-come-back-from-it"
+      }
+    }
+  },
+  {
+    "id": "trauma-body-impact",
+    "slug": "trauma-body-impact",
+    "title": "How Is Trauma Showing Up in Your Body?",
+    "description": "Identify the physical patterns that may be trauma responses — chronic tension, pain, numbness, digestive issues, and more — and understand what your body is trying to tell you.",
+    "icon": "🫀",
+    "time_minutes": 6,
+    "question_count": 10,
+    "category": "somatic-healing",
+    "related_article": "what-is-somatic-therapy-and-how-does-it-actually-work",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Do you experience chronic tension or pain in your neck, shoulders, or back without a clear physical cause?",
+        "options": [
+          { "label": "Rarely or never", "score": { "somatic": 0 } },
+          { "label": "Sometimes", "score": { "somatic": 1 } },
+          { "label": "Often", "score": { "somatic": 2 } },
+          { "label": "Almost always", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Do you have digestive issues (IBS, nausea, stomach tightness) that seem connected to stress or emotions?",
+        "options": [
+          { "label": "No", "score": { "somatic": 0 } },
+          { "label": "Occasionally", "score": { "somatic": 1 } },
+          { "label": "Frequently", "score": { "somatic": 2 } },
+          { "label": "It's a constant issue", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Do you find it difficult to feel sensations in parts of your body — like areas feel numb or disconnected?",
+        "options": [
+          { "label": "No, I feel my body fairly well", "score": { "somatic": 0 } },
+          { "label": "In certain situations", "score": { "somatic": 1 } },
+          { "label": "Often — especially in my chest or pelvis", "score": { "somatic": 2 } },
+          { "label": "I feel generally disconnected from my body", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Do you startle easily — jumping at sounds, sudden movements, or unexpected touch?",
+        "options": [
+          { "label": "Not really", "score": { "somatic": 0 } },
+          { "label": "Sometimes", "score": { "somatic": 1 } },
+          { "label": "Often", "score": { "somatic": 2 } },
+          { "label": "My startle response feels out of control", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Do you hold your breath or breathe shallowly without realizing it?",
+        "options": [
+          { "label": "Rarely", "score": { "somatic": 0 } },
+          { "label": "Sometimes when stressed", "score": { "somatic": 1 } },
+          { "label": "Often — I catch myself holding my breath", "score": { "somatic": 2 } },
+          { "label": "Almost constantly", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Do you experience unexplained fatigue that doesn't improve with rest?",
+        "options": [
+          { "label": "No", "score": { "somatic": 0 } },
+          { "label": "Occasionally", "score": { "somatic": 1 } },
+          { "label": "Frequently", "score": { "somatic": 2 } },
+          { "label": "It's a defining feature of my daily life", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Do you feel physically unsafe in your own body — like your body is the threat rather than the refuge?",
+        "options": [
+          { "label": "No, my body feels like home", "score": { "somatic": 0 } },
+          { "label": "Sometimes I feel uncomfortable in my body", "score": { "somatic": 1 } },
+          { "label": "Often — I'd rather not be in my body", "score": { "somatic": 2 } },
+          { "label": "My body feels like enemy territory", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Do you have difficulty tolerating physical touch — even gentle, safe touch?",
+        "options": [
+          { "label": "No, touch feels generally okay", "score": { "somatic": 0 } },
+          { "label": "Depends on who it is", "score": { "somatic": 1 } },
+          { "label": "Often uncomfortable, even with people I trust", "score": { "somatic": 2 } },
+          { "label": "Touch feels threatening or overwhelming", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Do you experience physical symptoms (headaches, skin issues, immune problems) that doctors can't fully explain?",
+        "options": [
+          { "label": "No", "score": { "somatic": 0 } },
+          { "label": "Occasionally", "score": { "somatic": 1 } },
+          { "label": "Yes, a few recurring issues", "score": { "somatic": 2 } },
+          { "label": "Multiple unexplained symptoms are a constant", "score": { "somatic": 3 } }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "When you're emotionally triggered, does your body respond before your mind catches up?",
+        "options": [
+          { "label": "Rarely — I usually notice thoughts first", "score": { "somatic": 0 } },
+          { "label": "Sometimes", "score": { "somatic": 1 } },
+          { "label": "Often — my body reacts and I figure out why later", "score": { "somatic": 2 } },
+          { "label": "Always — my body is way ahead of my awareness", "score": { "somatic": 3 } }
+        ]
+      }
+    ],
+    "results": {
+      "low": {
+        "label": "Minimal Somatic Impact",
+        "range": [0, 10],
+        "color": "#2E8B6E",
+        "emoji": "🌱",
+        "headline": "Your body is carrying relatively few trauma signals right now.",
+        "body": "Your responses suggest your body is not showing strong signs of stored trauma at this time. That's genuinely good news. It could mean you've done significant healing work, that your nervous system has good regulation capacity, or that you haven't experienced significant trauma. Whatever the reason, this is a strong foundation. The work now is maintenance and deepening — continuing to build body awareness and nervous system literacy so you can recognize early signals before they become chronic patterns.",
+        "practices": ["Regular body scan practice", "Preventive somatic check-ins", "Building body literacy through reading and practice"],
+        "related_article": "what-is-somatic-therapy-and-how-does-it-actually-work"
+      },
+      "moderate": {
+        "label": "Moderate Somatic Impact",
+        "range": [11, 20],
+        "color": "#C4713A",
+        "emoji": "🌊",
+        "headline": "Your body is holding some trauma patterns — and they're worth paying attention to.",
+        "body": "Your responses suggest a moderate level of somatic trauma impact. You're experiencing some of the classic body-based signs: tension patterns, digestive sensitivity, startle responses, or disconnection from sensation. These aren't random. They're your body's intelligent adaptations to experiences that felt threatening. The good news is that at this level, somatic work tends to be very effective. Your nervous system still has significant capacity for regulation, and body-based practices can create real change relatively quickly.",
+        "practices": ["Somatic Experiencing or body-based therapy", "Daily breathwork (extended exhale)", "Grounding practices — especially feet-on-floor awareness", "TRE exercises"],
+        "related_article": "somatic-experiencing-peter-levine-s-approach-to-releasing-stored-trauma"
+      },
+      "high": {
+        "label": "Significant Somatic Impact",
+        "range": [21, 30],
+        "color": "#6B46C1",
+        "emoji": "🌑",
+        "headline": "Your body is carrying significant trauma — and it deserves real, skilled attention.",
+        "body": "Your responses suggest your body is holding a significant amount of trauma. The patterns you're experiencing — chronic pain, disconnection, digestive issues, touch sensitivity, unexplained symptoms — are not character flaws or signs of weakness. They're the body's way of encoding experiences that were too much to process at the time. This level of somatic impact typically benefits most from working with a skilled somatic therapist who can help you approach this material safely, at the right pace. You don't have to do this alone, and you shouldn't have to.",
+        "practices": ["Find a somatic therapist (SE, Sensorimotor, or EMDR)", "Gentle, trauma-sensitive yoga", "Very slow, titrated body awareness practices", "Build safety before processing"],
+        "related_article": "how-to-find-a-somatic-therapist-what-to-look-for-and-what-to-ask"
+      }
+    }
+  },
+  {
+    "id": "window-of-tolerance",
+    "slug": "window-of-tolerance",
+    "title": "How Wide Is Your Window of Tolerance?",
+    "description": "Assess your capacity to stay present with difficult emotions and sensations without going into overwhelm (hyperarousal) or shutdown (hypoarousal).",
+    "icon": "🪟",
+    "time_minutes": 4,
+    "question_count": 8,
+    "category": "nervous-system",
+    "related_article": "the-window-of-tolerance-what-it-is-and-how-to-widen-yours",
+    "questions": [
+      {
+        "id": 1,
+        "text": "When you feel a strong emotion, you can usually:",
+        "options": [
+          { "label": "Stay with it and let it move through", "score": { "window": 3 } },
+          { "label": "Stay with it briefly before needing to distract", "score": { "window": 2 } },
+          { "label": "Feel it briefly before it overwhelms you", "score": { "window": 1 } },
+          { "label": "Either go numb or completely lose it", "score": { "window": 0 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "When something stressful happens, you return to baseline:",
+        "options": [
+          { "label": "Within minutes to an hour", "score": { "window": 3 } },
+          { "label": "Within a few hours", "score": { "window": 2 } },
+          { "label": "It takes a day or more", "score": { "window": 1 } },
+          { "label": "I'm not sure I have a baseline to return to", "score": { "window": 0 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "When someone raises their voice near you, you:",
+        "options": [
+          { "label": "Stay grounded and respond thoughtfully", "score": { "window": 3 } },
+          { "label": "Feel activated but can manage it", "score": { "window": 2 } },
+          { "label": "Freeze, panic, or get very upset", "score": { "window": 1 } },
+          { "label": "Dissociate or shut down completely", "score": { "window": 0 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Your capacity to tolerate uncertainty is:",
+        "options": [
+          { "label": "Generally okay — you can sit with not knowing", "score": { "window": 3 } },
+          { "label": "Manageable but uncomfortable", "score": { "window": 2 } },
+          { "label": "Very difficult — uncertainty triggers anxiety", "score": { "window": 1 } },
+          { "label": "Intolerable — you need to know or you fall apart", "score": { "window": 0 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "When you're in a conflict with someone you care about, you can usually:",
+        "options": [
+          { "label": "Stay present and work through it", "score": { "window": 3 } },
+          { "label": "Get activated but come back to the conversation", "score": { "window": 2 } },
+          { "label": "Escalate quickly or shut down", "score": { "window": 1 } },
+          { "label": "Completely lose yourself in the reaction", "score": { "window": 0 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Your ability to be present in your body during everyday activities is:",
+        "options": [
+          { "label": "Generally good", "score": { "window": 3 } },
+          { "label": "Okay most of the time", "score": { "window": 2 } },
+          { "label": "Often difficult — you're frequently in your head", "score": { "window": 1 } },
+          { "label": "Very limited — you feel disconnected most of the time", "score": { "window": 0 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "When you think about a past difficult experience, you:",
+        "options": [
+          { "label": "Can reflect on it without being overwhelmed", "score": { "window": 3 } },
+          { "label": "Feel some activation but can stay present", "score": { "window": 2 } },
+          { "label": "Feel flooded or very distressed", "score": { "window": 1 } },
+          { "label": "Either go numb or feel like it's happening again", "score": { "window": 0 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Your capacity to experience joy, pleasure, or playfulness is:",
+        "options": [
+          { "label": "Available and real", "score": { "window": 3 } },
+          { "label": "Present but sometimes feels forced", "score": { "window": 2 } },
+          { "label": "Limited — hard to access", "score": { "window": 1 } },
+          { "label": "Mostly absent", "score": { "window": 0 } }
+        ]
+      }
+    ],
+    "results": {
+      "wide": {
+        "label": "Wide Window of Tolerance",
+        "range": [18, 24],
+        "color": "#2E8B6E",
+        "emoji": "🌿",
+        "headline": "You have a well-developed capacity to stay present with difficult experiences.",
+        "body": "Your window of tolerance is wide — meaning you can experience a range of emotions and sensations without being overwhelmed or shutting down. This is a significant resource. It suggests either natural resilience, effective healing work, or both. A wide window doesn't mean you don't have hard experiences. It means your nervous system has the capacity to process them. The work here is to keep expanding this capacity and to use it in service of deeper healing.",
+        "practices": ["Deepen your practice with more challenging material", "Support others — your regulation can co-regulate those around you", "Explore more advanced somatic practices"],
+        "related_article": "the-window-of-tolerance-what-it-is-and-how-to-widen-yours"
+      },
+      "moderate": {
+        "label": "Moderate Window of Tolerance",
+        "range": [10, 17],
+        "color": "#C4713A",
+        "emoji": "🌊",
+        "headline": "Your window is workable — with some edges that need attention.",
+        "body": "Your window of tolerance is moderate. You have real capacity to stay present, but there are edges where you tip into overwhelm or shutdown. This is very common, and it's workable. The goal isn't to never get activated — it's to expand the range of what you can tolerate while staying present. Somatic practices, breathwork, and titrated trauma work can all help widen this window over time.",
+        "practices": ["Daily grounding and regulation practice", "Pendulation — moving between activation and resource", "Breathwork for regulation", "Somatic therapy to work the edges safely"],
+        "related_article": "the-window-of-tolerance-what-it-is-and-how-to-widen-yours"
+      },
+      "narrow": {
+        "label": "Narrow Window of Tolerance",
+        "range": [0, 9],
+        "color": "#6B46C1",
+        "emoji": "🌑",
+        "headline": "Your window is currently narrow — and that's important information, not a verdict.",
+        "body": "Your window of tolerance appears narrow right now. This means your nervous system is frequently tipping into either overwhelm (hyperarousal) or shutdown (hypoarousal), with limited time in the regulated middle zone. This is not a permanent state. Windows of tolerance can be widened with the right support and the right pacing. The key word is pacing — trying to push through too fast will narrow the window further. The work starts with building safety and resources, not with processing trauma.",
+        "practices": ["Start with resourcing — not trauma processing", "Find a skilled somatic therapist", "Very gentle grounding practices daily", "Reduce unnecessary stressors where possible"],
+        "related_article": "the-window-of-tolerance-what-it-is-and-how-to-widen-yours"
+      }
+    }
+  },
+  {
+    "id": "fawn-response",
+    "slug": "fawn-response",
+    "title": "Is People-Pleasing a Trauma Response for You?",
+    "description": "Explore whether the fawn response — chronic people-pleasing, difficulty with boundaries, and self-abandonment — is operating as a trauma survival strategy in your life.",
+    "icon": "🦌",
+    "time_minutes": 5,
+    "question_count": 10,
+    "category": "trauma-therapy",
+    "related_article": "the-fawn-response-people-pleasing-as-a-trauma-survival-strategy",
+    "questions": [
+      {
+        "id": 1,
+        "text": "When someone seems upset or displeased with you, your first instinct is to:",
+        "options": [
+          { "label": "Check in with yourself first, then respond", "score": { "fawn": 0 } },
+          { "label": "Want to fix it but can usually hold your ground", "score": { "fawn": 1 } },
+          { "label": "Immediately try to smooth things over", "score": { "fawn": 2 } },
+          { "label": "Panic and do whatever it takes to restore approval", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Saying 'no' to someone you care about feels:",
+        "options": [
+          { "label": "Normal — you can do it without much distress", "score": { "fawn": 0 } },
+          { "label": "Uncomfortable but manageable", "score": { "fawn": 1 } },
+          { "label": "Very difficult — you often say yes when you mean no", "score": { "fawn": 2 } },
+          { "label": "Nearly impossible — the anxiety is too intense", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "In conflict situations, you tend to:",
+        "options": [
+          { "label": "Stay present and work toward resolution", "score": { "fawn": 0 } },
+          { "label": "Get anxious but can hold your position", "score": { "fawn": 1 } },
+          { "label": "Quickly concede to restore peace", "score": { "fawn": 2 } },
+          { "label": "Immediately take the blame to end the conflict", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "How often do you find yourself agreeing with people even when you don't actually agree?",
+        "options": [
+          { "label": "Rarely", "score": { "fawn": 0 } },
+          { "label": "Sometimes in high-stakes situations", "score": { "fawn": 1 } },
+          { "label": "Often — it feels safer", "score": { "fawn": 2 } },
+          { "label": "Almost always — I don't know what I actually think", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "When someone is angry — even if not at you — you feel:",
+        "options": [
+          { "label": "Alert but not destabilized", "score": { "fawn": 0 } },
+          { "label": "Uncomfortable and want to leave", "score": { "fawn": 1 } },
+          { "label": "Compelled to intervene and calm things down", "score": { "fawn": 2 } },
+          { "label": "Terrified and immediately try to appease", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Your sense of your own needs and preferences is:",
+        "options": [
+          { "label": "Clear and accessible", "score": { "fawn": 0 } },
+          { "label": "Generally clear but sometimes hard to prioritize", "score": { "fawn": 1 } },
+          { "label": "Often unclear — you're not sure what you want", "score": { "fawn": 2 } },
+          { "label": "Very unclear — other people's needs always come first", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "After spending time with others, you often feel:",
+        "options": [
+          { "label": "Energized or neutral", "score": { "fawn": 0 } },
+          { "label": "Tired but okay", "score": { "fawn": 1 } },
+          { "label": "Drained — like you gave too much", "score": { "fawn": 2 } },
+          { "label": "Empty and resentful — you performed the whole time", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "When you receive criticism, even constructive feedback, you:",
+        "options": [
+          { "label": "Can hear it and consider it", "score": { "fawn": 0 } },
+          { "label": "Feel stung but recover", "score": { "fawn": 1 } },
+          { "label": "Feel deeply ashamed and want to fix it immediately", "score": { "fawn": 2 } },
+          { "label": "Spiral into self-blame and over-apologizing", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Do you find yourself monitoring other people's moods and adjusting your behavior accordingly?",
+        "options": [
+          { "label": "Occasionally, as a normal social skill", "score": { "fawn": 0 } },
+          { "label": "Sometimes, especially with certain people", "score": { "fawn": 1 } },
+          { "label": "Often — you're always reading the room", "score": { "fawn": 2 } },
+          { "label": "Constantly — it's exhausting but automatic", "score": { "fawn": 3 } }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "The idea of someone being disappointed in you feels:",
+        "options": [
+          { "label": "Unfortunate but manageable", "score": { "fawn": 0 } },
+          { "label": "Uncomfortable but not catastrophic", "score": { "fawn": 1 } },
+          { "label": "Very distressing — you work hard to avoid it", "score": { "fawn": 2 } },
+          { "label": "Intolerable — like a threat to your safety", "score": { "fawn": 3 } }
+        ]
+      }
+    ],
+    "results": {
+      "low": {
+        "label": "Minimal Fawn Patterns",
+        "range": [0, 10],
+        "color": "#2E8B6E",
+        "emoji": "🌱",
+        "headline": "People-pleasing doesn't appear to be a dominant pattern for you.",
+        "body": "Your responses suggest you have a relatively healthy relationship with your own needs and boundaries. You can generally say no, hold your position in conflict, and tolerate others' disappointment without it destabilizing you. This is a real resource. It doesn't mean you never accommodate others — it means you do so from choice rather than fear.",
+        "practices": ["Continue building self-awareness", "Notice any situations where fawn patterns do emerge", "Celebrate your capacity for healthy boundaries"],
+        "related_article": "the-fawn-response-people-pleasing-as-a-trauma-survival-strategy"
+      },
+      "moderate": {
+        "label": "Moderate Fawn Patterns",
+        "range": [11, 20],
+        "color": "#C4713A",
+        "emoji": "🌊",
+        "headline": "People-pleasing is present — and it's worth exploring where it comes from.",
+        "body": "Your responses suggest moderate fawn patterns. You have some capacity to hold your own needs, but there are situations where the pull to appease, agree, or smooth things over overrides your own truth. This is very common, especially for people who grew up in environments where expressing needs felt dangerous. The fawn response was smart once. The work is learning that you don't need it anymore — that your safety doesn't depend on other people's approval.",
+        "practices": ["Practice small acts of boundary-setting", "Notice the physical sensation of fawn activation", "Explore the early origins of this pattern", "Work with a therapist on parts work or IFS"],
+        "related_article": "the-fawn-response-people-pleasing-as-a-trauma-survival-strategy"
+      },
+      "high": {
+        "label": "Strong Fawn Patterns",
+        "range": [21, 30],
+        "color": "#6B46C1",
+        "emoji": "🌑",
+        "headline": "People-pleasing appears to be a central organizing strategy for you — and it's costing you.",
+        "body": "Your responses suggest strong fawn patterns. The fawn response is running your show — monitoring others' moods, suppressing your own needs, agreeing when you don't agree, and treating others' approval as a survival requirement. This is exhausting. And it makes sense. Somewhere along the way, your nervous system learned that keeping others happy was the safest strategy. That was probably true then. It's not true now. But your body doesn't know that yet. This is exactly the kind of pattern that somatic and parts-based work can address.",
+        "practices": ["Find a trauma-informed therapist (IFS, somatic, or EMDR)", "Start noticing — not changing — the fawn activation first", "Practice the pause: one breath before responding to requests", "Read about fawn response and attachment trauma"],
+        "related_article": "the-fawn-response-people-pleasing-as-a-trauma-survival-strategy"
+      }
+    }
+  },
+  {
+    "id": "somatic-readiness",
+    "slug": "somatic-readiness",
+    "title": "Are You Ready to Start Somatic Healing Work?",
+    "description": "Assess your current readiness for body-based trauma work — including your stability, resources, and what kind of support would serve you best right now.",
+    "icon": "🌱",
+    "time_minutes": 5,
+    "question_count": 10,
+    "category": "somatic-healing",
+    "related_article": "how-to-find-a-somatic-therapist-what-to-look-for-and-what-to-ask",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Your current life circumstances are:",
+        "options": [
+          { "label": "Relatively stable — no major active crises", "score": { "readiness": 3 } },
+          { "label": "Manageable — some stress but functional", "score": { "readiness": 2 } },
+          { "label": "Quite stressful — multiple demands", "score": { "readiness": 1 } },
+          { "label": "In crisis or highly destabilized", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "You have at least one person in your life you can genuinely rely on for support:",
+        "options": [
+          { "label": "Yes, several people", "score": { "readiness": 3 } },
+          { "label": "Yes, one or two", "score": { "readiness": 2 } },
+          { "label": "Maybe one, but it's complicated", "score": { "readiness": 1 } },
+          { "label": "Not really", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Your relationship with your body right now is:",
+        "options": [
+          { "label": "Curious and willing to explore", "score": { "readiness": 3 } },
+          { "label": "Cautious but open", "score": { "readiness": 2 } },
+          { "label": "Uncomfortable — you'd rather not focus on it", "score": { "readiness": 1 } },
+          { "label": "Actively hostile or terrifying", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "You have some capacity to tolerate uncomfortable sensations without immediately needing to escape them:",
+        "options": [
+          { "label": "Yes, reasonably well", "score": { "readiness": 3 } },
+          { "label": "Sometimes, with effort", "score": { "readiness": 2 } },
+          { "label": "Rarely — discomfort feels overwhelming", "score": { "readiness": 1 } },
+          { "label": "No — any discomfort triggers panic or shutdown", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "You have access to at least one thing that reliably helps you feel calmer or safer:",
+        "options": [
+          { "label": "Yes, several reliable resources", "score": { "readiness": 3 } },
+          { "label": "Yes, one or two things", "score": { "readiness": 2 } },
+          { "label": "Uncertain — things that used to help don't always work", "score": { "readiness": 1 } },
+          { "label": "No — nothing feels reliably calming", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Your motivation for doing somatic work is:",
+        "options": [
+          { "label": "Genuine curiosity and desire to heal", "score": { "readiness": 3 } },
+          { "label": "Real but mixed with fear", "score": { "readiness": 2 } },
+          { "label": "Mostly external pressure (someone else thinks I should)", "score": { "readiness": 1 } },
+          { "label": "I'm not sure I want to do this", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "You can generally function in daily life — work, relationships, basic self-care:",
+        "options": [
+          { "label": "Yes, fairly well", "score": { "readiness": 3 } },
+          { "label": "With effort and some support", "score": { "readiness": 2 } },
+          { "label": "Struggling significantly in one or more areas", "score": { "readiness": 1 } },
+          { "label": "Basic functioning is very difficult right now", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "You have some understanding of what somatic therapy involves:",
+        "options": [
+          { "label": "Yes, I've researched it and understand the basics", "score": { "readiness": 3 } },
+          { "label": "Some understanding", "score": { "readiness": 2 } },
+          { "label": "Very little — I'm mostly going on instinct", "score": { "readiness": 1 } },
+          { "label": "No idea — I just know I need help", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "You're willing to go slowly — to prioritize safety over speed in your healing:",
+        "options": [
+          { "label": "Yes, I understand why that matters", "score": { "readiness": 3 } },
+          { "label": "Mostly, though I want results", "score": { "readiness": 2 } },
+          { "label": "It's hard — I want to be done with this", "score": { "readiness": 1 } },
+          { "label": "No — I need this to be over fast", "score": { "readiness": 0 } }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "You have some financial or practical access to therapeutic support:",
+        "options": [
+          { "label": "Yes, I can access therapy", "score": { "readiness": 3 } },
+          { "label": "Limited but possible", "score": { "readiness": 2 } },
+          { "label": "Very limited — I'd need low-cost options", "score": { "readiness": 1 } },
+          { "label": "Not currently accessible to me", "score": { "readiness": 0 } }
+        ]
+      }
+    ],
+    "results": {
+      "ready": {
+        "label": "Ready to Begin",
+        "range": [22, 30],
+        "color": "#2E8B6E",
+        "emoji": "🌿",
+        "headline": "You have a strong foundation for somatic healing work.",
+        "body": "Your responses suggest you're in a good position to begin or deepen somatic healing work. You have stability, some resources, motivation, and a willingness to go slowly. These are the real prerequisites — not having everything figured out, but having enough ground under your feet to do the work safely. The next step is finding the right practitioner and approach for your specific needs.",
+        "practices": ["Research somatic therapists in your area", "Start with a consultation to find the right fit", "Begin building daily somatic practices now", "Read foundational books on somatic healing"],
+        "related_article": "how-to-find-a-somatic-therapist-what-to-look-for-and-what-to-ask"
+      },
+      "building": {
+        "label": "Building Readiness",
+        "range": [12, 21],
+        "color": "#C4713A",
+        "emoji": "🌱",
+        "headline": "You're on your way — with some foundations still to build.",
+        "body": "Your responses suggest you have some readiness for somatic work, but there are areas where more foundation-building would help. This isn't a reason to wait indefinitely — it's a reason to be thoughtful about where you start. Self-directed practices, psychoeducation, and building your support network are all valuable first steps. A skilled somatic therapist can also help you build the foundations you need as part of the work itself.",
+        "practices": ["Focus on stabilization and resourcing first", "Build your support network", "Start with gentle self-directed somatic practices", "Consider a therapist who specializes in stabilization"],
+        "related_article": "how-to-find-a-somatic-therapist-what-to-look-for-and-what-to-ask"
+      },
+      "stabilize": {
+        "label": "Stabilize First",
+        "range": [0, 11],
+        "color": "#6B46C1",
+        "emoji": "🌑",
+        "headline": "Right now, stabilization is more important than trauma processing.",
+        "body": "Your responses suggest that before diving into trauma processing work, the priority is stabilization. This means building safety, resources, and daily functioning. This is not a failure — it's wisdom. Trying to process trauma when your foundation is unstable often makes things worse, not better. The most important thing you can do right now is get support for your current level of distress, build one or two reliable calming strategies, and reduce unnecessary stressors where possible.",
+        "practices": ["Seek crisis support if needed", "Focus on basic safety and daily functioning", "Build one reliable calming practice", "Consider a therapist focused on stabilization, not processing"],
+        "related_article": "how-to-find-a-somatic-therapist-what-to-look-for-and-what-to-ask"
+      }
+    }
+  }
+]
