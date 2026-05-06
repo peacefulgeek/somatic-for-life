@@ -71,7 +71,7 @@ async function jsonFallback(sql, params) {
     let rows = [...articles];
 
     if (s.includes("status = 'published'") || params.includes('published')) {
-      rows = rows.filter(a => a.status === 'published');
+      rows = rows.filter(a => a.status === 'published' || a.published === true);
     }
     if (s.includes('slug =') || s.includes('slug=$')) {
       const slugParam = params.find(p => typeof p === 'string' && p.includes('-'));
@@ -106,7 +106,7 @@ async function jsonFallback(sql, params) {
 
   if (s.startsWith('select') && s.includes('count(*)') && s.includes('from articles')) {
     const articles = await readJson(ARTICLES_FILE);
-    const published = articles.filter(a => a.status === 'published');
+    const published = articles.filter(a => a.status === 'published' || a.published === true);
     return { rows: [{ count: String(published.length) }] };
   }
 
@@ -114,7 +114,7 @@ async function jsonFallback(sql, params) {
     const articles = await readJson(ARTICLES_FILE);
     const counts = {};
     for (const a of articles) {
-      if (a.status === 'published') counts[a.category] = (counts[a.category] || 0) + 1;
+      if (a.status === 'published' || a.published === true) counts[a.category] = (counts[a.category] || 0) + 1;
     }
     return { rows: Object.entries(counts).map(([category, count]) => ({ category, count: String(count) })) };
   }
@@ -185,7 +185,7 @@ export async function getArticles({ page = 1, limit = 12, category = '', search 
 
   // JSON fallback
   const all = await readJson(ARTICLES_FILE);
-  let filtered = all.filter(a => a.status === 'published');
+  let filtered = all.filter(a => a.status === 'published' || a.published === true);
   if (category) filtered = filtered.filter(a => a.category === category);
   if (search) {
     const q = search.toLowerCase();
@@ -208,7 +208,7 @@ export async function getArticleBySlug(slug) {
     return rows[0] || null;
   }
   const all = await readJson(ARTICLES_FILE);
-  return all.find(a => a.slug === slug && a.status === 'published') || null;
+  return all.find(a => a.slug === slug && (a.status === 'published' || a.published === true)) || null;
 }
 
 export async function getRelatedArticles(slug, category, limit = 4) {
@@ -223,7 +223,7 @@ export async function getRelatedArticles(slug, category, limit = 4) {
     return rows;
   }
   const all = await readJson(ARTICLES_FILE);
-  return all.filter(a => a.status === 'published' && a.slug !== slug && a.category === category).slice(0, limit);
+  return all.filter(a => (a.status === 'published' || a.published === true) && a.slug !== slug && a.category === category).slice(0, limit);
 }
 
 export async function getCategoryCounts() {
@@ -237,7 +237,7 @@ export async function getCategoryCounts() {
   const all = await readJson(ARTICLES_FILE);
   const counts = {};
   for (const a of all) {
-    if (a.status === 'published') counts[a.category] = (counts[a.category] || 0) + 1;
+    if (a.status === 'published' || a.published === true) counts[a.category] = (counts[a.category] || 0) + 1;
   }
   return Object.entries(counts).map(([category, count]) => ({ category, count })).sort((a, b) => b.count - a.count);
 }
@@ -253,7 +253,7 @@ export async function getFeaturedArticles(limit = 6) {
     return rows;
   }
   const all = await readJson(ARTICLES_FILE);
-  return all.filter(a => a.status === 'published').sort((a, b) => new Date(b.published_at || 0) - new Date(a.published_at || 0)).slice(0, limit);
+  return all.filter(a => a.status === 'published' || a.published === true).sort((a, b) => new Date(b.published_at || 0) - new Date(a.published_at || 0)).slice(0, limit);
 }
 
 export async function saveArticle(article) {
