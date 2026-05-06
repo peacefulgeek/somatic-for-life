@@ -1,9 +1,9 @@
-name: the-body-remembers
+name: somatic-for-life
 region: nyc
 services:
   - name: web
     github:
-      repo: OWNER/the-body-remembers
+      repo: OWNER/somatic-for-life
       branch: main
       deploy_on_push: true
     build_command: pnpm install --frozen-lockfile && pnpm build

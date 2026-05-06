@@ -1,5 +1,5 @@
 /**
- * Article Quality Gate for The Body Remembers.
+ * Article Quality Gate for Somatic For Life.
  * Every generated article must pass ALL checks before storage.
  * Failed gate = REGENERATE, not skip.
  */

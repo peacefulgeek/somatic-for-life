@@ -108,7 +108,7 @@ export function AssessmentPage() {
       })
       .then(data => {
         setAssessment(data);
-        document.title = `${data.title} | The Body Remembers`;
+        document.title = `${data.title} | Somatic For Life`;
         setLoading(false);
       })
       .catch(() => {

@@ -72,7 +72,7 @@ export function ArticlePage() {
         setLoading(false);
         // Update document title
         if (data.article?.title) {
-          document.title = `${data.article.title} | The Body Remembers`;
+          document.title = `${data.article.title} | Somatic For Life`;
         }
       })
       .catch(() => {

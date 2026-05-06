@@ -1,0 +1,3485 @@
+{
+  "categories": [
+    {
+      "id": "adaptogens",
+      "label": "Adaptogens",
+      "description": "Herbs that help the body adapt to stress and support nervous system resilience",
+      "icon": "🌿"
+    },
+    {
+      "id": "nervines",
+      "label": "Nervines & Calming Herbs",
+      "description": "Herbs that directly support and calm the nervous system",
+      "icon": "🧘"
+    },
+    {
+      "id": "tcm",
+      "label": "Traditional Chinese Medicine",
+      "description": "TCM herbs and formulas for emotional balance and nervous system support",
+      "icon": "☯️"
+    },
+    {
+      "id": "ayurvedic",
+      "label": "Ayurvedic Herbs",
+      "description": "Ayurvedic herbs for nervous system support and emotional balance",
+      "icon": "🪷"
+    },
+    {
+      "id": "supplements",
+      "label": "Supplements & Nutrients",
+      "description": "Evidence-based supplements for nervous system and trauma recovery support",
+      "icon": "💊"
+    },
+    {
+      "id": "books",
+      "label": "Books & Resources",
+      "description": "Essential reading for somatic healing and trauma recovery",
+      "icon": "📚"
+    },
+    {
+      "id": "tools",
+      "label": "Somatic Tools & Devices",
+      "description": "Physical tools that support nervous system regulation",
+      "icon": "🛠️"
+    }
+  ],
+  "items": [
+    {
+      "id": "ashwagandha-ksm66",
+      "name": "Ashwagandha (KSM-66)",
+      "category": "adaptogens",
+      "asin": "B00FMQKVS4",
+      "tag": "spankyspinola-20",
+      "description": "The most studied adaptogen for cortisol reduction and nervous system resilience. KSM-66 is the highest-concentration full-spectrum ashwagandha extract, with 21 clinical trials showing significant reductions in stress, anxiety, and cortisol.",
+      "benefits": [
+        "Reduces cortisol by up to 28%",
+        "Improves stress resilience",
+        "Supports sleep quality",
+        "Reduces anxiety symptoms"
+      ],
+      "dosage": "300-600mg daily of KSM-66 extract",
+      "cautions": "Avoid in thyroid conditions; may interact with thyroid medications",
+      "evidence": "strong",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "rhodiola-rosea",
+      "name": "Rhodiola Rosea",
+      "category": "adaptogens",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A Siberian adaptogen with strong evidence for reducing burnout, fatigue, and stress-related cognitive impairment. Particularly effective for the sympathetic dominant nervous system.",
+      "benefits": [
+        "Reduces burnout and exhaustion",
+        "Improves stress resilience",
+        "Enhances mental clarity under stress",
+        "Supports mood"
+      ],
+      "dosage": "200-400mg daily of 3% rosavins / 1% salidroside extract",
+      "cautions": "Can be stimulating — take in the morning; avoid if bipolar",
+      "evidence": "strong",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "holy-basil-tulsi",
+      "name": "Holy Basil (Tulsi)",
+      "category": "adaptogens",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Sacred in Ayurveda, tulsi is a gentle adaptogen with anxiolytic and antidepressant properties. Particularly good for those with anxiety mixed with depression.",
+      "benefits": [
+        "Reduces anxiety and depression",
+        "Supports cortisol balance",
+        "Anti-inflammatory",
+        "Gentle and well-tolerated"
+      ],
+      "dosage": "300-600mg extract daily, or 1-2 cups of tulsi tea",
+      "cautions": "Generally very safe; may slow blood clotting",
+      "evidence": "moderate",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "eleuthero",
+      "name": "Eleuthero (Siberian Ginseng)",
+      "category": "adaptogens",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "One of the original adaptogens, studied extensively by Soviet scientists for stress resilience and performance under pressure. Gentle and well-tolerated.",
+      "benefits": [
+        "Improves stress resilience",
+        "Supports immune function",
+        "Reduces fatigue",
+        "Enhances mental performance"
+      ],
+      "dosage": "300-1200mg daily",
+      "cautions": "Avoid with high blood pressure; may interact with blood thinners",
+      "evidence": "moderate",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "schisandra",
+      "name": "Schisandra Berry",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A TCM adaptogen that supports liver function, stress resilience, and mental clarity. Known as the 'five-flavor berry' for its complex taste and broad therapeutic effects.",
+      "benefits": [
+        "Liver support and detoxification",
+        "Stress resilience",
+        "Mental clarity",
+        "Adrenal support"
+      ],
+      "dosage": "500-2000mg daily",
+      "cautions": "May interact with some medications metabolized by the liver",
+      "evidence": "moderate",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "lions-mane",
+      "name": "Lion's Mane Mushroom",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A medicinal mushroom with unique nerve growth factor (NGF) stimulating properties. Supports neuroplasticity, cognitive function, and has shown promise for anxiety and depression.",
+      "benefits": [
+        "Stimulates nerve growth factor",
+        "Supports neuroplasticity",
+        "Reduces anxiety and depression",
+        "Improves cognitive function"
+      ],
+      "dosage": "500-3000mg daily of fruiting body extract",
+      "cautions": "Generally very safe; rare allergic reactions",
+      "evidence": "moderate",
+      "related_article": "neuroplasticity-and-trauma-how-the-brain-can-heal"
+    },
+    {
+      "id": "reishi-mushroom",
+      "name": "Reishi Mushroom",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "The 'mushroom of immortality' in TCM, reishi supports immune function, reduces stress, and promotes deep sleep. Particularly helpful for those with chronic stress and sleep disruption.",
+      "benefits": [
+        "Supports deep sleep",
+        "Immune modulation",
+        "Reduces stress and anxiety",
+        "Anti-inflammatory"
+      ],
+      "dosage": "1000-3000mg daily of fruiting body extract",
+      "cautions": "May thin blood; avoid before surgery",
+      "evidence": "moderate",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "passionflower",
+      "name": "Passionflower",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "One of the most effective nervine herbs for anxiety and sleep. Works on GABA receptors similarly to benzodiazepines but without the addiction risk. Particularly effective for anxiety with racing thoughts.",
+      "benefits": [
+        "Reduces anxiety",
+        "Improves sleep quality",
+        "Calms racing thoughts",
+        "Muscle relaxant"
+      ],
+      "dosage": "250-500mg extract, or 1-2 cups of tea before bed",
+      "cautions": "May potentiate sedatives; avoid during pregnancy",
+      "evidence": "strong",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "valerian-root",
+      "name": "Valerian Root",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A classic nervine and sleep herb with evidence for reducing anxiety and improving sleep quality. Works best taken consistently over 2-4 weeks.",
+      "benefits": [
+        "Improves sleep quality",
+        "Reduces anxiety",
+        "Muscle relaxant",
+        "Reduces restlessness"
+      ],
+      "dosage": "300-600mg extract 1-2 hours before bed",
+      "cautions": "May cause vivid dreams; avoid with alcohol and sedatives",
+      "evidence": "strong",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "lemon-balm",
+      "name": "Lemon Balm",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A gentle, pleasant nervine herb that reduces anxiety and improves mood. Combines beautifully with passionflower and valerian for sleep support.",
+      "benefits": [
+        "Reduces anxiety",
+        "Improves mood",
+        "Supports sleep",
+        "Antiviral properties"
+      ],
+      "dosage": "300-600mg extract, or 2-3 cups of tea daily",
+      "cautions": "Very safe; may reduce thyroid hormone synthesis in high doses",
+      "evidence": "moderate",
+      "related_article": "breathwork-for-nervous-system-regulation"
+    },
+    {
+      "id": "kava-kava",
+      "name": "Kava Kava",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A traditional Pacific Islander herb with strong evidence for anxiety reduction. Works on GABA receptors. Use noble kava varieties only and cycle usage.",
+      "benefits": [
+        "Significant anxiety reduction",
+        "Muscle relaxation",
+        "Promotes calm without sedation",
+        "Social anxiety support"
+      ],
+      "dosage": "70-250mg kavalactones daily; cycle 3 weeks on, 1 week off",
+      "cautions": "Use only noble kava; avoid with alcohol and liver conditions; cycle usage",
+      "evidence": "strong",
+      "related_article": "anxiety-and-the-nervous-system-what-your-anxiety-is-actually-telling-you"
+    },
+    {
+      "id": "skullcap",
+      "name": "Skullcap",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A North American nervine herb that calms nervous system overactivation, reduces anxiety, and supports sleep. Particularly effective for nervous tension and muscle spasm.",
+      "benefits": [
+        "Calms nervous tension",
+        "Reduces anxiety",
+        "Supports sleep",
+        "Antispasmodic"
+      ],
+      "dosage": "350-500mg extract, or 1-2 cups of tea",
+      "cautions": "Generally very safe; ensure quality source (adulteration is common)",
+      "evidence": "moderate",
+      "related_article": "hypervigilance-after-trauma-why-you-cant-stop-scanning"
+    },
+    {
+      "id": "california-poppy",
+      "name": "California Poppy",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A gentle, non-addictive nervine related to the opium poppy but without any narcotic effects. Excellent for anxiety, pain, and sleep.",
+      "benefits": [
+        "Reduces anxiety",
+        "Mild pain relief",
+        "Supports sleep",
+        "Non-addictive"
+      ],
+      "dosage": "1-2ml tincture, or 1-2 cups of tea",
+      "cautions": "Very safe; avoid during pregnancy",
+      "evidence": "traditional",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "motherwort",
+      "name": "Motherwort",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A bitter nervine herb particularly effective for heart palpitations, anxiety, and the physical symptoms of stress. Especially helpful for those who carry anxiety in the chest.",
+      "benefits": [
+        "Reduces heart palpitations",
+        "Calms anxiety",
+        "Supports uterine health",
+        "Bitter digestive tonic"
+      ],
+      "dosage": "1-2ml tincture, or 1 cup of tea",
+      "cautions": "Avoid during pregnancy; may interact with heart medications",
+      "evidence": "traditional",
+      "related_article": "anxiety-and-the-nervous-system-what-your-anxiety-is-actually-telling-you"
+    },
+    {
+      "id": "an-shen-bu-xin",
+      "name": "An Shen Bu Xin Wan",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A classical TCM formula for 'calming the spirit and nourishing the heart.' Used for anxiety, insomnia, palpitations, and emotional instability from a TCM perspective of Heart Yin deficiency.",
+      "benefits": [
+        "Calms anxiety and restlessness",
+        "Improves sleep",
+        "Reduces palpitations",
+        "Nourishes Heart Yin"
+      ],
+      "dosage": "8 pills 3x daily, or as directed",
+      "cautions": "Consult a TCM practitioner for proper diagnosis and dosing",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "xiao-yao-wan",
+      "name": "Xiao Yao Wan (Free and Easy Wanderer)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "One of the most widely used TCM formulas for emotional health. Addresses Liver Qi stagnation — the TCM pattern associated with stress, frustration, depression, and PMS.",
+      "benefits": [
+        "Relieves Liver Qi stagnation",
+        "Reduces stress and frustration",
+        "Supports menstrual health",
+        "Improves mood"
+      ],
+      "dosage": "8 pills 3x daily, or as directed",
+      "cautions": "Consult a TCM practitioner; not for use during pregnancy",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "gui-pi-wan",
+      "name": "Gui Pi Wan (Restore the Spleen)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM formula for anxiety, worry, insomnia, and fatigue from overthinking. Addresses Heart and Spleen deficiency — the pattern of exhaustion from chronic worry and emotional depletion.",
+      "benefits": [
+        "Reduces worry and overthinking",
+        "Improves sleep",
+        "Addresses fatigue from emotional depletion",
+        "Supports digestion"
+      ],
+      "dosage": "8 pills 3x daily, or as directed",
+      "cautions": "Consult a TCM practitioner for proper diagnosis",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "tian-wang-bu-xin-dan",
+      "name": "Tian Wang Bu Xin Dan",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM formula for insomnia, anxiety, and mental restlessness from Heart and Kidney Yin deficiency. Particularly effective for those who wake at night with racing thoughts.",
+      "benefits": [
+        "Improves sleep quality",
+        "Reduces night waking",
+        "Calms mental restlessness",
+        "Nourishes Yin"
+      ],
+      "dosage": "8 pills 3x daily, or as directed",
+      "cautions": "Consult a TCM practitioner; contains herbs that may interact with medications",
+      "evidence": "traditional",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "bai-zi-yang-xin-wan",
+      "name": "Bai Zi Yang Xin Wan",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM formula for nourishing the Heart and calming the spirit. Used for palpitations, anxiety, and emotional instability.",
+      "benefits": [
+        "Nourishes Heart Blood",
+        "Calms palpitations",
+        "Reduces anxiety",
+        "Supports emotional stability"
+      ],
+      "dosage": "8 pills 3x daily, or as directed",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "jia-wei-xiao-yao-wan",
+      "name": "Jia Wei Xiao Yao Wan",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An enhanced version of Xiao Yao Wan with added herbs for heat from stagnation. Particularly effective for anxiety with irritability, hot flashes, and emotional volatility.",
+      "benefits": [
+        "Relieves Liver Qi stagnation with heat",
+        "Reduces irritability",
+        "Supports menopause symptoms",
+        "Improves mood"
+      ],
+      "dosage": "8 pills 3x daily, or as directed",
+      "cautions": "Consult a TCM practitioner; not for use during pregnancy",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "long-dan-xie-gan-wan",
+      "name": "Long Dan Xie Gan Wan",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM formula for clearing Liver and Gallbladder heat. Used for acute anxiety, rage, headaches, and urinary tract issues from excess heat.",
+      "benefits": [
+        "Clears Liver heat",
+        "Reduces acute anxiety and irritability",
+        "Supports urinary health",
+        "Reduces headaches"
+      ],
+      "dosage": "8 pills 3x daily for short-term use only",
+      "cautions": "Short-term use only; consult a TCM practitioner; contains gentian which can be harsh long-term",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "suan-zao-ren-tang",
+      "name": "Suan Zao Ren Tang",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A classical TCM formula for insomnia from Liver Blood deficiency and Heart Yin deficiency. One of the most used formulas for sleep in TCM practice.",
+      "benefits": [
+        "Improves sleep",
+        "Reduces night sweats",
+        "Calms restlessness",
+        "Nourishes Liver Blood"
+      ],
+      "dosage": "8 pills 3x daily, or as directed",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "ashwagandha-ayurvedic",
+      "name": "Ashwagandha (Ayurvedic Grade)",
+      "category": "ayurvedic",
+      "asin": "B00FMQKVS4",
+      "tag": "spankyspinola-20",
+      "description": "In Ayurveda, ashwagandha is a Rasayana — a rejuvenating herb for the nervous system and vital essence. Traditional preparations use the root in warm milk (golden milk) for optimal absorption.",
+      "benefits": [
+        "Nervous system rejuvenation",
+        "Builds Ojas (vital essence)",
+        "Reduces Vata imbalance",
+        "Supports sleep and recovery"
+      ],
+      "dosage": "1/2 tsp powder in warm milk with ghee and honey, or 300-600mg extract",
+      "cautions": "Avoid in thyroid conditions; warming herb — may increase Pitta",
+      "evidence": "strong",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "brahmi-bacopa",
+      "name": "Brahmi / Bacopa Monnieri",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A premier Ayurvedic brain tonic with strong evidence for cognitive function, anxiety reduction, and neuroprotection. Particularly effective for stress-related cognitive impairment.",
+      "benefits": [
+        "Improves memory and learning",
+        "Reduces anxiety",
+        "Neuroprotective",
+        "Supports cognitive function under stress"
+      ],
+      "dosage": "300-600mg of 50% bacosides extract daily",
+      "cautions": "Takes 4-6 weeks for full effect; may cause digestive upset if taken without food",
+      "evidence": "strong",
+      "related_article": "neuroplasticity-and-trauma-how-the-brain-can-heal"
+    },
+    {
+      "id": "shatavari",
+      "name": "Shatavari",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The premier Ayurvedic herb for female reproductive health and emotional nourishment. Deeply nourishing for the nervous system, particularly for those who feel depleted, dried out, or emotionally exhausted.",
+      "benefits": [
+        "Nourishes the nervous system",
+        "Supports hormonal balance",
+        "Deeply moistening and nourishing",
+        "Reduces anxiety and irritability"
+      ],
+      "dosage": "500-1000mg daily, or 1/2 tsp powder in warm milk",
+      "cautions": "Avoid in estrogen-sensitive conditions",
+      "evidence": "moderate",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "jatamansi",
+      "name": "Jatamansi (Spikenard)",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A sacred Ayurvedic herb for the nervous system, used for anxiety, insomnia, and emotional trauma. Works on the mind and heart to bring deep calm and clarity.",
+      "benefits": [
+        "Deep nervous system calming",
+        "Improves sleep",
+        "Reduces anxiety",
+        "Supports emotional processing"
+      ],
+      "dosage": "250-500mg extract daily",
+      "cautions": "Avoid during pregnancy; may potentiate sedatives",
+      "evidence": "traditional",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "shankhpushpi",
+      "name": "Shankhpushpi",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An Ayurvedic herb for memory, intelligence, and nervous system support. Used for anxiety, insomnia, and stress-related cognitive decline.",
+      "benefits": [
+        "Supports memory and cognition",
+        "Reduces anxiety",
+        "Improves sleep",
+        "Neuroprotective"
+      ],
+      "dosage": "250-500mg extract daily",
+      "cautions": "Generally safe; consult an Ayurvedic practitioner for dosing",
+      "evidence": "traditional",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "magnesium-glycinate",
+      "name": "Magnesium Glycinate",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The most bioavailable form of magnesium for nervous system support. Magnesium deficiency is extremely common and directly linked to anxiety, insomnia, muscle tension, and hyperreactivity. This is often the single most impactful supplement for nervous system support.",
+      "benefits": [
+        "Reduces anxiety and hyperreactivity",
+        "Improves sleep quality",
+        "Releases muscle tension",
+        "Supports GABA function"
+      ],
+      "dosage": "200-400mg glycinate form before bed",
+      "cautions": "Very safe; may cause loose stools at high doses — reduce dose if so",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "l-theanine",
+      "name": "L-Theanine",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An amino acid from green tea that promotes calm alertness without sedation. Increases alpha brain waves and GABA. One of the best supplements for anxiety without drowsiness.",
+      "benefits": [
+        "Promotes calm without sedation",
+        "Reduces anxiety",
+        "Improves focus",
+        "Enhances sleep quality"
+      ],
+      "dosage": "100-400mg daily; can be taken as needed",
+      "cautions": "Very safe; may lower blood pressure",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "gaba-supplement",
+      "name": "GABA (Gamma-Aminobutyric Acid)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The primary inhibitory neurotransmitter of the nervous system. Supplemental GABA has shown some evidence for reducing anxiety and improving sleep, though absorption across the blood-brain barrier is debated.",
+      "benefits": [
+        "May reduce anxiety",
+        "Supports sleep",
+        "Calms nervous system overactivation"
+      ],
+      "dosage": "500-750mg before bed or as needed",
+      "cautions": "Generally safe; evidence for crossing blood-brain barrier is mixed",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "omega-3-fish-oil",
+      "name": "Omega-3 Fish Oil (High EPA)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "High-EPA omega-3 fatty acids have strong evidence for reducing inflammation, supporting mood, and reducing anxiety. EPA is particularly important for emotional regulation and trauma recovery.",
+      "benefits": [
+        "Reduces neuroinflammation",
+        "Supports mood and emotional regulation",
+        "Reduces anxiety",
+        "Neuroprotective"
+      ],
+      "dosage": "1-3g EPA+DHA daily, with at least 60% EPA",
+      "cautions": "May thin blood; use high-quality, tested brands to avoid heavy metals",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "vitamin-d3-k2",
+      "name": "Vitamin D3 + K2",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Vitamin D deficiency is extremely common and strongly linked to depression, anxiety, and immune dysfunction. K2 is essential for directing calcium to bones rather than arteries.",
+      "benefits": [
+        "Supports mood and reduces depression",
+        "Immune support",
+        "Bone health",
+        "Reduces inflammation"
+      ],
+      "dosage": "2000-5000 IU D3 with 100-200mcg K2 daily",
+      "cautions": "Test levels before supplementing; excess D3 can be toxic",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "b-complex",
+      "name": "B-Complex (Methylated)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "B vitamins are essential cofactors for neurotransmitter synthesis. Methylated forms (methylfolate, methylcobalamin) are important for those with MTHFR variants, which are common in trauma survivors.",
+      "benefits": [
+        "Supports neurotransmitter synthesis",
+        "Reduces stress response",
+        "Supports methylation",
+        "Energy production"
+      ],
+      "dosage": "1 methylated B-complex daily with food",
+      "cautions": "Use methylated forms; high B6 can cause neuropathy at very high doses",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "zinc-bisglycinate",
+      "name": "Zinc Bisglycinate",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Zinc is essential for GABA function, immune health, and wound healing. Deficiency is linked to anxiety, depression, and immune dysfunction. Bisglycinate is the most bioavailable form.",
+      "benefits": [
+        "Supports GABA function",
+        "Immune support",
+        "Reduces anxiety",
+        "Wound healing"
+      ],
+      "dosage": "15-30mg daily with food",
+      "cautions": "Take with food to avoid nausea; balance with copper; don't exceed 40mg/day",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "phosphatidylserine",
+      "name": "Phosphatidylserine",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A phospholipid that supports cortisol regulation and cognitive function. Particularly effective for those with HPA axis dysregulation and cortisol excess.",
+      "benefits": [
+        "Reduces cortisol",
+        "Supports cognitive function",
+        "Improves stress resilience",
+        "Neuroprotective"
+      ],
+      "dosage": "100-300mg daily",
+      "cautions": "Generally safe; may interact with blood thinners",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "5-htp",
+      "name": "5-HTP (5-Hydroxytryptophan)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A direct precursor to serotonin. Has evidence for depression, anxiety, and sleep improvement. Use with caution if on SSRIs.",
+      "benefits": [
+        "Supports serotonin production",
+        "Reduces depression",
+        "Improves sleep",
+        "Reduces anxiety"
+      ],
+      "dosage": "50-200mg daily; start low",
+      "cautions": "DO NOT combine with SSRIs, MAOIs, or triptans — serotonin syndrome risk",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "nac",
+      "name": "N-Acetyl Cysteine (NAC)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A precursor to glutathione, the body's master antioxidant. NAC has emerging evidence for OCD, addiction, PTSD, and reducing neuroinflammation. Particularly useful for compulsive behaviors.",
+      "benefits": [
+        "Reduces neuroinflammation",
+        "Supports glutathione production",
+        "Reduces compulsive behaviors",
+        "Emerging evidence for PTSD"
+      ],
+      "dosage": "600-1800mg daily in divided doses",
+      "cautions": "Generally safe; may interact with nitroglycerin",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "body-keeps-score",
+      "name": "The Body Keeps the Score",
+      "category": "books",
+      "asin": "0143127748",
+      "tag": "spankyspinola-20",
+      "description": "Bessel van der Kolk's landmark book on trauma and the body. The most important book on trauma published in the last 30 years. Essential reading for anyone on a somatic healing journey.",
+      "benefits": [
+        "Foundational understanding of trauma and the body",
+        "Evidence-based approaches to healing",
+        "Explains why talk therapy alone isn't enough",
+        "Accessible science for non-clinicians"
+      ],
+      "author": "Bessel van der Kolk, MD",
+      "year": 2014,
+      "evidence": "foundational",
+      "related_article": "what-is-somatic-therapy-and-how-does-it-actually-work"
+    },
+    {
+      "id": "waking-tiger",
+      "name": "Waking the Tiger: Healing Trauma",
+      "category": "books",
+      "asin": "155643233X",
+      "tag": "spankyspinola-20",
+      "description": "Peter Levine's foundational work on Somatic Experiencing. Explains how animals naturally discharge trauma and how humans can learn to do the same. Accessible and transformative.",
+      "benefits": [
+        "Foundational SE principles",
+        "Explains the freeze response",
+        "Practical exercises",
+        "Accessible for non-clinicians"
+      ],
+      "author": "Peter A. Levine",
+      "year": 1997,
+      "evidence": "foundational",
+      "related_article": "somatic-experiencing-peter-levine-s-approach-to-releasing-stored-trauma"
+    },
+    {
+      "id": "in-unspoken-voice",
+      "name": "In an Unspoken Voice",
+      "category": "books",
+      "asin": "1556439431",
+      "tag": "spankyspinola-20",
+      "description": "Peter Levine's more comprehensive and clinical follow-up to Waking the Tiger. Deeper exploration of SE theory and practice.",
+      "benefits": [
+        "Deeper SE theory",
+        "Clinical applications",
+        "Comprehensive trauma science",
+        "Practical exercises"
+      ],
+      "author": "Peter A. Levine",
+      "year": 2010,
+      "evidence": "foundational",
+      "related_article": "somatic-experiencing-peter-levine-s-approach-to-releasing-stored-trauma"
+    },
+    {
+      "id": "trauma-and-recovery",
+      "name": "Trauma and Recovery",
+      "category": "books",
+      "asin": "0465087302",
+      "tag": "spankyspinola-20",
+      "description": "Judith Herman's classic work on complex trauma. Introduced the concept of complex PTSD and remains one of the most important books on trauma recovery.",
+      "benefits": [
+        "Foundational complex trauma understanding",
+        "Recovery stages framework",
+        "Political and social context of trauma",
+        "Clinical and personal perspectives"
+      ],
+      "author": "Judith Herman, MD",
+      "year": 1992,
+      "evidence": "foundational",
+      "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+    },
+    {
+      "id": "polyvagal-theory-book",
+      "name": "The Polyvagal Theory",
+      "category": "books",
+      "asin": "0393707008",
+      "tag": "spankyspinola-20",
+      "description": "Stephen Porges' original academic text on polyvagal theory. More technical than his later works, but essential for understanding the science.",
+      "benefits": [
+        "Original polyvagal theory",
+        "Comprehensive science",
+        "Clinical applications",
+        "Foundation for understanding nervous system states"
+      ],
+      "author": "Stephen W. Porges",
+      "year": 2011,
+      "evidence": "foundational",
+      "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+    },
+    {
+      "id": "polyvagal-exercises",
+      "name": "Polyvagal Exercises for Safety and Connection",
+      "category": "books",
+      "asin": "0393713865",
+      "tag": "spankyspinola-20",
+      "description": "Deb Dana's practical workbook for applying polyvagal theory in daily life. The most accessible and practical polyvagal book for non-clinicians.",
+      "benefits": [
+        "Practical polyvagal exercises",
+        "Accessible for non-clinicians",
+        "Daily regulation practices",
+        "Understanding your nervous system states"
+      ],
+      "author": "Deb Dana",
+      "year": 2020,
+      "evidence": "applied",
+      "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+    },
+    {
+      "id": "anchored-book",
+      "name": "Anchored: How to Befriend Your Nervous System",
+      "category": "books",
+      "asin": "1683648471",
+      "tag": "spankyspinola-20",
+      "description": "Deb Dana's most accessible book on polyvagal theory. Warm, practical, and deeply helpful for anyone wanting to understand and work with their nervous system.",
+      "benefits": [
+        "Most accessible polyvagal book",
+        "Practical daily exercises",
+        "Warm and compassionate tone",
+        "Understanding nervous system states"
+      ],
+      "author": "Deb Dana",
+      "year": 2021,
+      "evidence": "applied",
+      "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+    },
+    {
+      "id": "complex-ptsd-walker",
+      "name": "Complex PTSD: From Surviving to Thriving",
+      "category": "books",
+      "asin": "1492871842",
+      "tag": "spankyspinola-20",
+      "description": "Pete Walker's essential guide to complex PTSD and the 4F responses (fight, flight, freeze, fawn). Written from lived experience and clinical practice. One of the most practical books on C-PTSD recovery.",
+      "benefits": [
+        "Practical C-PTSD recovery guide",
+        "4F response framework",
+        "Written from lived experience",
+        "Accessible and compassionate"
+      ],
+      "author": "Pete Walker",
+      "year": 2013,
+      "evidence": "applied",
+      "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+    },
+    {
+      "id": "healing-trauma-levine",
+      "name": "Healing Trauma: A Pioneering Program for Restoring the Wisdom of Your Body",
+      "category": "books",
+      "asin": "1591794722",
+      "tag": "spankyspinola-20",
+      "description": "Peter Levine's accessible, practical book with audio exercises for self-directed somatic healing. Excellent starting point for those new to somatic work.",
+      "benefits": [
+        "Practical self-directed exercises",
+        "Audio component included",
+        "Accessible for beginners",
+        "Foundation of SE practice"
+      ],
+      "author": "Peter A. Levine",
+      "year": 2008,
+      "evidence": "applied",
+      "related_article": "somatic-experiencing-peter-levine-s-approach-to-releasing-stored-trauma"
+    },
+    {
+      "id": "when-body-says-no",
+      "name": "When the Body Says No: Exploring the Stress-Disease Connection",
+      "category": "books",
+      "asin": "0470923350",
+      "tag": "spankyspinola-20",
+      "description": "Gabor Maté's exploration of how suppressed emotions and chronic stress lead to physical disease. Essential reading for understanding somatic symptoms.",
+      "benefits": [
+        "Mind-body connection science",
+        "Somatic symptoms explained",
+        "Emotional suppression and disease",
+        "Compassionate and accessible"
+      ],
+      "author": "Gabor Maté, MD",
+      "year": 2003,
+      "evidence": "foundational",
+      "related_article": "chronic-pain-and-trauma-the-connection-your-doctor-may-not-have-told-you"
+    },
+    {
+      "id": "scattered-minds",
+      "name": "Scattered Minds: The Origins and Healing of Attention Deficit Disorder",
+      "category": "books",
+      "asin": "0525559191",
+      "tag": "spankyspinola-20",
+      "description": "Gabor Maté's compassionate reframe of ADHD as a trauma response rather than a genetic disorder. Transformative for those who have been labeled with ADHD.",
+      "benefits": [
+        "ADHD as trauma response",
+        "Compassionate reframe",
+        "Healing approach",
+        "Accessible science"
+      ],
+      "author": "Gabor Maté, MD",
+      "year": 2019,
+      "evidence": "applied",
+      "related_article": "adhd-and-trauma-the-connection-your-doctor-may-not-have-told-you"
+    },
+    {
+      "id": "ifs-book",
+      "name": "No Bad Parts: Healing Trauma and Restoring Wholeness with IFS",
+      "category": "books",
+      "asin": "1683648528",
+      "tag": "spankyspinola-20",
+      "description": "Richard Schwartz's accessible introduction to Internal Family Systems (IFS). Transforms how you relate to your inner world and the parts of yourself that carry trauma.",
+      "benefits": [
+        "IFS introduction",
+        "Parts work framework",
+        "Self-compassion approach",
+        "Practical exercises"
+      ],
+      "author": "Richard C. Schwartz, PhD",
+      "year": 2021,
+      "evidence": "applied",
+      "related_article": "internal-family-systems-ifs-therapy-understanding-your-parts"
+    },
+    {
+      "id": "emdr-book-shapiro",
+      "name": "Getting Past Your Past: Take Control of Your Life with EMDR",
+      "category": "books",
+      "asin": "1609619951",
+      "tag": "spankyspinola-20",
+      "description": "Francine Shapiro's accessible guide to EMDR for non-clinicians. Explains how EMDR works and includes self-help techniques based on EMDR principles.",
+      "benefits": [
+        "EMDR explained accessibly",
+        "Self-help EMDR techniques",
+        "Understanding trauma processing",
+        "From the founder of EMDR"
+      ],
+      "author": "Francine Shapiro, PhD",
+      "year": 2012,
+      "evidence": "applied",
+      "related_article": "emdr-therapy-explained-what-it-is-how-it-works-and-what-the-research-shows"
+    },
+    {
+      "id": "yoga-nidra-mat",
+      "name": "Yoga Nidra Mat (Acupressure Mat)",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Acupressure mats stimulate the nervous system through gentle pressure points, promoting relaxation, endorphin release, and nervous system regulation. Many trauma survivors find them deeply calming.",
+      "benefits": [
+        "Promotes deep relaxation",
+        "Endorphin release",
+        "Nervous system regulation",
+        "Reduces muscle tension"
+      ],
+      "usage": "Lie on mat for 20-30 minutes; start with a thin layer of clothing if too intense",
+      "cautions": "Not for open wounds or skin conditions; start gently",
+      "evidence": "moderate",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "weighted-blanket",
+      "name": "Weighted Blanket (15-20 lb)",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Deep pressure stimulation from weighted blankets activates the parasympathetic nervous system and increases serotonin and melatonin. Particularly effective for anxiety, sensory processing differences, and sleep.",
+      "benefits": [
+        "Activates parasympathetic nervous system",
+        "Improves sleep quality",
+        "Reduces anxiety",
+        "Sensory regulation"
+      ],
+      "usage": "Use for sleep or during rest; choose 10% of body weight",
+      "cautions": "Not for young children or those who cannot remove it themselves",
+      "evidence": "moderate",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "vagus-nerve-stimulator",
+      "name": "Pulsetto Vagus Nerve Stimulator",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A non-invasive vagus nerve stimulator that uses electrical pulses to stimulate the vagus nerve through the neck. Emerging evidence for anxiety, depression, and nervous system regulation.",
+      "benefits": [
+        "Direct vagus nerve stimulation",
+        "Reduces anxiety",
+        "Supports nervous system regulation",
+        "Non-invasive"
+      ],
+      "usage": "Follow manufacturer instructions; typically 4-minute sessions",
+      "cautions": "Not for those with pacemakers, epilepsy, or certain heart conditions",
+      "evidence": "emerging",
+      "related_article": "vagus-nerve-stimulation-what-it-is-and-does-it-work"
+    },
+    {
+      "id": "singing-bowl",
+      "name": "Tibetan Singing Bowl",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Singing bowls produce vibrations and tones that can support nervous system regulation through sound and vibration. Used in meditation, sound healing, and somatic practices.",
+      "benefits": [
+        "Sound-based nervous system regulation",
+        "Meditation support",
+        "Vibration therapy",
+        "Mindfulness tool"
+      ],
+      "usage": "Strike or rim the bowl and allow the sound to wash over you; focus on the vibration",
+      "cautions": "Very safe; choose quality bowls for best sound",
+      "evidence": "traditional",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "foam-roller",
+      "name": "Foam Roller (Deep Tissue)",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Foam rolling releases myofascial tension, improves circulation, and can help discharge stored tension from the body. A practical somatic tool for daily use.",
+      "benefits": [
+        "Releases myofascial tension",
+        "Improves circulation",
+        "Discharges stored tension",
+        "Supports recovery"
+      ],
+      "usage": "Roll slowly over tense areas; pause on tender spots; breathe deeply",
+      "cautions": "Avoid rolling directly on joints or the spine; not for acute injuries",
+      "evidence": "moderate",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "breathwork-app",
+      "name": "Breathing Zone App (iOS/Android)",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A biofeedback-based breathing app that guides you to your optimal breathing rate for HRV (heart rate variability) improvement. One of the most evidence-based tools for nervous system regulation.",
+      "benefits": [
+        "HRV improvement",
+        "Nervous system regulation",
+        "Reduces anxiety",
+        "Evidence-based breathing guidance"
+      ],
+      "usage": "Use for 10-20 minutes daily; follow the visual breathing guide",
+      "cautions": "Very safe; some people feel lightheaded initially — reduce session length",
+      "evidence": "strong",
+      "related_article": "breathwork-for-nervous-system-regulation"
+    },
+    {
+      "id": "journal-prompts-trauma",
+      "name": "The Trauma Healing Workbook",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A structured workbook for trauma healing with evidence-based exercises, journal prompts, and somatic practices. Designed for self-directed healing work.",
+      "benefits": [
+        "Structured healing exercises",
+        "Journal prompts",
+        "Somatic practices",
+        "Self-directed healing"
+      ],
+      "usage": "Work through at your own pace; don't push through if overwhelmed",
+      "cautions": "Go slowly; have support available if needed",
+      "evidence": "applied",
+      "related_article": "self-directed-somatic-healing-where-to-start"
+    },
+    {
+      "id": "cold-plunge-tub",
+      "name": "Cold Plunge Tub",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Cold water immersion activates the vagus nerve, releases norepinephrine, and can rapidly shift nervous system state. Increasingly popular for mental health and nervous system regulation.",
+      "benefits": [
+        "Rapid nervous system state shift",
+        "Vagus nerve activation",
+        "Norepinephrine release",
+        "Mood improvement"
+      ],
+      "usage": "Start with cold showers; work up to 2-5 minute cold immersion",
+      "cautions": "Not for cardiovascular conditions; consult a doctor if in doubt; never alone",
+      "evidence": "emerging",
+      "related_article": "cold-exposure-and-the-nervous-system-what-the-research-shows"
+    },
+    {
+      "id": "red-light-therapy",
+      "name": "Red Light Therapy Panel",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Red and near-infrared light therapy supports mitochondrial function, reduces inflammation, and has emerging evidence for mood and cognitive support.",
+      "benefits": [
+        "Mitochondrial support",
+        "Reduces inflammation",
+        "Mood support",
+        "Skin and tissue healing"
+      ],
+      "usage": "10-20 minutes daily at 6-12 inches from the panel",
+      "cautions": "Protect eyes; avoid if on photosensitizing medications",
+      "evidence": "emerging",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "cordyceps",
+      "name": "Cordyceps Mushroom",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "An adaptogenic mushroom that supports adrenal function, energy production, and stress resilience. Particularly helpful for those with fatigue from chronic stress.",
+      "benefits": [
+        "Adrenal support",
+        "Increases energy",
+        "Stress resilience",
+        "Immune modulation"
+      ],
+      "dosage": "500-3000mg daily of fruiting body extract",
+      "cautions": "Generally safe; may be stimulating — take in the morning",
+      "evidence": "moderate",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "maca-root",
+      "name": "Maca Root",
+      "category": "adaptogens",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A Peruvian adaptogen that supports hormonal balance, energy, and mood. Particularly helpful for those with HPA axis dysregulation and hormonal imbalance.",
+      "benefits": [
+        "Hormonal balance",
+        "Energy support",
+        "Mood improvement",
+        "Libido support"
+      ],
+      "dosage": "1500-3000mg daily",
+      "cautions": "Avoid in thyroid conditions; may be stimulating",
+      "evidence": "moderate",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "astragalus",
+      "name": "Astragalus Root",
+      "category": "adaptogens",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM adaptogen with strong immune-modulating and anti-aging properties. Supports the body during chronic stress and immune depletion.",
+      "benefits": [
+        "Immune support",
+        "Anti-aging",
+        "Stress resilience",
+        "Adrenal support"
+      ],
+      "dosage": "500-1500mg daily",
+      "cautions": "Generally safe; avoid in autoimmune conditions",
+      "evidence": "moderate",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "ginseng-panax",
+      "name": "Panax Ginseng",
+      "category": "adaptogens",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The original adaptogen, with thousands of years of use. Strong evidence for cognitive function, stress resilience, and immune support.",
+      "benefits": [
+        "Cognitive support",
+        "Stress resilience",
+        "Immune support",
+        "Energy"
+      ],
+      "dosage": "200-400mg standardized extract daily",
+      "cautions": "Can be stimulating; avoid with blood thinners; cycle usage",
+      "evidence": "strong",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "american-ginseng",
+      "name": "American Ginseng",
+      "category": "adaptogens",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A gentler, more cooling ginseng compared to Panax. Better for those who run hot, anxious, or overstimulated. Supports cognitive function and stress resilience.",
+      "benefits": [
+        "Cognitive support",
+        "Cooling adaptogen",
+        "Stress resilience",
+        "Blood sugar balance"
+      ],
+      "dosage": "200-400mg daily",
+      "cautions": "Generally safe; may lower blood sugar",
+      "evidence": "moderate",
+      "related_article": "adaptogens-for-nervous-system-support"
+    },
+    {
+      "id": "chaga-mushroom",
+      "name": "Chaga Mushroom",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A powerful antioxidant mushroom with immune-modulating and anti-inflammatory properties. Supports the body under chronic stress.",
+      "benefits": [
+        "Antioxidant protection",
+        "Immune support",
+        "Anti-inflammatory",
+        "Stress resilience"
+      ],
+      "dosage": "500-2000mg daily",
+      "cautions": "May interact with blood thinners and diabetes medications",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "turkey-tail",
+      "name": "Turkey Tail Mushroom",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A medicinal mushroom with the strongest evidence for immune support. Contains PSK and PSP, which have been studied in cancer research.",
+      "benefits": [
+        "Immune support",
+        "Gut microbiome support",
+        "Anti-cancer research",
+        "Anti-inflammatory"
+      ],
+      "dosage": "1000-3000mg daily",
+      "cautions": "Generally very safe",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "dang-gui",
+      "name": "Dang Gui (Angelica Sinensis)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The premier TCM blood tonic herb, particularly for women. Nourishes Blood, regulates menstruation, and supports emotional health.",
+      "benefits": [
+        "Nourishes Blood",
+        "Regulates menstruation",
+        "Supports emotional health",
+        "Anti-inflammatory"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Avoid during pregnancy; may thin blood",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "bai-shao",
+      "name": "Bai Shao (White Peony Root)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A key TCM herb for nourishing Liver Blood and calming Liver Yang rising. Used for anxiety, irritability, muscle spasm, and menstrual irregularity.",
+      "benefits": [
+        "Nourishes Liver Blood",
+        "Calms anxiety and irritability",
+        "Muscle relaxant",
+        "Menstrual support"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "huang-qi",
+      "name": "Huang Qi (Astragalus)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The primary TCM Qi tonic herb. Strengthens Wei Qi (defensive energy), supports immune function, and builds resilience.",
+      "benefits": [
+        "Strengthens Wei Qi",
+        "Immune support",
+        "Energy tonic",
+        "Adaptogenic"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Avoid in acute infections; consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "he-shou-wu",
+      "name": "He Shou Wu (Fo-Ti)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM Kidney and Liver tonic herb known for anti-aging and blood nourishing properties. Use only prepared (processed) form.",
+      "benefits": [
+        "Kidney and Liver tonic",
+        "Blood nourishing",
+        "Anti-aging",
+        "Supports hair health"
+      ],
+      "dosage": "As directed by TCM practitioner; use only prepared form",
+      "cautions": "Use ONLY prepared (zhi) form; raw form is hepatotoxic; consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "wu-wei-zi",
+      "name": "Wu Wei Zi (Schisandra)",
+      "category": "tcm",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "The TCM name for schisandra berry. Used to calm the spirit, support the Heart, and nourish the Kidneys.",
+      "benefits": [
+        "Calms the spirit",
+        "Heart support",
+        "Kidney nourishment",
+        "Adaptogenic"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "fu-ling",
+      "name": "Fu Ling (Poria)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM mushroom that calms the spirit, supports the Spleen, and resolves dampness. Used for anxiety, insomnia, and digestive weakness.",
+      "benefits": [
+        "Calms the spirit",
+        "Spleen support",
+        "Resolves dampness",
+        "Immune support"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Generally safe; consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "yuan-zhi",
+      "name": "Yuan Zhi (Polygala Root)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM herb that calms the spirit, opens the orifices of the Heart, and resolves phlegm. Used for anxiety, insomnia, and emotional confusion.",
+      "benefits": [
+        "Calms the spirit",
+        "Reduces anxiety",
+        "Improves sleep",
+        "Cognitive support"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "suan-zao-ren",
+      "name": "Suan Zao Ren (Zizyphus Seed)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The primary TCM herb for insomnia. Nourishes Heart Blood and calms the spirit.",
+      "benefits": [
+        "Primary TCM sleep herb",
+        "Nourishes Heart Blood",
+        "Calms the spirit",
+        "Reduces anxiety"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "chai-hu-shu-gan-san",
+      "name": "Chai Hu Shu Gan San",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM formula for Liver Qi stagnation with pain. Used for depression, frustration, and pain from emotional stagnation.",
+      "benefits": [
+        "Liver Qi stagnation with pain",
+        "Reduces depression",
+        "Relieves frustration",
+        "Pain relief"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "ban-xia-hou-po-tang",
+      "name": "Ban Xia Hou Po Tang",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM formula for the sensation of something stuck in the throat (plum pit qi) — anxiety with throat tightness.",
+      "benefits": [
+        "Plum pit qi",
+        "Anxiety with physical symptoms",
+        "Resolves phlegm stagnation",
+        "Calms the spirit"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "wen-dan-tang",
+      "name": "Wen Dan Tang (Warm Gallbladder)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM formula for anxiety, insomnia, and palpitations from Gallbladder deficiency. Used for those who startle easily and feel fearful.",
+      "benefits": [
+        "Gallbladder deficiency",
+        "Reduces startle response",
+        "Calms palpitations",
+        "Resolves phlegm-heat"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "liu-wei-di-huang-wan",
+      "name": "Liu Wei Di Huang Wan",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The foundational TCM Kidney Yin tonic formula. Used for night sweats, hot flashes, insomnia, and tinnitus.",
+      "benefits": [
+        "Kidney Yin tonic",
+        "Reduces night sweats",
+        "Reduces hot flashes",
+        "Tinnitus support"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "ba-zhen-wan",
+      "name": "Ba Zhen Wan (Eight Treasure Pill)",
+      "category": "tcm",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A TCM formula that tonifies both Qi and Blood. Used for fatigue, pallor, and emotional depletion.",
+      "benefits": [
+        "Qi and Blood tonic",
+        "Reduces fatigue",
+        "Emotional support",
+        "Comprehensive tonic"
+      ],
+      "dosage": "As directed by TCM practitioner",
+      "cautions": "Consult a TCM practitioner",
+      "evidence": "traditional",
+      "related_article": "traditional-chinese-medicine-and-trauma-healing"
+    },
+    {
+      "id": "triphala",
+      "name": "Triphala",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The foundational Ayurvedic formula of three fruits. Supports digestion, detoxification, and overall health.",
+      "benefits": [
+        "Digestive support",
+        "Gentle detoxification",
+        "Antioxidant",
+        "Supports gut-brain axis"
+      ],
+      "dosage": "500-1000mg before bed",
+      "cautions": "May cause loose stools initially; reduce dose if so",
+      "evidence": "strong",
+      "related_article": "gut-brain-connection-and-trauma"
+    },
+    {
+      "id": "guduchi",
+      "name": "Guduchi (Tinospora Cordifolia)",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Known as Amrita (divine nectar) in Ayurveda, guduchi is a powerful immunomodulator and adaptogen.",
+      "benefits": [
+        "Immune modulation",
+        "Adaptogenic",
+        "Anti-inflammatory",
+        "Liver support"
+      ],
+      "dosage": "300-600mg extract daily",
+      "cautions": "Generally safe; may lower blood sugar",
+      "evidence": "moderate",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "amalaki",
+      "name": "Amalaki (Amla)",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "One of the richest natural sources of Vitamin C. A Rasayana herb that rejuvenates all tissues.",
+      "benefits": [
+        "Highest natural Vitamin C",
+        "Rejuvenating Rasayana",
+        "Immune support",
+        "Antioxidant"
+      ],
+      "dosage": "500-1000mg daily",
+      "cautions": "Generally very safe",
+      "evidence": "moderate",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "kapikacchu",
+      "name": "Kapikacchu (Mucuna Pruriens)",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A natural source of L-DOPA, the precursor to dopamine. Used in Ayurveda for nervous system support and mood.",
+      "benefits": [
+        "Natural L-DOPA source",
+        "Supports dopamine",
+        "Mood improvement",
+        "Nervous system tonic"
+      ],
+      "dosage": "300-500mg standardized extract daily",
+      "cautions": "Do not combine with MAOIs or Parkinson medications; consult a doctor",
+      "evidence": "moderate",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "haritaki",
+      "name": "Haritaki",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "One of the three fruits of Triphala. Called the King of Herbs in Ayurveda. Supports digestion, detoxification, and cognitive function.",
+      "benefits": [
+        "Digestive support",
+        "Detoxification",
+        "Cognitive support",
+        "Antioxidant"
+      ],
+      "dosage": "500mg daily",
+      "cautions": "Avoid during pregnancy; may cause loose stools",
+      "evidence": "traditional",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "gokshura",
+      "name": "Gokshura (Tribulus)",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An Ayurvedic herb for Kidney and reproductive health. Supports hormonal balance, libido, and vitality.",
+      "benefits": [
+        "Kidney support",
+        "Hormonal balance",
+        "Vitality and libido",
+        "Urinary health"
+      ],
+      "dosage": "500-1000mg daily",
+      "cautions": "Avoid during pregnancy",
+      "evidence": "moderate",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "st-johns-wort",
+      "name": "St. John's Wort",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "One of the most studied herbs for mild to moderate depression. Has evidence comparable to SSRIs for mild depression with fewer side effects.",
+      "benefits": [
+        "Reduces mild-moderate depression",
+        "Reduces anxiety",
+        "Nerve pain relief",
+        "Well-studied"
+      ],
+      "dosage": "300mg 3x daily of 0.3% hypericin extract",
+      "cautions": "SIGNIFICANT drug interactions — interacts with SSRIs, birth control, blood thinners. Consult your doctor.",
+      "evidence": "strong",
+      "related_article": "herbs-for-depression-what-the-evidence-shows"
+    },
+    {
+      "id": "lavender-supplement",
+      "name": "Lavender Oral (Silexan)",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Oral lavender oil (Silexan) has strong clinical evidence for generalized anxiety disorder, comparable to lorazepam.",
+      "benefits": [
+        "Reduces generalized anxiety",
+        "Improves sleep",
+        "Non-sedating",
+        "No addiction risk"
+      ],
+      "dosage": "80mg Silexan daily",
+      "cautions": "Generally safe; may cause mild digestive upset",
+      "evidence": "strong",
+      "related_article": "anxiety-and-the-nervous-system-what-your-anxiety-is-actually-telling-you"
+    },
+    {
+      "id": "hops-herb",
+      "name": "Hops (Humulus Lupulus)",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A classic nervine herb for anxiety and insomnia. Works well in combination with valerian and passionflower.",
+      "benefits": [
+        "Reduces anxiety",
+        "Improves sleep",
+        "Calming",
+        "Combines well with valerian"
+      ],
+      "dosage": "200-400mg extract before bed",
+      "cautions": "May cause drowsiness; avoid with alcohol and sedatives",
+      "evidence": "moderate",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "chamomile",
+      "name": "Chamomile",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A gentle nervine with evidence for generalized anxiety disorder. Safe for long-term use.",
+      "benefits": [
+        "Reduces anxiety",
+        "Digestive support",
+        "Anti-inflammatory",
+        "Safe for long-term use"
+      ],
+      "dosage": "220-1100mg extract daily, or 2-3 cups of tea",
+      "cautions": "Avoid if allergic to ragweed family plants",
+      "evidence": "moderate",
+      "related_article": "anxiety-and-the-nervous-system-what-your-anxiety-is-actually-telling-you"
+    },
+    {
+      "id": "oat-straw",
+      "name": "Oat Straw (Avena Sativa)",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A nutritive nervine that nourishes and restores the nervous system over time. Particularly effective for nervous exhaustion and burnout.",
+      "benefits": [
+        "Nourishes nervous system",
+        "Restores from burnout",
+        "Nutritive",
+        "Long-term nervous system support"
+      ],
+      "dosage": "1-3ml tincture daily, or 2-3 cups of infusion",
+      "cautions": "Generally very safe; avoid if gluten-sensitive",
+      "evidence": "traditional",
+      "related_article": "burnout-and-the-nervous-system-recovery-strategies"
+    },
+    {
+      "id": "blue-vervain",
+      "name": "Blue Vervain",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A nervine herb for those who are wound tight — perfectionists and overachievers. Releases physical and mental rigidity.",
+      "benefits": [
+        "Releases physical tension",
+        "Reduces perfectionism-related anxiety",
+        "Neck and shoulder tension",
+        "Nervous system calming"
+      ],
+      "dosage": "1-2ml tincture as needed",
+      "cautions": "Generally safe; avoid during pregnancy",
+      "evidence": "traditional",
+      "related_article": "hypervigilance-after-trauma-why-you-cant-stop-scanning"
+    },
+    {
+      "id": "lavender-essential-oil",
+      "name": "Lavender Essential Oil",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Aromatherapy with lavender has evidence for reducing anxiety and improving sleep.",
+      "benefits": [
+        "Reduces anxiety",
+        "Improves sleep",
+        "Easy to use",
+        "Non-invasive"
+      ],
+      "dosage": "Diffuse 3-5 drops; apply diluted to temples or wrists",
+      "cautions": "Dilute before skin application; keep away from eyes",
+      "evidence": "moderate",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "inositol",
+      "name": "Inositol (Myo-Inositol)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A B-vitamin-like compound with strong evidence for OCD, panic disorder, and PCOS.",
+      "benefits": [
+        "Reduces OCD symptoms",
+        "Reduces panic attacks",
+        "Supports PCOS",
+        "Mood stabilizing"
+      ],
+      "dosage": "12-18g daily for OCD/panic; 2-4g for general support",
+      "cautions": "Generally safe; may cause digestive upset at high doses",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "melatonin",
+      "name": "Melatonin (Low Dose)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The sleep hormone. Low doses (0.5-1mg) are more effective than high doses for most people.",
+      "benefits": [
+        "Supports sleep onset",
+        "Circadian rhythm regulation",
+        "Antioxidant",
+        "Jet lag support"
+      ],
+      "dosage": "0.5-1mg 30-60 minutes before bed; less is more",
+      "cautions": "Use lowest effective dose; higher doses can cause grogginess",
+      "evidence": "strong",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "glycine",
+      "name": "Glycine",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An inhibitory amino acid that improves sleep quality and has calming effects on the nervous system.",
+      "benefits": [
+        "Improves sleep quality",
+        "Reduces core body temperature",
+        "Calming",
+        "Collagen support"
+      ],
+      "dosage": "3g before bed",
+      "cautions": "Very safe; pleasant sweet taste",
+      "evidence": "moderate",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "taurine",
+      "name": "Taurine",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An amino acid that acts as a GABA agonist and has calming, neuroprotective effects.",
+      "benefits": [
+        "GABA agonist",
+        "Reduces anxiety",
+        "Heart support",
+        "Neuroprotective"
+      ],
+      "dosage": "500-2000mg daily",
+      "cautions": "Generally very safe",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "curcumin-bcm95",
+      "name": "Curcumin (BCM-95)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Highly bioavailable curcumin has evidence for depression, neuroinflammation, and BDNF support.",
+      "benefits": [
+        "Reduces neuroinflammation",
+        "Supports BDNF",
+        "Antidepressant effects",
+        "Antioxidant"
+      ],
+      "dosage": "500-1000mg BCM-95 daily",
+      "cautions": "May interact with blood thinners; use bioavailable forms only",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "probiotics-mental-health",
+      "name": "Psychobiotic Probiotics",
+      "category": "supplements",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Specific probiotic strains with evidence for mental health. The gut-brain axis is a key pathway in trauma recovery.",
+      "benefits": [
+        "Gut-brain axis support",
+        "Reduces anxiety",
+        "Mood improvement",
+        "Immune support"
+      ],
+      "dosage": "Multi-strain probiotic with 10-50 billion CFU daily",
+      "cautions": "Start low to avoid digestive upset; refrigerate",
+      "evidence": "emerging",
+      "related_article": "gut-brain-connection-and-trauma"
+    },
+    {
+      "id": "sam-e",
+      "name": "SAM-e",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A naturally occurring compound with evidence for depression comparable to antidepressants.",
+      "benefits": [
+        "Antidepressant effects",
+        "Supports methylation",
+        "Joint support",
+        "Liver support"
+      ],
+      "dosage": "400-1600mg daily on empty stomach; start low",
+      "cautions": "Can cause anxiety or mania in bipolar; do not combine with SSRIs or MAOIs",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "acetyl-l-carnitine",
+      "name": "Acetyl-L-Carnitine (ALCAR)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A form of L-carnitine that crosses the blood-brain barrier. Supports mitochondrial function and has evidence for depression.",
+      "benefits": [
+        "Cognitive support",
+        "Mitochondrial function",
+        "Antidepressant effects",
+        "Neuroprotective"
+      ],
+      "dosage": "500-2000mg daily",
+      "cautions": "Generally safe",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "lithium-orotate",
+      "name": "Lithium Orotate (Low Dose)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Low-dose lithium orotate has emerging evidence for neuroprotection and mood stabilization.",
+      "benefits": [
+        "Neuroprotective",
+        "Mood stabilizing",
+        "Emerging PTSD evidence",
+        "Reduces aggression"
+      ],
+      "dosage": "5-10mg elemental lithium daily",
+      "cautions": "Do not confuse with prescription lithium carbonate; consult a doctor",
+      "evidence": "emerging",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "iron-bisglycinate",
+      "name": "Iron Bisglycinate",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Iron deficiency is a common and overlooked cause of fatigue, anxiety, and cognitive impairment.",
+      "benefits": [
+        "Corrects iron deficiency",
+        "Reduces fatigue",
+        "Supports cognitive function",
+        "Gentle on digestion"
+      ],
+      "dosage": "25-50mg elemental iron daily with Vitamin C; test levels first",
+      "cautions": "Test iron levels before supplementing; excess iron is harmful",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "coq10",
+      "name": "CoQ10 (Ubiquinol)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Essential for mitochondrial energy production. Depleted by statins and aging.",
+      "benefits": [
+        "Mitochondrial energy",
+        "Heart health",
+        "Cognitive support",
+        "Antioxidant"
+      ],
+      "dosage": "100-300mg ubiquinol form daily with fat",
+      "cautions": "Generally safe; use ubiquinol form for better absorption",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "mindsight-book",
+      "name": "Mindsight",
+      "category": "books",
+      "asin": "0553386395",
+      "tag": "spankyspinola-20",
+      "description": "Daniel Siegel's accessible introduction to interpersonal neurobiology.",
+      "benefits": [
+        "Interpersonal neurobiology",
+        "Mind-brain-relationship connection",
+        "Practical exercises",
+        "Accessible science"
+      ],
+      "author": "Daniel J. Siegel, MD",
+      "year": 2010,
+      "evidence": "foundational",
+      "related_article": "neuroplasticity-and-trauma-how-the-brain-can-heal"
+    },
+    {
+      "id": "running-on-empty",
+      "name": "Running on Empty",
+      "category": "books",
+      "asin": "1936268574",
+      "tag": "spankyspinola-20",
+      "description": "Jonice Webb's groundbreaking work on childhood emotional neglect.",
+      "benefits": [
+        "Childhood emotional neglect",
+        "Understanding invisible trauma",
+        "Recovery framework",
+        "Accessible"
+      ],
+      "author": "Jonice Webb, PhD",
+      "year": 2012,
+      "evidence": "applied",
+      "related_article": "childhood-emotional-neglect-the-invisible-trauma"
+    },
+    {
+      "id": "tapping-solution",
+      "name": "The Tapping Solution",
+      "category": "books",
+      "asin": "1401939422",
+      "tag": "spankyspinola-20",
+      "description": "Nick Ortner's accessible guide to EFT tapping.",
+      "benefits": [
+        "EFT tapping guide",
+        "Practical somatic tool",
+        "Anxiety and trauma",
+        "Self-directed practice"
+      ],
+      "author": "Nick Ortner",
+      "year": 2013,
+      "evidence": "applied",
+      "related_article": "eft-tapping-for-trauma-what-the-research-shows"
+    },
+    {
+      "id": "myth-of-normal",
+      "name": "The Myth of Normal",
+      "category": "books",
+      "asin": "0593083881",
+      "tag": "spankyspinola-20",
+      "description": "Gabor Mate's comprehensive exploration of how trauma underlies most chronic illness.",
+      "benefits": [
+        "Comprehensive trauma and health framework",
+        "Social determinants of health",
+        "Healing approach",
+        "Accessible"
+      ],
+      "author": "Gabor Maté, MD",
+      "year": 2022,
+      "evidence": "foundational",
+      "related_article": "chronic-pain-and-trauma-the-connection-your-doctor-may-not-have-told-you"
+    },
+    {
+      "id": "mindfulness-trauma",
+      "name": "Trauma-Sensitive Mindfulness",
+      "category": "books",
+      "asin": "0393709787",
+      "tag": "spankyspinola-20",
+      "description": "David Treleaven's essential guide to adapting mindfulness for trauma survivors.",
+      "benefits": [
+        "Trauma-sensitive mindfulness",
+        "Safe practice guidelines",
+        "Understanding retraumatization",
+        "Practical adaptations"
+      ],
+      "author": "David A. Treleaven",
+      "year": 2018,
+      "evidence": "foundational",
+      "related_article": "meditation-for-trauma-survivors-what-works-and-what-to-avoid"
+    },
+    {
+      "id": "trauma-sensitive-yoga",
+      "name": "Overcoming Trauma through Yoga",
+      "category": "books",
+      "asin": "1556439695",
+      "tag": "spankyspinola-20",
+      "description": "David Emerson's guide to trauma-sensitive yoga.",
+      "benefits": [
+        "Trauma-sensitive yoga",
+        "Body ownership",
+        "Practical exercises",
+        "Clinical perspectives"
+      ],
+      "author": "David Emerson",
+      "year": 2011,
+      "evidence": "foundational",
+      "related_article": "trauma-sensitive-yoga-how-it-differs-from-regular-yoga"
+    },
+    {
+      "id": "breathwork-book",
+      "name": "Breath: The New Science of a Lost Art",
+      "category": "books",
+      "asin": "0735213615",
+      "tag": "spankyspinola-20",
+      "description": "James Nestor's exploration of the science of breathing.",
+      "benefits": [
+        "Breathing science",
+        "Nasal breathing importance",
+        "Practical techniques",
+        "Accessible"
+      ],
+      "author": "James Nestor",
+      "year": 2020,
+      "evidence": "applied",
+      "related_article": "breathwork-for-nervous-system-regulation"
+    },
+    {
+      "id": "adult-attachment",
+      "name": "Attached",
+      "category": "books",
+      "asin": "1585429139",
+      "tag": "spankyspinola-20",
+      "description": "Amir Levine's accessible guide to adult attachment theory.",
+      "benefits": [
+        "Attachment theory",
+        "Relationship patterns",
+        "Practical guidance",
+        "Accessible science"
+      ],
+      "author": "Amir Levine and Rachel Heller",
+      "year": 2010,
+      "evidence": "applied",
+      "related_article": "attachment-trauma-how-early-relationships-shape-the-nervous-system"
+    },
+    {
+      "id": "it-didnt-start-with-you",
+      "name": "It Didn't Start with You",
+      "category": "books",
+      "asin": "1101980389",
+      "tag": "spankyspinola-20",
+      "description": "Mark Wolynn's exploration of inherited family trauma.",
+      "benefits": [
+        "Inherited trauma",
+        "Core Language Approach",
+        "Family systems perspective",
+        "Practical exercises"
+      ],
+      "author": "Mark Wolynn",
+      "year": 2016,
+      "evidence": "applied",
+      "related_article": "intergenerational-trauma-how-trauma-is-passed-down-through-generations"
+    },
+    {
+      "id": "gabor-mate-hungry-ghosts",
+      "name": "In the Realm of Hungry Ghosts",
+      "category": "books",
+      "asin": "1556438516",
+      "tag": "spankyspinola-20",
+      "description": "Gabor Mate's compassionate exploration of addiction as a trauma response.",
+      "benefits": [
+        "Addiction as trauma response",
+        "Compassionate framework",
+        "Recovery approach",
+        "Accessible science"
+      ],
+      "author": "Gabor Maté, MD",
+      "year": 2008,
+      "evidence": "foundational",
+      "related_article": "addiction-and-trauma-the-connection-your-treatment-center-may-not-address"
+    },
+    {
+      "id": "polyvagal-flip-chart",
+      "name": "The Polyvagal Theory in Therapy",
+      "category": "books",
+      "asin": "0393712370",
+      "tag": "spankyspinola-20",
+      "description": "Deb Dana's clinical guide to applying polyvagal theory in therapy.",
+      "benefits": [
+        "Polyvagal clinical applications",
+        "Polyvagal Ladder",
+        "Practical tools",
+        "For clinicians and clients"
+      ],
+      "author": "Deb Dana",
+      "year": 2018,
+      "evidence": "applied",
+      "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+    },
+    {
+      "id": "wim-hof-method",
+      "name": "The Wim Hof Method",
+      "category": "books",
+      "asin": "1683644093",
+      "tag": "spankyspinola-20",
+      "description": "Wim Hof's guide to cold exposure and breathwork for nervous system resilience.",
+      "benefits": [
+        "Cold exposure protocol",
+        "Breathwork method",
+        "Immune support",
+        "Stress resilience"
+      ],
+      "author": "Wim Hof",
+      "year": 2020,
+      "evidence": "applied",
+      "related_article": "cold-exposure-and-the-nervous-system-what-the-research-shows"
+    },
+    {
+      "id": "biofeedback-device",
+      "name": "HeartMath Inner Balance Sensor",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A biofeedback device that measures HRV and guides you to a coherent state.",
+      "benefits": [
+        "HRV biofeedback",
+        "Real-time nervous system feedback",
+        "Coherence training",
+        "Evidence-based"
+      ],
+      "usage": "Use for 5-20 minutes daily; follow the app guidance",
+      "cautions": "Very safe; requires smartphone",
+      "evidence": "strong",
+      "related_article": "heart-rate-variability-and-trauma-recovery"
+    },
+    {
+      "id": "emdr-tapper",
+      "name": "EMDR Bilateral Tapper",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A handheld bilateral stimulation device used in EMDR therapy.",
+      "benefits": [
+        "Bilateral stimulation",
+        "EMDR support",
+        "Self-directed EMDR",
+        "Portable"
+      ],
+      "usage": "Use with EMDR protocols; ideally with a trained EMDR therapist",
+      "cautions": "Best used with professional guidance",
+      "evidence": "applied",
+      "related_article": "emdr-therapy-explained-what-it-is-how-it-works-and-what-the-research-shows"
+    },
+    {
+      "id": "grounding-mat",
+      "name": "Grounding / Earthing Mat",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Earthing mats connect you to the earth's electrical field while indoors.",
+      "benefits": [
+        "Earthing indoors",
+        "Reduces inflammation",
+        "Improves sleep",
+        "Nervous system regulation"
+      ],
+      "usage": "Use while sleeping or sitting; follow manufacturer instructions",
+      "cautions": "Ensure proper grounding",
+      "evidence": "emerging",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "massage-gun",
+      "name": "Percussion Massage Gun",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Percussion massage releases myofascial tension and helps discharge stored tension from the body.",
+      "benefits": [
+        "Myofascial release",
+        "Improves circulation",
+        "Discharges stored tension",
+        "Convenient"
+      ],
+      "usage": "Use on tense muscles for 1-2 minutes; avoid joints and spine",
+      "cautions": "Avoid on acute injuries or directly over the spine",
+      "evidence": "moderate",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "sauna-blanket",
+      "name": "Infrared Sauna Blanket",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Infrared heat therapy supports detoxification, muscle relaxation, and mood support.",
+      "benefits": [
+        "Detoxification",
+        "Muscle relaxation",
+        "Mood support",
+        "Accessible infrared heat"
+      ],
+      "usage": "Use for 30-45 minutes; stay hydrated; start at lower temperatures",
+      "cautions": "Stay hydrated; avoid if pregnant or with certain heart conditions",
+      "evidence": "emerging",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "yoga-bolster",
+      "name": "Yoga Bolster",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A yoga bolster supports restorative yoga poses that activate the parasympathetic nervous system.",
+      "benefits": [
+        "Restorative yoga support",
+        "Parasympathetic activation",
+        "Deep relaxation",
+        "Nervous system regulation"
+      ],
+      "usage": "Use in supported restorative poses; hold for 5-20 minutes",
+      "cautions": "Very safe; ensure comfortable support",
+      "evidence": "applied",
+      "related_article": "trauma-sensitive-yoga-how-it-differs-from-regular-yoga"
+    },
+    {
+      "id": "meditation-cushion",
+      "name": "Zafu Meditation Cushion",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A proper meditation cushion supports comfortable seated meditation with proper spinal alignment.",
+      "benefits": [
+        "Comfortable seated meditation",
+        "Proper spinal alignment",
+        "Reduces physical discomfort",
+        "Supports consistent practice"
+      ],
+      "usage": "Sit on the front third of the cushion; allow hips to be higher than knees",
+      "cautions": "Very safe; adjust height as needed",
+      "evidence": "applied",
+      "related_article": "meditation-for-trauma-survivors-what-works-and-what-to-avoid"
+    },
+    {
+      "id": "eye-mask",
+      "name": "Weighted Eye Mask",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A weighted eye mask provides gentle pressure activating the oculocardiac reflex for parasympathetic activation.",
+      "benefits": [
+        "Activates oculocardiac reflex",
+        "Promotes parasympathetic activation",
+        "Improves sleep",
+        "Simple and effective"
+      ],
+      "usage": "Use during sleep or rest",
+      "cautions": "Very safe; ensure it is not too heavy",
+      "evidence": "moderate",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "neti-pot",
+      "name": "Neti Pot (Nasal Irrigation)",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Nasal irrigation activates the vagus nerve through the nasal passages and supports respiratory health.",
+      "benefits": [
+        "Vagus nerve activation",
+        "Respiratory health",
+        "Sinus support",
+        "Ayurvedic practice"
+      ],
+      "usage": "Use with sterile saline solution; follow manufacturer instructions carefully",
+      "cautions": "Use ONLY sterile or distilled water; never tap water",
+      "evidence": "moderate",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "cold-plunge",
+      "name": "Cold Plunge Tub",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Cold water immersion activates the vagus nerve, releases norepinephrine, and can rapidly shift nervous system state.",
+      "benefits": [
+        "Rapid nervous system state shift",
+        "Vagus nerve activation",
+        "Norepinephrine release",
+        "Mood improvement"
+      ],
+      "usage": "Start with cold showers; work up to 2-5 minute cold immersion",
+      "cautions": "Not for cardiovascular conditions; never alone",
+      "evidence": "emerging",
+      "related_article": "cold-exposure-and-the-nervous-system-what-the-research-shows"
+    },
+    {
+      "id": "selenium",
+      "name": "Selenium",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An essential trace mineral for thyroid function, antioxidant defense, and mood. Deficiency is linked to depression and anxiety.",
+      "benefits": [
+        "Thyroid support",
+        "Antioxidant defense",
+        "Mood improvement",
+        "Immune support"
+      ],
+      "dosage": "100-200mcg daily",
+      "cautions": "Do not exceed 400mcg daily; toxicity is possible",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "iodine",
+      "name": "Iodine (Lugols or Potassium Iodide)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Essential for thyroid hormone production. Deficiency causes fatigue, depression, and cognitive impairment. Test thyroid function before supplementing.",
+      "benefits": [
+        "Thyroid support",
+        "Reduces fatigue",
+        "Cognitive support",
+        "Metabolic support"
+      ],
+      "dosage": "150-300mcg daily; test thyroid first",
+      "cautions": "Test thyroid function before supplementing; can worsen autoimmune thyroid conditions",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "potassium",
+      "name": "Potassium (Citrate)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Essential electrolyte for nerve and muscle function. Deficiency causes fatigue, muscle cramps, and anxiety.",
+      "benefits": [
+        "Nerve function",
+        "Muscle function",
+        "Reduces fatigue",
+        "Electrolyte balance"
+      ],
+      "dosage": "100-400mg daily; get most from food",
+      "cautions": "Do not exceed 99mg in supplements without medical supervision; kidney conditions require caution",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "calcium-magnesium",
+      "name": "Calcium + Magnesium Complex",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The classic calcium-magnesium combination for bone health, muscle relaxation, and sleep. Magnesium is the key active ingredient for nervous system support.",
+      "benefits": [
+        "Bone health",
+        "Muscle relaxation",
+        "Sleep support",
+        "Nervous system support"
+      ],
+      "dosage": "500mg calcium + 250mg magnesium before bed",
+      "cautions": "Calcium can interfere with iron absorption; take separately from iron",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "boron",
+      "name": "Boron",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A trace mineral that supports testosterone, estrogen, and brain function. Deficiency is associated with cognitive decline and hormonal imbalance.",
+      "benefits": [
+        "Hormonal support",
+        "Cognitive function",
+        "Bone health",
+        "Anti-inflammatory"
+      ],
+      "dosage": "3-10mg daily",
+      "cautions": "Generally safe at recommended doses",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "tyrosine",
+      "name": "L-Tyrosine",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A precursor to dopamine, norepinephrine, and thyroid hormones. Particularly helpful for those with low motivation, cognitive fatigue, and stress-induced depletion.",
+      "benefits": [
+        "Dopamine precursor",
+        "Cognitive performance under stress",
+        "Thyroid support",
+        "Motivation support"
+      ],
+      "dosage": "500-2000mg on empty stomach; cycle usage",
+      "cautions": "Avoid with MAOIs; can be overstimulating; cycle 5 days on, 2 days off",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "tryptophan",
+      "name": "L-Tryptophan",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An essential amino acid that converts to serotonin and melatonin. Gentler than 5-HTP. Supports mood, sleep, and anxiety.",
+      "benefits": [
+        "Serotonin and melatonin precursor",
+        "Mood support",
+        "Sleep support",
+        "Gentler than 5-HTP"
+      ],
+      "dosage": "500-2000mg before bed",
+      "cautions": "Do NOT combine with SSRIs or MAOIs; take away from protein meals",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "phenylalanine",
+      "name": "DL-Phenylalanine (DLPA)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An amino acid that supports dopamine and endorphin production. Has evidence for depression and chronic pain.",
+      "benefits": [
+        "Dopamine support",
+        "Endorphin support",
+        "Reduces depression",
+        "Chronic pain support"
+      ],
+      "dosage": "500-1500mg daily on empty stomach",
+      "cautions": "Avoid with PKU; avoid with MAOIs; can be stimulating",
+      "evidence": "moderate",
+      "related_article": "chronic-pain-and-trauma-the-connection-your-doctor-may-not-have-told-you"
+    },
+    {
+      "id": "glutamine",
+      "name": "L-Glutamine",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The most abundant amino acid in the body. Supports gut lining integrity, immune function, and is a precursor to GABA.",
+      "benefits": [
+        "Gut lining support",
+        "Immune function",
+        "GABA precursor",
+        "Muscle recovery"
+      ],
+      "dosage": "5-15g daily; can be taken with food",
+      "cautions": "Generally safe; avoid in liver disease or seizure disorders",
+      "evidence": "moderate",
+      "related_article": "gut-brain-connection-and-trauma"
+    },
+    {
+      "id": "arginine",
+      "name": "L-Arginine",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A precursor to nitric oxide, which supports cardiovascular health and blood flow. Also supports growth hormone release.",
+      "benefits": [
+        "Nitric oxide production",
+        "Cardiovascular support",
+        "Blood flow",
+        "Growth hormone support"
+      ],
+      "dosage": "3-6g daily",
+      "cautions": "Avoid in herpes outbreaks; may interact with blood pressure medications",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "vitamin-c",
+      "name": "Vitamin C (Liposomal)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Essential for adrenal function, collagen synthesis, and antioxidant defense. The adrenal glands have the highest concentration of Vitamin C in the body.",
+      "benefits": [
+        "Adrenal support",
+        "Antioxidant defense",
+        "Collagen synthesis",
+        "Immune support"
+      ],
+      "dosage": "500-2000mg daily; liposomal form for best absorption",
+      "cautions": "High doses may cause digestive upset; reduce if so",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "vitamin-b-complex",
+      "name": "Vitamin B Complex",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "B vitamins are essential for energy production, neurotransmitter synthesis, and nervous system function. Deficiency is common in those under chronic stress.",
+      "benefits": [
+        "Energy production",
+        "Neurotransmitter synthesis",
+        "Nervous system support",
+        "Stress support"
+      ],
+      "dosage": "As directed on label; take with food",
+      "cautions": "B6 toxicity possible at very high doses; use balanced complex",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "vitamin-b12",
+      "name": "Vitamin B12 (Methylcobalamin)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Essential for nerve function, DNA synthesis, and red blood cell production. Deficiency causes fatigue, depression, and neurological symptoms. Use methylcobalamin form.",
+      "benefits": [
+        "Nerve function",
+        "Energy production",
+        "Reduces fatigue",
+        "Neurological support"
+      ],
+      "dosage": "500-2000mcg daily; sublingual or methylcobalamin form",
+      "cautions": "Very safe; use methylcobalamin not cyanocobalamin; vegans need to supplement",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "folate-methylfolate",
+      "name": "Folate (Methylfolate)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Active folate (5-MTHF) is essential for methylation, neurotransmitter synthesis, and mood. Those with MTHFR gene variants need methylfolate, not folic acid.",
+      "benefits": [
+        "Methylation support",
+        "Neurotransmitter synthesis",
+        "Mood support",
+        "MTHFR support"
+      ],
+      "dosage": "400-800mcg methylfolate daily",
+      "cautions": "Use methylfolate (5-MTHF) not folic acid; start low if MTHFR variant",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "vitamin-b6-p5p",
+      "name": "Vitamin B6 (P5P Form)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The active form of B6 (pyridoxal-5-phosphate) is essential for GABA, serotonin, and dopamine synthesis. Important for anxiety and mood.",
+      "benefits": [
+        "GABA synthesis",
+        "Serotonin synthesis",
+        "Dopamine synthesis",
+        "Mood support"
+      ],
+      "dosage": "25-50mg P5P daily",
+      "cautions": "Do not exceed 100mg daily; high doses of regular B6 can cause neuropathy",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "vitamin-k2",
+      "name": "Vitamin K2 (MK-7)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Essential partner to Vitamin D3. Directs calcium to bones and away from arteries. Take with D3 for optimal effect.",
+      "benefits": [
+        "Calcium regulation",
+        "Bone health",
+        "Cardiovascular protection",
+        "Synergistic with D3"
+      ],
+      "dosage": "100-200mcg MK-7 daily with D3",
+      "cautions": "May interact with blood thinners; take with D3",
+      "evidence": "strong",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "krill-oil",
+      "name": "Krill Oil",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Omega-3s from krill are bound to phospholipids, making them more bioavailable than fish oil. Also contains astaxanthin.",
+      "benefits": [
+        "Highly bioavailable omega-3s",
+        "Contains astaxanthin",
+        "Cardiovascular support",
+        "Anti-inflammatory"
+      ],
+      "dosage": "500-1000mg daily",
+      "cautions": "Avoid if shellfish allergy; may thin blood",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "algae-omega3",
+      "name": "Algae Omega-3 (Vegan)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The original source of omega-3s (fish get theirs from algae). The vegan alternative to fish oil with equivalent DHA content.",
+      "benefits": [
+        "Vegan omega-3 source",
+        "DHA for brain health",
+        "Sustainable",
+        "No fishy aftertaste"
+      ],
+      "dosage": "250-500mg DHA daily",
+      "cautions": "Generally very safe",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "wild-lettuce",
+      "name": "Wild Lettuce (Lactuca Virosa)",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A nervine and mild analgesic herb. Used for anxiety, insomnia, and pain. Sometimes called opium lettuce, though it contains no opiates.",
+      "benefits": [
+        "Reduces anxiety",
+        "Mild analgesic",
+        "Improves sleep",
+        "Calming"
+      ],
+      "dosage": "1-2ml tincture as needed",
+      "cautions": "Generally safe; avoid during pregnancy; may cause drowsiness",
+      "evidence": "traditional",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "bacopa-monnieri",
+      "name": "Bacopa Monnieri",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An Ayurvedic herb with strong evidence for cognitive function, memory, and reducing anxiety. Works best with consistent use over 8-12 weeks.",
+      "benefits": [
+        "Cognitive enhancement",
+        "Memory improvement",
+        "Reduces anxiety",
+        "Neuroprotective"
+      ],
+      "dosage": "300-600mg standardized extract daily with fat",
+      "cautions": "May cause digestive upset; take with food; effects build over 8-12 weeks",
+      "evidence": "strong",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "gotu-kola",
+      "name": "Gotu Kola",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An Ayurvedic and TCM herb that supports cognitive function, wound healing, and reduces anxiety. Particularly effective for those with anxiety and cognitive fog.",
+      "benefits": [
+        "Cognitive support",
+        "Reduces anxiety",
+        "Wound healing",
+        "Venous support"
+      ],
+      "dosage": "500-1000mg daily",
+      "cautions": "Generally safe; avoid during pregnancy; may cause photosensitivity",
+      "evidence": "moderate",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "lions-mane-mushroom",
+      "name": "Lion's Mane Mushroom",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A medicinal mushroom with strong evidence for nerve growth factor (NGF) stimulation, cognitive function, and mild antidepressant effects.",
+      "benefits": [
+        "NGF stimulation",
+        "Cognitive enhancement",
+        "Mild antidepressant",
+        "Neuroprotective"
+      ],
+      "dosage": "500-3000mg daily of fruiting body extract",
+      "cautions": "Generally safe; may cause digestive upset; avoid if mushroom allergy",
+      "evidence": "strong",
+      "related_article": "neuroplasticity-and-trauma-how-the-brain-can-heal"
+    },
+    {
+      "id": "acupressure-mat",
+      "name": "Acupressure Mat (Shakti Mat)",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "An acupressure mat stimulates thousands of acupressure points, releasing endorphins and promoting deep relaxation. Used for stress, back pain, and sleep.",
+      "benefits": [
+        "Endorphin release",
+        "Deep relaxation",
+        "Back pain relief",
+        "Sleep improvement"
+      ],
+      "usage": "Lie on mat for 10-30 minutes; start with a thin layer of clothing",
+      "cautions": "Avoid on broken skin; start gradually; may be intense initially",
+      "evidence": "moderate",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "tens-unit",
+      "name": "TENS Unit (Transcutaneous Electrical Nerve Stimulation)",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A TENS unit delivers mild electrical impulses that can reduce pain, release endorphins, and support nervous system regulation.",
+      "benefits": [
+        "Pain relief",
+        "Endorphin release",
+        "Muscle relaxation",
+        "Nervous system support"
+      ],
+      "usage": "Follow manufacturer instructions; place electrodes on tense or painful areas",
+      "cautions": "Do not use on the head, neck, or over the heart; avoid if pacemaker",
+      "evidence": "moderate",
+      "related_article": "chronic-pain-and-trauma-the-connection-your-doctor-may-not-have-told-you"
+    },
+    {
+      "id": "light-therapy-lamp",
+      "name": "Light Therapy Lamp (10,000 Lux)",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Light therapy has strong evidence for seasonal affective disorder (SAD) and circadian rhythm regulation. Supports cortisol awakening response and serotonin production.",
+      "benefits": [
+        "SAD treatment",
+        "Circadian rhythm regulation",
+        "Serotonin support",
+        "Morning energy"
+      ],
+      "usage": "Use for 20-30 minutes in the morning within 1 hour of waking",
+      "cautions": "Avoid in bipolar disorder without medical supervision; do not look directly at the light",
+      "evidence": "strong",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "blue-light-glasses",
+      "name": "Blue Light Blocking Glasses",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Blue light blocking glasses protect melatonin production in the evening. Essential for those with sleep disruption from screen use.",
+      "benefits": [
+        "Protects melatonin production",
+        "Improves sleep onset",
+        "Reduces eye strain",
+        "Circadian rhythm support"
+      ],
+      "usage": "Wear 2-3 hours before bed when using screens",
+      "cautions": "Very safe; quality varies between brands",
+      "evidence": "moderate",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "white-noise-machine",
+      "name": "White Noise Machine",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "White noise masks disruptive sounds and creates a consistent auditory environment for sleep. Particularly helpful for hypervigilant trauma survivors who are easily startled.",
+      "benefits": [
+        "Masks disruptive sounds",
+        "Reduces startle response",
+        "Improves sleep",
+        "Consistent auditory environment"
+      ],
+      "usage": "Use at a moderate volume; place away from the bed",
+      "cautions": "Very safe; avoid very high volumes",
+      "evidence": "moderate",
+      "related_article": "hypervigilance-after-trauma-why-you-cant-stop-scanning"
+    },
+    {
+      "id": "sleep-tracker",
+      "name": "Oura Ring Sleep Tracker",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "The Oura Ring tracks HRV, sleep stages, body temperature, and recovery. Provides data for understanding how stress and lifestyle affect nervous system recovery.",
+      "benefits": [
+        "HRV tracking",
+        "Sleep stage tracking",
+        "Recovery monitoring",
+        "Lifestyle optimization data"
+      ],
+      "usage": "Wear continuously; review morning readiness score and sleep data",
+      "cautions": "Very safe; data should inform not obsess",
+      "evidence": "moderate",
+      "related_article": "heart-rate-variability-and-trauma-recovery"
+    },
+    {
+      "id": "journal",
+      "name": "Trauma-Informed Journal",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Expressive writing has strong evidence for processing trauma, reducing PTSD symptoms, and improving immune function. A quality journal supports consistent practice.",
+      "benefits": [
+        "Expressive writing practice",
+        "Trauma processing",
+        "PTSD symptom reduction",
+        "Immune support"
+      ],
+      "usage": "Write for 15-20 minutes; focus on feelings and thoughts; do not edit",
+      "cautions": "Very safe; go slowly with intense trauma; have support available",
+      "evidence": "strong",
+      "related_article": "expressive-writing-for-trauma-what-the-research-shows"
+    },
+    {
+      "id": "diffuser",
+      "name": "Essential Oil Diffuser",
+      "category": "tools",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "An ultrasonic diffuser disperses essential oils into the air for aromatherapy. The olfactory system has a direct pathway to the limbic system, making aromatherapy a powerful nervous system tool.",
+      "benefits": [
+        "Aromatherapy delivery",
+        "Limbic system access",
+        "Mood support",
+        "Sleep support"
+      ],
+      "usage": "Add 5-10 drops of essential oil to water; run for 30-60 minutes",
+      "cautions": "Avoid around pets (especially cats); use therapeutic grade oils",
+      "evidence": "moderate",
+      "related_article": "somatic-practices-you-can-do-at-home"
+    },
+    {
+      "id": "healing-developmental-trauma",
+      "name": "Healing Developmental Trauma",
+      "category": "books",
+      "asin": "1583944893",
+      "tag": "spankyspinola-20",
+      "description": "Laurence Heller's NARM (NeuroAffective Relational Model) approach to healing developmental trauma.",
+      "benefits": [
+        "Developmental trauma framework",
+        "NARM approach",
+        "Survival styles",
+        "Somatic and relational healing"
+      ],
+      "author": "Laurence Heller and Aline LaPierre",
+      "year": 2012,
+      "evidence": "foundational",
+      "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+    },
+    {
+      "id": "somatic-experiencing-book",
+      "name": "Somatic Experiencing: Healing Trauma",
+      "category": "books",
+      "asin": "1556432860",
+      "tag": "spankyspinola-20",
+      "description": "Peter Levine's foundational text on Somatic Experiencing therapy.",
+      "benefits": [
+        "Somatic Experiencing foundation",
+        "Trauma discharge",
+        "Nervous system regulation",
+        "Practical exercises"
+      ],
+      "author": "Peter A. Levine",
+      "year": 1997,
+      "evidence": "foundational",
+      "related_article": "what-is-somatic-therapy-and-how-does-it-actually-work"
+    },
+    {
+      "id": "trauma-and-memory",
+      "name": "Trauma and Memory",
+      "category": "books",
+      "asin": "1623369657",
+      "tag": "spankyspinola-20",
+      "description": "Peter Levine's exploration of how trauma is stored in the body as implicit memory.",
+      "benefits": [
+        "Trauma memory science",
+        "Implicit memory",
+        "Body-based memory",
+        "Somatic approach"
+      ],
+      "author": "Peter A. Levine",
+      "year": 2015,
+      "evidence": "foundational",
+      "related_article": "trauma-memory-why-your-brain-stores-trauma-differently"
+    },
+    {
+      "id": "somatic-descent-2",
+      "name": "Touching Enlightenment",
+      "category": "books",
+      "asin": "1590307429",
+      "tag": "spankyspinola-20",
+      "description": "Reginald Ray's guide to body-based meditation for awakening.",
+      "benefits": [
+        "Body-based meditation",
+        "Somatic spirituality",
+        "Tibetan Buddhist approach",
+        "Deep practices"
+      ],
+      "author": "Reginald A. Ray",
+      "year": 2008,
+      "evidence": "applied",
+      "related_article": "meditation-for-trauma-survivors-what-works-and-what-to-avoid"
+    },
+    {
+      "id": "polyvagal-safety",
+      "name": "Polyvagal Safety",
+      "category": "books",
+      "asin": "0393714047",
+      "tag": "spankyspinola-20",
+      "description": "Stephen Porges' collection of essays on polyvagal theory and its applications.",
+      "benefits": [
+        "Polyvagal theory depth",
+        "Clinical applications",
+        "Safety and social engagement",
+        "From the founder"
+      ],
+      "author": "Stephen W. Porges",
+      "year": 2021,
+      "evidence": "foundational",
+      "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+    },
+    {
+      "id": "body-keeps-score-workbook",
+      "name": "The Body Keeps the Score Workbook",
+      "category": "books",
+      "asin": "0143134965",
+      "tag": "spankyspinola-20",
+      "description": "A companion workbook to Bessel van der Kolk's landmark book, with exercises for trauma recovery.",
+      "benefits": [
+        "Practical trauma exercises",
+        "Companion to TBKTS",
+        "Self-directed healing",
+        "Structured workbook"
+      ],
+      "author": "Bessel van der Kolk, MD",
+      "year": 2023,
+      "evidence": "applied",
+      "related_article": "what-is-somatic-therapy-and-how-does-it-actually-work"
+    },
+    {
+      "id": "complex-trauma-workbook",
+      "name": "The Complex PTSD Workbook",
+      "category": "books",
+      "asin": "1623158249",
+      "tag": "spankyspinola-20",
+      "description": "Arielle Schwartz's practical workbook for complex PTSD recovery.",
+      "benefits": [
+        "Complex PTSD exercises",
+        "Practical workbook",
+        "Multiple modalities",
+        "Self-directed healing"
+      ],
+      "author": "Arielle Schwartz, PhD",
+      "year": 2016,
+      "evidence": "applied",
+      "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+    },
+    {
+      "id": "healing-attachment-wounds",
+      "name": "Healing Your Attachment Wounds",
+      "category": "books",
+      "asin": "1683648544",
+      "tag": "spankyspinola-20",
+      "description": "Diane Poole Heller's guide to healing attachment trauma and building secure relationships.",
+      "benefits": [
+        "Attachment healing",
+        "Secure attachment building",
+        "Relationship repair",
+        "Practical exercises"
+      ],
+      "author": "Diane Poole Heller",
+      "year": 2019,
+      "evidence": "applied",
+      "related_article": "attachment-trauma-how-early-relationships-shape-the-nervous-system"
+    },
+    {
+      "id": "adult-children-narcissists",
+      "name": "Will I Ever Be Good Enough?",
+      "category": "books",
+      "asin": "1439129436",
+      "tag": "spankyspinola-20",
+      "description": "Karyl McBride's guide for daughters of narcissistic mothers.",
+      "benefits": [
+        "Narcissistic mother recovery",
+        "Self-worth rebuilding",
+        "Boundary setting",
+        "Compassionate framework"
+      ],
+      "author": "Karyl McBride, PhD",
+      "year": 2008,
+      "evidence": "applied",
+      "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+    },
+    {
+      "id": "toxic-parents",
+      "name": "Toxic Parents",
+      "category": "books",
+      "asin": "0553381407",
+      "tag": "spankyspinola-20",
+      "description": "Susan Forward's guide to overcoming the legacy of toxic parenting.",
+      "benefits": [
+        "Toxic parenting recovery",
+        "Boundary setting",
+        "Self-worth rebuilding",
+        "Practical exercises"
+      ],
+      "author": "Susan Forward, PhD",
+      "year": 1989,
+      "evidence": "applied",
+      "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+    },
+    {
+      "id": "boundaries-book",
+      "name": "Set Boundaries, Find Peace",
+      "category": "books",
+      "asin": "0593192095",
+      "tag": "spankyspinola-20",
+      "description": "Nedra Tawwab's practical guide to setting healthy boundaries.",
+      "benefits": [
+        "Boundary setting",
+        "Relationship health",
+        "Self-respect",
+        "Practical and accessible"
+      ],
+      "author": "Nedra Glover Tawwab",
+      "year": 2021,
+      "evidence": "applied",
+      "related_article": "fawn-response-the-trauma-pattern-nobody-talks-about"
+    },
+    {
+      "id": "codependent-no-more",
+      "name": "Codependent No More",
+      "category": "books",
+      "asin": "0894864025",
+      "tag": "spankyspinola-20",
+      "description": "Melody Beattie's classic guide to recovering from codependency.",
+      "benefits": [
+        "Codependency recovery",
+        "Boundary setting",
+        "Self-care",
+        "Twelve-step compatible"
+      ],
+      "author": "Melody Beattie",
+      "year": 1986,
+      "evidence": "applied",
+      "related_article": "fawn-response-the-trauma-pattern-nobody-talks-about"
+    },
+    {
+      "id": "disarming-narcissist",
+      "name": "Disarming the Narcissist",
+      "category": "books",
+      "asin": "1608827607",
+      "tag": "spankyspinola-20",
+      "description": "Wendy Behary's guide to navigating relationships with narcissistic people.",
+      "benefits": [
+        "Narcissistic relationship navigation",
+        "Schema therapy approach",
+        "Practical strategies",
+        "Compassionate framework"
+      ],
+      "author": "Wendy T. Behary",
+      "year": 2013,
+      "evidence": "applied",
+      "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+    },
+    {
+      "id": "self-compassion-book",
+      "name": "Self-Compassion: The Proven Power",
+      "category": "books",
+      "asin": "0061733512",
+      "tag": "spankyspinola-20",
+      "description": "Kristin Neff's foundational work on self-compassion as a healing practice.",
+      "benefits": [
+        "Self-compassion practices",
+        "Reduces self-criticism",
+        "Evidence-based",
+        "Practical exercises"
+      ],
+      "author": "Kristin Neff, PhD",
+      "year": 2011,
+      "evidence": "foundational",
+      "related_article": "self-compassion-for-trauma-survivors-why-being-kind-to-yourself-is-not-weakness"
+    },
+    {
+      "id": "fierce-self-compassion",
+      "name": "Fierce Self-Compassion",
+      "category": "books",
+      "asin": "0062913492",
+      "tag": "spankyspinola-20",
+      "description": "Kristin Neff's exploration of the fierce, protective side of self-compassion.",
+      "benefits": [
+        "Fierce self-compassion",
+        "Protective self-care",
+        "Boundary setting",
+        "Feminist perspective"
+      ],
+      "author": "Kristin Neff, PhD",
+      "year": 2021,
+      "evidence": "applied",
+      "related_article": "self-compassion-for-trauma-survivors-why-being-kind-to-yourself-is-not-weakness"
+    },
+    {
+      "id": "mindful-self-compassion",
+      "name": "The Mindful Self-Compassion Workbook",
+      "category": "books",
+      "asin": "1462526780",
+      "tag": "spankyspinola-20",
+      "description": "Kristin Neff and Chris Germer's practical workbook for developing self-compassion.",
+      "benefits": [
+        "Practical self-compassion exercises",
+        "Mindfulness integration",
+        "Evidence-based",
+        "Structured workbook"
+      ],
+      "author": "Kristin Neff and Christopher Germer",
+      "year": 2018,
+      "evidence": "applied",
+      "related_article": "self-compassion-for-trauma-survivors-why-being-kind-to-yourself-is-not-weakness"
+    },
+    {
+      "id": "radical-acceptance",
+      "name": "Radical Acceptance",
+      "category": "books",
+      "asin": "0553380990",
+      "tag": "spankyspinola-20",
+      "description": "Tara Brach's guide to embracing your life with the heart of a Buddha.",
+      "benefits": [
+        "Radical acceptance practice",
+        "Buddhist psychology",
+        "Self-compassion",
+        "Mindfulness"
+      ],
+      "author": "Tara Brach, PhD",
+      "year": 2003,
+      "evidence": "applied",
+      "related_article": "self-compassion-for-trauma-survivors-why-being-kind-to-yourself-is-not-weakness"
+    },
+    {
+      "id": "true-refuge",
+      "name": "True Refuge",
+      "category": "books",
+      "asin": "0553807625",
+      "tag": "spankyspinola-20",
+      "description": "Tara Brach's guide to finding peace and freedom in the midst of difficulty.",
+      "benefits": [
+        "Finding refuge in difficulty",
+        "Buddhist psychology",
+        "Mindfulness practices",
+        "Compassionate"
+      ],
+      "author": "Tara Brach, PhD",
+      "year": 2013,
+      "evidence": "applied",
+      "related_article": "meditation-for-trauma-survivors-what-works-and-what-to-avoid"
+    },
+    {
+      "id": "berberine",
+      "name": "Berberine",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A plant alkaloid with strong evidence for blood sugar regulation, gut health, and metabolic support. Comparable to metformin in some studies.",
+      "benefits": [
+        "Blood sugar regulation",
+        "Gut microbiome support",
+        "Metabolic support",
+        "Anti-inflammatory"
+      ],
+      "dosage": "500mg 2-3x daily with meals",
+      "cautions": "May lower blood sugar; avoid with diabetes medications without monitoring; avoid during pregnancy",
+      "evidence": "strong",
+      "related_article": "gut-brain-connection-and-trauma"
+    },
+    {
+      "id": "black-seed-oil",
+      "name": "Black Seed Oil (Nigella Sativa)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A traditional Islamic medicine herb with evidence for immune support, anti-inflammatory effects, and mood improvement.",
+      "benefits": [
+        "Immune support",
+        "Anti-inflammatory",
+        "Mood improvement",
+        "Antioxidant"
+      ],
+      "dosage": "1-3g daily",
+      "cautions": "Generally safe; may interact with blood thinners",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "passionflower-tea",
+      "name": "Passionflower Tea",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Passionflower tea is a gentle, accessible way to use this nervine herb. Particularly effective for anxiety with racing thoughts before bed.",
+      "benefits": [
+        "Reduces racing thoughts",
+        "Improves sleep onset",
+        "Gentle and accessible",
+        "Non-addictive"
+      ],
+      "dosage": "1-2 cups of tea before bed",
+      "cautions": "Generally safe; avoid during pregnancy; may cause drowsiness",
+      "evidence": "moderate",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "valerian-hops-combo",
+      "name": "Valerian + Hops + Passionflower",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The classic nervine triple combination for anxiety and insomnia. Each herb works through different mechanisms for synergistic effect.",
+      "benefits": [
+        "Synergistic sleep support",
+        "Reduces anxiety",
+        "Multiple mechanisms",
+        "Non-addictive"
+      ],
+      "dosage": "As directed on combination product label; take 30-60 minutes before bed",
+      "cautions": "May cause drowsiness; avoid with alcohol and sedatives",
+      "evidence": "moderate",
+      "related_article": "sleep-and-trauma-why-your-nervous-system-wont-let-you-rest"
+    },
+    {
+      "id": "lemon-balm-tea",
+      "name": "Lemon Balm Tea",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Lemon balm tea is a gentle, accessible nervine for anxiety and sleep. Particularly effective for anxiety with digestive symptoms.",
+      "benefits": [
+        "Reduces anxiety",
+        "Improves sleep",
+        "Digestive support",
+        "Gentle and accessible"
+      ],
+      "dosage": "1-3 cups of tea daily",
+      "cautions": "Generally very safe; avoid with thyroid conditions",
+      "evidence": "moderate",
+      "related_article": "anxiety-and-the-nervous-system-what-your-anxiety-is-actually-telling-you"
+    },
+    {
+      "id": "magnesium-threonate",
+      "name": "Magnesium Threonate (Magtein)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "The only form of magnesium shown to cross the blood-brain barrier. Specifically supports cognitive function and memory.",
+      "benefits": [
+        "Crosses blood-brain barrier",
+        "Cognitive enhancement",
+        "Memory support",
+        "Brain magnesium"
+      ],
+      "dosage": "1000-2000mg Magtein daily",
+      "cautions": "Generally safe; more expensive than other forms",
+      "evidence": "moderate",
+      "related_article": "neuroplasticity-and-trauma-how-the-brain-can-heal"
+    },
+    {
+      "id": "lions-mane-coffee",
+      "name": "Lion's Mane Coffee Blend",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A blend of coffee with Lion's Mane mushroom extract. Provides cognitive benefits of both caffeine and NGF stimulation.",
+      "benefits": [
+        "Cognitive enhancement",
+        "NGF stimulation",
+        "Energy without jitters",
+        "Convenient"
+      ],
+      "dosage": "As directed; 1-2 cups daily",
+      "cautions": "Contains caffeine; avoid after 2pm",
+      "evidence": "applied",
+      "related_article": "neuroplasticity-and-trauma-how-the-brain-can-heal"
+    },
+    {
+      "id": "mushroom-complex",
+      "name": "Mushroom Complex (7 Species)",
+      "category": "adaptogens",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "A comprehensive blend of medicinal mushrooms including Reishi, Lion Mane, Chaga, Turkey Tail, Cordyceps, Shiitake, and Maitake.",
+      "benefits": [
+        "Comprehensive immune support",
+        "Adaptogenic",
+        "Cognitive support",
+        "Synergistic mushroom blend"
+      ],
+      "dosage": "1000-3000mg daily",
+      "cautions": "Generally safe; avoid if mushroom allergy",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "neem",
+      "name": "Neem",
+      "category": "ayurvedic",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "An Ayurvedic herb with powerful antimicrobial, anti-inflammatory, and blood-purifying properties.",
+      "benefits": [
+        "Antimicrobial",
+        "Anti-inflammatory",
+        "Blood purifying",
+        "Gut health"
+      ],
+      "dosage": "500-1000mg daily",
+      "cautions": "Avoid during pregnancy; may lower blood sugar",
+      "evidence": "traditional",
+      "related_article": "ayurvedic-approaches-to-trauma-and-nervous-system-healing"
+    },
+    {
+      "id": "moringa",
+      "name": "Moringa Leaf",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A nutrient-dense superfood with anti-inflammatory, antioxidant, and adaptogenic properties.",
+      "benefits": [
+        "Nutrient-dense",
+        "Anti-inflammatory",
+        "Antioxidant",
+        "Energy support"
+      ],
+      "dosage": "1-2 teaspoons powder daily, or 500-1000mg capsules",
+      "cautions": "Generally safe; avoid during pregnancy at high doses",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "spirulina",
+      "name": "Spirulina",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A blue-green algae superfood rich in protein, B vitamins, iron, and antioxidants.",
+      "benefits": [
+        "Protein-rich superfood",
+        "B vitamin source",
+        "Iron source",
+        "Antioxidant"
+      ],
+      "dosage": "1-3 teaspoons powder daily, or 3-5g capsules",
+      "cautions": "Generally safe; avoid if autoimmune condition; check for heavy metals in source",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "chlorella",
+      "name": "Chlorella",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A green algae superfood with detoxification, immune support, and heavy metal chelation properties.",
+      "benefits": [
+        "Heavy metal chelation",
+        "Detoxification",
+        "Immune support",
+        "Nutrient-dense"
+      ],
+      "dosage": "2-5g daily; start low",
+      "cautions": "Start low to avoid detox reactions; check source for quality",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "digestive-enzymes",
+      "name": "Digestive Enzymes",
+      "category": "supplements",
+      "asin": "B07BFQZJLM",
+      "tag": "spankyspinola-20",
+      "description": "Digestive enzyme supplements support food breakdown and nutrient absorption. Helpful for those with chronic stress, which suppresses digestive function.",
+      "benefits": [
+        "Improved digestion",
+        "Nutrient absorption",
+        "Reduces bloating",
+        "Supports gut-brain axis"
+      ],
+      "dosage": "As directed; take with meals",
+      "cautions": "Generally safe; avoid with active ulcers",
+      "evidence": "moderate",
+      "related_article": "gut-brain-connection-and-trauma"
+    },
+    {
+      "id": "betaine-hcl",
+      "name": "Betaine HCl",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Supports stomach acid production, which is often low in those with chronic stress. Low stomach acid impairs protein digestion and nutrient absorption.",
+      "benefits": [
+        "Supports stomach acid",
+        "Improves protein digestion",
+        "Nutrient absorption",
+        "Reduces low-acid GERD"
+      ],
+      "dosage": "650mg with protein-containing meals; start with one and increase",
+      "cautions": "Do NOT use with active ulcers or NSAID use; test with one capsule first",
+      "evidence": "moderate",
+      "related_article": "gut-brain-connection-and-trauma"
+    },
+    {
+      "id": "slippery-elm",
+      "name": "Slippery Elm",
+      "category": "nervines",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A demulcent herb that soothes and coats the digestive tract. Used for IBS, GERD, and the gut-brain connection in trauma survivors.",
+      "benefits": [
+        "Soothes digestive tract",
+        "IBS support",
+        "GERD support",
+        "Gut-brain axis"
+      ],
+      "dosage": "400-500mg capsules 3x daily, or 1 tablespoon powder in water",
+      "cautions": "Generally very safe; take away from medications as it may slow absorption",
+      "evidence": "traditional",
+      "related_article": "gut-brain-connection-and-trauma"
+    },
+    {
+      "id": "licorice-root-dgl",
+      "name": "Licorice Root (DGL)",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "DGL (deglycyrrhizinated licorice) supports adrenal function and soothes the digestive tract.",
+      "benefits": [
+        "Adrenal support",
+        "Digestive soothing",
+        "Anti-inflammatory",
+        "Immune support"
+      ],
+      "dosage": "380-760mg DGL before meals",
+      "cautions": "Use DGL form only; whole licorice can raise blood pressure",
+      "evidence": "moderate",
+      "related_article": "supplements-for-nervous-system-support-what-the-evidence-shows"
+    },
+    {
+      "id": "collagen-peptides",
+      "name": "Collagen Peptides",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "Hydrolyzed collagen supports gut lining integrity, joint health, skin, and provides glycine for sleep and nervous system support.",
+      "benefits": [
+        "Gut lining support",
+        "Joint health",
+        "Skin health",
+        "Glycine source for sleep"
+      ],
+      "dosage": "10-20g daily in water or smoothie",
+      "cautions": "Generally very safe; choose grass-fed sources",
+      "evidence": "moderate",
+      "related_article": "gut-brain-connection-and-trauma"
+    },
+    {
+      "id": "psyllium-husk",
+      "name": "Psyllium Husk",
+      "category": "supplements",
+      "asin": "B00JVHIAVS",
+      "tag": "spankyspinola-20",
+      "description": "A soluble fiber that supports gut microbiome health, blood sugar regulation, and cholesterol.",
+      "benefits": [
+        "Gut microbiome support",
+        "Blood sugar regulation",
+        "Cholesterol support",
+        "Digestive regularity"
+      ],
+      "dosage": "5-10g daily with plenty of water",
+      "cautions": "Take with plenty of water; start low to avoid gas; take away from medications",
+      "evidence": "strong",
+      "related_article": "gut-brain-connection-and-trauma"
+    }
+  ]
+}

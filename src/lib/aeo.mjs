@@ -1,15 +1,15 @@
 /**
- * AEO/SEO helpers for The Body Remembers.
+ * AEO/SEO helpers for Somatic For Life.
  * Builds robots.txt, llms.txt, llms-full.txt, and JSON-LD schemas.
  */
 import { query } from './db.mjs';
 
-const SITE_URL = `https://${process.env.SITE_DOMAIN || 'thebodyremembers.com'}`;
-const SITE_NAME = 'The Body Remembers';
+const SITE_URL = `https://${process.env.SITE_DOMAIN || 'somaticforlife.com'}`;
+const SITE_NAME = 'Somatic For Life';
 
 // ─── robots.txt ───────────────────────────────────────────────────────────
 export function buildRobotsTxt(req) {
-  const host = req?.headers?.host || process.env.SITE_DOMAIN || 'thebodyremembers.com';
+  const host = req?.headers?.host || process.env.SITE_DOMAIN || 'somaticforlife.com';
   return `User-agent: *
 Allow: /
 Disallow: /api/
@@ -52,7 +52,7 @@ export async function buildLlmsTxt() {
 
   return `# ${SITE_NAME}
 
-> The research-grounded resource for body-based trauma healing, somatic therapy, and nervous system regulation.
+> The research-grounded resource for somatic healing for life, somatic therapy, and nervous system regulation.
 
 ${SITE_NAME} covers somatic trauma healing, polyvagal theory, EMDR, somatic experiencing, nervous system regulation, and related body-based approaches to trauma recovery. Written by The Oracle Lover, an intuitive educator and oracle guide.
 
@@ -191,7 +191,7 @@ export function buildWebSiteJsonLd() {
     '@type': 'WebSite',
     name: SITE_NAME,
     url: SITE_URL,
-    description: 'The research-grounded resource for body-based trauma healing, somatic therapy, and nervous system regulation.',
+    description: 'The research-grounded resource for somatic healing for life, somatic therapy, and nervous system regulation.',
     potentialAction: {
       '@type': 'SearchAction',
       target: {

@@ -22,10 +22,10 @@ export function AboutPage() {
           }}>
             <div style={{ fontSize: '3rem', marginBottom: 'var(--space-4)' }}>🌿</div>
             <h1 style={{ fontSize: 'var(--text-4xl)', fontWeight: 700, color: 'white', marginBottom: 'var(--space-4)', lineHeight: 1.2 }}>
-              About The Body Remembers
+              About Somatic For Life
             </h1>
             <p style={{ fontSize: 'var(--text-xl)', opacity: 0.85, lineHeight: 1.7, maxWidth: '540px' }}>
-              The research-grounded resource for body-based trauma healing. No fluff. No mysticism. Just what the science actually says — and what actually works.
+              The research-grounded resource for somatic healing for life. No fluff. No mysticism. Just what the science actually says — and what actually works.
             </p>
           </div>
 
@@ -33,7 +33,7 @@ export function AboutPage() {
           <section style={{ marginBottom: 'var(--space-10)' }}>
             <h2 style={{ fontSize: 'var(--text-2xl)', marginBottom: 'var(--space-5)' }}>What This Site Is</h2>
             <p style={{ color: 'var(--text-secondary)', lineHeight: 1.8, marginBottom: 'var(--space-4)' }}>
-              The Body Remembers is a resource for people who want to understand somatic trauma healing — what it is, how it works, and whether it might help them. It's written by The Oracle Lover, an intuitive educator and oracle guide who has spent years studying and writing about body-based approaches to trauma recovery.
+              Somatic For Life is a resource for people who want to understand somatic trauma healing — what it is, how it works, and whether it might help them. It's written by The Oracle Lover, an intuitive educator and oracle guide who has spent years studying and writing about body-based approaches to trauma recovery.
             </p>
             <p style={{ color: 'var(--text-secondary)', lineHeight: 1.8, marginBottom: 'var(--space-4)' }}>
               The title comes from Bessel van der Kolk's landmark book <em>The Body Keeps the Score</em> — the idea that the body stores what the mind can't fully process. Unresolved trauma doesn't just live in memory. It lives in the nervous system, in posture, in breathing patterns, in the way you respond to threat even when there is no threat.

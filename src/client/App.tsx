@@ -11,6 +11,7 @@ import { RecommendedPage } from './pages/RecommendedPage';
 import { AssessmentsPage } from './pages/AssessmentsPage';
 import { AssessmentPage } from './pages/AssessmentPage';
 import { PrivacyPage } from './pages/PrivacyPage';
+import SupplementsPage from './pages/SupplementsPage';
 import { NotFoundPage } from './pages/NotFoundPage';
 
 export default function App() {
@@ -51,6 +52,7 @@ export default function App() {
             <Route path="/recommended" element={<RecommendedPage />} />
             <Route path="/assessments" element={<AssessmentsPage />} />
             <Route path="/assessments/:slug" element={<AssessmentPage />} />
+            <Route path="/supplements" element={<SupplementsPage />} />
             <Route path="/privacy" element={<PrivacyPage />} />
             <Route path="*" element={<NotFoundPage />} />
           </Routes>

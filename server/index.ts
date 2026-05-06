@@ -8,6 +8,7 @@ import { sitemapRouter } from './routes/sitemap.js';
 import { robotsRouter } from './routes/robots.js';
 import { llmsRouter } from './routes/llms.js';
 import { assessmentsRouter } from './routes/assessments.js';
+import supplementsRouter from './routes/supplements.js';
 import { ssrHandler } from './ssr.js';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -56,6 +57,7 @@ if (isProd) {
 app.use('/health', healthRouter);
 app.use('/api/articles', articlesRouter);
 app.use('/api/assessments', assessmentsRouter);
+app.use('/api/supplements', supplementsRouter);
 app.use('/sitemap.xml', sitemapRouter);
 app.use('/robots.txt', robotsRouter);
 app.use('/', llmsRouter);
@@ -65,7 +67,7 @@ app.get('/{*path}', ssrHandler);
 
 // ─── Start ────────────────────────────────────────────────────────────────
 app.listen(PORT, () => {
-  console.log(`[server] The Body Remembers running on port ${PORT} (${isProd ? 'production' : 'development'})`);
+  console.log(`[server] Somatic For Life running on port ${PORT} (${isProd ? 'production' : 'development'})`);
 });
 
 export default app;

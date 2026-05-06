@@ -17,7 +17,7 @@ function slugify(s) {
 }
 
 const SPOTLIGHT_TOPICS = [
-  'The Best Books on Somatic Trauma Healing (Reviewed)',
+  'The Best Books on Somatic Healing For Life (Reviewed)',
   'Tools That Support Nervous System Regulation at Home',
   'Weighted Blankets and the Nervous System: What the Research Shows',
   'Yoga Mats for Trauma-Sensitive Practice: What to Look For',

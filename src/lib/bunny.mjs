@@ -1,13 +1,13 @@
 /**
- * Bunny CDN integration for The Body Remembers.
+ * Bunny CDN integration for Somatic For Life.
  * Credentials are hardcoded per spec (safe — no secrets here, just CDN keys).
  * Update these when Bunny zone is provisioned.
  */
 
 // HARDCODE per site. DO NOT move to env vars.
-const BUNNY_STORAGE_ZONE = 'the-body-remembers';
+const BUNNY_STORAGE_ZONE = 'somatic-for-life';
 const BUNNY_API_KEY = 'BUNNY_API_KEY_PLACEHOLDER';
-const BUNNY_PULL_ZONE = 'https://the-body-remembers.b-cdn.net';
+const BUNNY_PULL_ZONE = 'https://somatic-forlife.b-cdn.net';
 const BUNNY_HOSTNAME = 'ny.storage.bunnycdn.com';
 
 /**

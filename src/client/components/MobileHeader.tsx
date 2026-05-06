@@ -9,7 +9,7 @@ export function MobileHeader({ onMenuClick }: MobileHeaderProps) {
   return (
     <header className="mobile-header" role="banner">
       <Link to="/" className="mobile-header-logo">
-        The Body Remembers
+        Somatic For Life
       </Link>
       <button
         className="hamburger"

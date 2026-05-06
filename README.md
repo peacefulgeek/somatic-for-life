@@ -1,4 +1,4 @@
-# The Body Remembers — Site 117
+# Somatic For Life — Site 117
 
 > The research-grounded resource for body-based trauma healing, somatic therapy, and nervous system regulation.
 
@@ -36,12 +36,12 @@ DATABASE_URL=postgresql://user:pass@host:5432/dbname
 AMAZON_TAG=your-tag-20
 
 # Bunny CDN (add when ready)
-BUNNY_STORAGE_ZONE=the-body-remembers
+BUNNY_STORAGE_ZONE=somatic-for-life
 BUNNY_API_KEY=your-bunny-api-key
-BUNNY_CDN_URL=https://the-body-remembers.b-cdn.net
+BUNNY_CDN_URL=https://somatic-forlife.b-cdn.net
 
 # Site URL (for SEO/sitemap)
-SITE_URL=https://thebodyremembers.com
+SITE_URL=https://somaticforlife.com
 
 # Port (DigitalOcean sets this automatically)
 PORT=3000
@@ -52,7 +52,7 @@ PORT=3000
 ## Project Structure
 
 ```
-the-body-remembers/
+somatic-for-life/
 ├── .do/app.yaml              # DigitalOcean App Platform config
 ├── data/
 │   ├── articles.json         # 30 seeded articles (JSON DB fallback)
@@ -142,7 +142,7 @@ The `.do/app.yaml` is pre-configured. Steps:
 
 1. Push to GitHub:
    ```bash
-   git remote add origin https://github.com/YOUR_ORG/the-body-remembers.git
+   git remote add origin https://github.com/YOUR_ORG/somatic-for-life.git
    git push -u origin main
    ```
 2. In DigitalOcean App Platform → **New App** → connect your GitHub repo
@@ -161,7 +161,7 @@ When you have your Bunny CDN zone ready:
 
 1. Set `BUNNY_STORAGE_ZONE`, `BUNNY_API_KEY`, `BUNNY_CDN_URL` in env
 2. Upload images from `public/images/` to Bunny
-3. Update `hero_url` values in `data/articles.json` to use CDN URLs (e.g. `https://the-body-remembers.b-cdn.net/images/hero-somatic-healing.jpg`)
+3. Update `hero_url` values in `data/articles.json` to use CDN URLs (e.g. `https://somatic-forlife.b-cdn.net/images/hero-somatic-healing.jpg`)
 4. The `ArticleCard` and `ArticlePage` components will automatically use CDN URLs
 
 ---

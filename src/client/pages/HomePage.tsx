@@ -42,12 +42,12 @@ export function HomePage() {
       {/* Hero Section */}
       <section className="hero-section">
         <div style={{ position: 'relative', zIndex: 1 }}>
-          <div className="hero-eyebrow">Somatic Trauma Healing</div>
+          <div className="hero-eyebrow">Somatic Healing For Life</div>
           <h1 className="hero-title">
-            The Body<br />Remembers
+            Somatic<br />For Life
           </h1>
           <p className="hero-subtitle">
-            The research-grounded resource for body-based trauma. What the body does with unprocessed experience, why talk therapy alone often doesn't resolve it, and what somatic approaches actually involve.
+            The research-grounded guide to somatic healing, nervous system regulation, and body-based trauma recovery. Science, practice, and zero fluff.
           </p>
           <div style={{ display: 'flex', gap: 'var(--space-4)', flexWrap: 'wrap' }}>
             <Link to="/articles" className="hero-cta">

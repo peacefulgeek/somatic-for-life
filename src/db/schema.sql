@@ -1,4 +1,4 @@
--- The Body Remembers — PostgreSQL Schema
+-- Somatic For Life — PostgreSQL Schema
 -- Run this on first deploy to initialize the database
 
 -- ─── Articles ──────────────────────────────────────────────────────────────

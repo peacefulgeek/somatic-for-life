@@ -31,7 +31,7 @@ await build({
   sourcemap: false,
   minify: false,
   banner: {
-    js: '// The Body Remembers — Server Bundle',
+    js: '// Somatic For Life — Server Bundle',
   },
 });
 

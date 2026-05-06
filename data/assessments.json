@@ -726,5 +726,571 @@
         "related_article": "how-to-find-a-somatic-therapist-what-to-look-for-and-what-to-ask"
       }
     }
+  },
+  {
+    "id": "childhood-trauma-patterns",
+    "slug": "childhood-trauma-patterns",
+    "title": "How Childhood Trauma Shows Up in Your Adult Body",
+    "description": "Adverse childhood experiences leave lasting imprints on the body and nervous system. Identify the patterns your body may be carrying from early experiences.",
+    "icon": "🧒",
+    "time_minutes": 6,
+    "question_count": 10,
+    "category": "trauma-therapy",
+    "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Do you have difficulty trusting that good things in your life will last?",
+        "options": [
+          { "label": "Rarely — I can generally enjoy good things", "score": { "cptsd": 0 } },
+          { "label": "Sometimes — I wait for the other shoe to drop", "score": { "cptsd": 1 } },
+          { "label": "Often — good things feel fragile or undeserved", "score": { "cptsd": 2 } },
+          { "label": "Always — I can't let myself believe good things are real", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "How do you respond to authority figures or people with power over you?",
+        "options": [
+          { "label": "Generally fine — I can engage with them comfortably", "score": { "cptsd": 0 } },
+          { "label": "Some anxiety but manageable", "score": { "cptsd": 1 } },
+          { "label": "I feel anxious and try to please them or become invisible", "score": { "cptsd": 2 } },
+          { "label": "I feel small, young, or like I'm back in childhood", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Do you experience a harsh inner critic — a voice that attacks or shames you?",
+        "options": [
+          { "label": "Rarely — my inner voice is generally kind", "score": { "cptsd": 0 } },
+          { "label": "Sometimes, especially after mistakes", "score": { "cptsd": 1 } },
+          { "label": "Often — the critic is loud and cruel", "score": { "cptsd": 2 } },
+          { "label": "Almost constantly — it's the dominant voice in my head", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Do you feel a deep sense of shame — not just about things you've done, but about who you are?",
+        "options": [
+          { "label": "Rarely — I generally feel okay about myself", "score": { "cptsd": 0 } },
+          { "label": "Sometimes, especially when I make mistakes", "score": { "cptsd": 1 } },
+          { "label": "Often — I feel fundamentally flawed or broken", "score": { "cptsd": 2 } },
+          { "label": "It's a constant undercurrent — I feel deeply wrong at my core", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "How do you experience intimacy and closeness in relationships?",
+        "options": [
+          { "label": "Generally okay — I can experience closeness without too much fear", "score": { "cptsd": 0 } },
+          { "label": "I want closeness but feel anxious when I get it", "score": { "cptsd": 1 } },
+          { "label": "Closeness feels dangerous — I push people away or cling too tightly", "score": { "cptsd": 2 } },
+          { "label": "Intimacy feels impossible or terrifying", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "When you're triggered, do you ever feel like you're reliving a childhood experience?",
+        "options": [
+          { "label": "Rarely — I generally stay in the present", "score": { "cptsd": 0 } },
+          { "label": "Sometimes — certain situations feel disproportionately intense", "score": { "cptsd": 1 } },
+          { "label": "Often — I can feel young, small, or like I'm back in the past", "score": { "cptsd": 2 } },
+          { "label": "Frequently — I lose track of the present entirely", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Do you have a stable sense of who you are — your values, preferences, and identity?",
+        "options": [
+          { "label": "Yes — I have a fairly clear sense of myself", "score": { "cptsd": 0 } },
+          { "label": "Mostly, but it shifts in certain relationships", "score": { "cptsd": 1 } },
+          { "label": "Not really — my sense of self shifts depending on who I'm with", "score": { "cptsd": 2 } },
+          { "label": "I feel like I don't know who I am at all", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "How do you respond to your own pain or suffering?",
+        "options": [
+          { "label": "With some compassion — I try to take care of myself", "score": { "cptsd": 0 } },
+          { "label": "I push through it — I tell myself to toughen up", "score": { "cptsd": 1 } },
+          { "label": "I feel like I deserve to suffer", "score": { "cptsd": 2 } },
+          { "label": "I feel numb to my own pain — it doesn't register", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Do you have a sense of your own worth independent of what you do or achieve?",
+        "options": [
+          { "label": "Yes — I feel worthwhile just as I am", "score": { "cptsd": 0 } },
+          { "label": "I know it intellectually but don't always feel it", "score": { "cptsd": 1 } },
+          { "label": "My worth feels entirely conditional on performance or approval", "score": { "cptsd": 2 } },
+          { "label": "I don't feel I have much worth at all", "score": { "cptsd": 3 } }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Do you have difficulty identifying or expressing your emotions?",
+        "options": [
+          { "label": "No — I have good emotional awareness", "score": { "cptsd": 0 } },
+          { "label": "Sometimes — certain emotions are easier than others", "score": { "cptsd": 1 } },
+          { "label": "Often — I don't know what I'm feeling", "score": { "cptsd": 2 } },
+          { "label": "Almost always — emotions feel inaccessible or overwhelming", "score": { "cptsd": 3 } }
+        ]
+      }
+    ],
+    "results": {
+      "low": {
+        "label": "Minimal Childhood Trauma Patterns",
+        "range": [0, 10],
+        "color": "#2E8B6E",
+        "emoji": "🌱",
+        "headline": "Your responses suggest relatively few childhood trauma patterns.",
+        "body": "Your responses suggest that childhood trauma is not significantly shaping your current experience. This could mean you had a relatively stable early environment, that you've done significant healing work, or that your resilience factors were strong. Whatever the reason, this is a genuine resource. The work here is to maintain and deepen your wellbeing — building body awareness, healthy relationships, and continued self-understanding.",
+        "practices": ["Continue practices that support your wellbeing", "Build deeper body awareness", "Explore somatic practices to deepen your connection to yourself"],
+        "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+      },
+      "moderate": {
+        "label": "Moderate Childhood Trauma Patterns",
+        "range": [11, 20],
+        "color": "#C4713A",
+        "emoji": "🌊",
+        "headline": "Childhood experiences are showing up in your adult patterns.",
+        "body": "Your responses suggest that childhood experiences are shaping some of your current patterns — in your relationships, your sense of self, your inner critic, or your body. This is incredibly common. Most people carry some imprint of their early experiences. The important thing is that these patterns can change. With the right support and approaches, the nervous system can learn new ways of being that weren't available in childhood.",
+        "practices": ["Explore therapy focused on childhood trauma and attachment", "Practice self-compassion as a somatic experience", "Read about complex PTSD to understand your patterns in context"],
+        "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+      },
+      "high": {
+        "label": "Significant Childhood Trauma Patterns",
+        "range": [21, 30],
+        "color": "#6B46C1",
+        "emoji": "🌑",
+        "headline": "Childhood trauma appears to be significantly shaping your current experience.",
+        "body": "Your responses suggest that childhood trauma is significantly shaping your current experience — your sense of self, your relationships, your inner critic, your body, and your capacity for joy and connection. This is not a life sentence. These patterns developed for good reasons — they helped you survive. But they no longer serve you, and they can change. Complex trauma requires skilled, specialized support. You deserve a therapist who understands the depth and complexity of what you're carrying.",
+        "practices": ["Seek a therapist who specializes in complex trauma and C-PTSD", "Consider somatic approaches that address body-level imprints", "Be patient with yourself — complex trauma healing takes time but is real"],
+        "related_article": "complex-ptsd-vs-ptsd-the-differences-that-matter-for-healing"
+      }
+    }
+  },
+  {
+    "id": "polyvagal-profile",
+    "slug": "polyvagal-profile",
+    "title": "What's Your Polyvagal Profile?",
+    "description": "Based on polyvagal theory, discover which autonomic state you spend the most time in — and how it shapes your health, relationships, and capacity for healing.",
+    "icon": "🔬",
+    "time_minutes": 5,
+    "question_count": 10,
+    "category": "polyvagal-theory",
+    "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting",
+    "questions": [
+      {
+        "id": 1,
+        "text": "How do you typically feel in your body during a normal day?",
+        "options": [
+          { "label": "Generally at ease, present, and connected", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Tense, alert, and ready for something to go wrong", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Heavy, foggy, flat, or disconnected", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "It shifts dramatically throughout the day", "score": { "ventral": 1, "sympathetic": 1, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "How do you experience your voice when talking to others?",
+        "options": [
+          { "label": "Warm, expressive, and connected", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Tense, tight, or I speak quickly when stressed", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Flat, monotone, or I lose my voice under pressure", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "It varies a lot depending on my state", "score": { "ventral": 1, "sympathetic": 1, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "How do you experience listening to others?",
+        "options": [
+          { "label": "I can listen with full attention and feel genuinely engaged", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "I'm listening but also scanning for threats or problems", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "It's hard to stay present — I drift or go blank", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "I hear the words but have trouble connecting to the meaning", "score": { "ventral": 0, "sympathetic": 1, "dorsal": 2 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "How do you experience your digestion?",
+        "options": [
+          { "label": "Generally fine — no major issues", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Reactive — nausea, cramping, or IBS-type symptoms under stress", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Sluggish, slow, or chronic digestive issues", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Unpredictable — I can't tell what will set it off", "score": { "ventral": 0, "sympathetic": 2, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "How do you experience your heart rate?",
+        "options": [
+          { "label": "Generally steady and calm", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Frequently elevated, racing, or pounding", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Slow, heavy, or I sometimes feel faint", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "I don't notice my heart rate much", "score": { "ventral": 1, "sympathetic": 1, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "How do you experience your breath?",
+        "options": [
+          { "label": "Generally full and easy", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Shallow, tight, or I hold my breath without realizing it", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Very shallow, slow, or I feel like I'm not breathing enough", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "I don't pay attention to my breath", "score": { "ventral": 1, "sympathetic": 1, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "How do you experience your sense of connection to others?",
+        "options": [
+          { "label": "Generally connected — I feel part of something larger", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Guarded — I want connection but it feels risky", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Isolated — I feel fundamentally alone even with others", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Disconnected from everyone, including myself", "score": { "ventral": 0, "sympathetic": 1, "dorsal": 2 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "How do you experience your immune system and overall health?",
+        "options": [
+          { "label": "Generally healthy — I get sick occasionally but recover well", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "I get sick frequently or have chronic inflammatory issues", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Chronic fatigue, autoimmune issues, or feel generally unwell", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "I'm not sure — I don't track this", "score": { "ventral": 1, "sympathetic": 1, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "How do you experience joy or pleasure?",
+        "options": [
+          { "label": "I can feel genuine joy and let it land in my body", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "Joy quickly turns to anxiety — I wait for something bad to happen", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "Joy feels flat or inaccessible to me right now", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "I experience joy but always with a layer of guilt or unworthiness", "score": { "ventral": 0, "sympathetic": 2, "dorsal": 1 } }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "How do you experience your sense of safety in the world?",
+        "options": [
+          { "label": "The world feels generally safe enough", "score": { "ventral": 3, "sympathetic": 0, "dorsal": 0 } },
+          { "label": "I'm constantly scanning for threats — the world feels dangerous", "score": { "ventral": 0, "sympathetic": 3, "dorsal": 0 } },
+          { "label": "The world feels pointless or overwhelming — I've given up trying", "score": { "ventral": 0, "sympathetic": 0, "dorsal": 3 } },
+          { "label": "Safety feels conditional — I'm okay only when things are controlled", "score": { "ventral": 1, "sympathetic": 2, "dorsal": 0 } }
+        ]
+      }
+    ],
+    "results": {
+      "ventral": {
+        "label": "Ventral Vagal Dominant",
+        "range": [0, 100],
+        "threshold": 50,
+        "color": "#2E8B6E",
+        "emoji": "🌿",
+        "headline": "Your autonomic profile is primarily ventral vagal — the state of safety and connection.",
+        "body": "You spend much of your time in the ventral vagal state — the social engagement system that Stephen Porges identified as the foundation of health, healing, and genuine connection. This is the state where digestion works, immunity is strong, voice is warm, and relationships feel real. Your nervous system has enough capacity to engage with life from a place of relative safety. This is a genuine resource — not just for yourself, but for everyone around you, since regulated nervous systems help regulate others.",
+        "practices": ["Use your ventral vagal capacity as a resource in healing", "Practice co-regulation — your regulated nervous system can help regulate others", "Explore somatic practices to deepen your ventral vagal access"],
+        "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+      },
+      "sympathetic": {
+        "label": "Sympathetic Dominant",
+        "range": [0, 100],
+        "threshold": 50,
+        "color": "#C4713A",
+        "emoji": "⚡",
+        "headline": "Your autonomic profile is primarily sympathetic — fight-or-flight is your default.",
+        "body": "You spend much of your time in sympathetic activation — the fight-or-flight branch of the autonomic nervous system. Your body is working hard to keep you safe, scanning for threats, mobilizing energy, keeping you on guard. This is not a character flaw. It's your nervous system doing exactly what it evolved to do. The problem is when this state becomes chronic. Sustained sympathetic activation depletes your system, disrupts sleep, digestion, and immunity, and keeps you locked in a cycle of reactivity that makes genuine connection and healing very difficult.",
+        "practices": ["Vagal toning: humming, gargling, singing", "Physiological sigh breathing (double inhale, long exhale)", "Cold water on face or wrists to trigger the dive reflex", "Somatic therapy to discharge stored sympathetic activation"],
+        "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+      },
+      "dorsal": {
+        "label": "Dorsal Vagal Dominant",
+        "range": [0, 100],
+        "threshold": 50,
+        "color": "#4A5568",
+        "emoji": "🌑",
+        "headline": "Your autonomic profile is primarily dorsal vagal — shutdown is your default.",
+        "body": "You spend much of your time in dorsal vagal shutdown — the freeze, collapse, or immobilization state. This is your nervous system's most ancient survival response, activating when the threat feels too big to fight or flee. The result is a kind of protective numbness: low energy, disconnection, difficulty feeling emotions or motivation, chronic fatigue. This is not laziness or depression (though it can look like both). It's your body's last-resort protection. The path back is slow and gentle — not forcing activation, but carefully building safety signals that let your system know it's okay to come back online.",
+        "practices": ["Gentle rhythmic movement: rocking, swaying, slow walking", "Warm baths or heat on the body", "Orienting exercises — slowly looking around the room", "Seek co-regulation with safe, regulated people"],
+        "related_article": "polyvagal-theory-explained-why-your-nervous-system-is-not-overreacting"
+      }
+    }
+  },
+  {
+    "id": "emdr-readiness",
+    "slug": "emdr-readiness",
+    "title": "Is EMDR Right for You?",
+    "description": "EMDR is one of the most evidence-based trauma treatments available. Find out if you're a good candidate, what to expect, and what preparation you might need first.",
+    "icon": "👁️",
+    "time_minutes": 4,
+    "question_count": 8,
+    "category": "emdr",
+    "related_article": "emdr-therapy-explained-what-it-is-how-it-works-and-what-the-research-shows",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Do you have specific traumatic memories or events that continue to disturb you?",
+        "options": [
+          { "label": "Yes — specific memories that feel unresolved and intrusive", "score": { "emdr": 3 } },
+          { "label": "More of a general sense of trauma without specific memories", "score": { "emdr": 1 } },
+          { "label": "I have difficult experiences but I'm not sure they're 'traumatic'", "score": { "emdr": 2 } },
+          { "label": "I have chronic stress but no specific trauma events", "score": { "emdr": 0 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "When you think about a difficult memory, what typically happens?",
+        "options": [
+          { "label": "I feel the emotions and body sensations as if it's happening now", "score": { "emdr": 3 } },
+          { "label": "I feel some distress but can stay present", "score": { "emdr": 2 } },
+          { "label": "I go numb or blank — I can't access the memory emotionally", "score": { "emdr": 1 } },
+          { "label": "I avoid thinking about it entirely", "score": { "emdr": 2 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "How stable is your life right now?",
+        "options": [
+          { "label": "Fairly stable — I have support and basic safety", "score": { "stability": 3 } },
+          { "label": "Somewhat stable but with significant ongoing stressors", "score": { "stability": 2 } },
+          { "label": "In active crisis or significant instability", "score": { "stability": 0 } },
+          { "label": "Stable externally but internally very dysregulated", "score": { "stability": 1 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Do you have effective ways to calm and ground yourself when overwhelmed?",
+        "options": [
+          { "label": "Yes — I have reliable regulation strategies", "score": { "stability": 3 } },
+          { "label": "Some things help but they're not always reliable", "score": { "stability": 2 } },
+          { "label": "No — I don't know how to regulate when I'm overwhelmed", "score": { "stability": 0 } },
+          { "label": "I have strategies but I forget to use them when triggered", "score": { "stability": 1 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Have you experienced significant dissociation (losing time, feeling detached, not in your body)?",
+        "options": [
+          { "label": "Rarely or mildly", "score": { "dissociation": 0 } },
+          { "label": "Sometimes, especially when triggered", "score": { "dissociation": 1 } },
+          { "label": "Frequently — dissociation is a significant part of my experience", "score": { "dissociation": 3 } },
+          { "label": "I'm not sure what dissociation is", "score": { "dissociation": 0 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Have you worked with a therapist before?",
+        "options": [
+          { "label": "Yes, and it was helpful", "score": { "stability": 2 } },
+          { "label": "Yes, but talking alone wasn't enough — I want something deeper", "score": { "stability": 2 } },
+          { "label": "No, this would be my first time", "score": { "stability": 1 } },
+          { "label": "I've tried but couldn't continue for various reasons", "score": { "stability": 1 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "How do you feel about the idea of bilateral stimulation (eye movements, tapping, or sounds) during therapy?",
+        "options": [
+          { "label": "Curious and open to trying it", "score": { "emdr": 2 } },
+          { "label": "Skeptical but willing to try if there's evidence", "score": { "emdr": 1 } },
+          { "label": "Uncomfortable — it sounds strange", "score": { "emdr": 0 } },
+          { "label": "I've heard about it and I'm interested", "score": { "emdr": 2 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "What is your primary goal for trauma therapy?",
+        "options": [
+          { "label": "To process specific traumatic memories so they no longer disturb me", "score": { "emdr": 3 } },
+          { "label": "To understand why I feel the way I do", "score": { "emdr": 1 } },
+          { "label": "To build better coping skills and regulation", "score": { "emdr": 1 } },
+          { "label": "To heal my relationship with myself and others", "score": { "emdr": 1 } }
+        ]
+      }
+    ],
+    "results": {
+      "strong": {
+        "label": "Strong EMDR Candidate",
+        "range": [0, 100],
+        "threshold": 60,
+        "color": "#2E8B6E",
+        "emoji": "👁️",
+        "headline": "You appear to be a strong candidate for EMDR therapy.",
+        "body": "Your responses suggest you have the stability, specific memories, and openness to benefit significantly from EMDR. EMDR works best when you have identifiable disturbing memories, enough stability to engage with the process, and some capacity for self-regulation. The bilateral stimulation in EMDR helps your brain's natural processing system complete what it couldn't during the original trauma — transforming stuck, intrusive memories into integrated past experiences that no longer hijack your present.",
+        "practices": ["Look for an EMDR-trained therapist (EMDRIA certification is the gold standard)", "Ask about their approach to preparation and resourcing before processing", "Expect 8-12+ sessions for a single-incident trauma; more for complex trauma"],
+        "related_article": "emdr-therapy-explained-what-it-is-how-it-works-and-what-the-research-shows"
+      },
+      "preparation": {
+        "label": "Preparation Phase First",
+        "range": [0, 100],
+        "threshold": 40,
+        "color": "#C4713A",
+        "emoji": "🌿",
+        "headline": "You may benefit from more preparation before EMDR processing.",
+        "body": "Your responses suggest you have some of the foundations for EMDR but may benefit from more preparation work first. This is not a barrier — it's an important part of the EMDR protocol itself. EMDR has a preparation phase specifically designed to build the resources and stability needed for trauma processing. A good EMDR therapist will spend significant time here before moving to processing. The preparation phase is not wasted time — it's the foundation that makes processing safe and effective.",
+        "practices": ["Look for an EMDR therapist who emphasizes the preparation phase", "Focus on building regulation resources and a 'safe place' before processing", "Be honest with your therapist about your current stability and dissociation levels"],
+        "related_article": "emdr-therapy-explained-what-it-is-how-it-works-and-what-the-research-shows"
+      },
+      "complex": {
+        "label": "Complex Trauma — Modified Approach",
+        "range": [0, 100],
+        "threshold": 0,
+        "color": "#6B46C1",
+        "emoji": "🧩",
+        "headline": "Your trauma history may require a modified EMDR approach.",
+        "body": "If you have complex trauma or significant dissociation, standard EMDR protocols may need to be modified. This doesn't mean EMDR can't help — it means you need a therapist with specific complex trauma and dissociation training. Complex trauma EMDR requires more preparation, more titration, and often integration with other approaches like parts work (IFS) or somatic therapy. The right therapist will know how to adapt the protocol to your specific needs.",
+        "practices": ["Look for an EMDR therapist with specific complex trauma and dissociation training", "Ask about their experience with C-PTSD", "Consider EMDR as part of a broader treatment approach"],
+        "related_article": "emdr-therapy-explained-what-it-is-how-it-works-and-what-the-research-shows"
+      }
+    }
+  },
+  {
+    "id": "somatic-symptoms-checker",
+    "slug": "somatic-symptoms-checker",
+    "title": "Are Your Physical Symptoms Trauma-Related?",
+    "description": "Chronic pain, fatigue, digestive issues, and other physical symptoms are often the body's way of expressing unresolved trauma. Find out if your symptoms might have a somatic root.",
+    "icon": "💊",
+    "time_minutes": 5,
+    "question_count": 10,
+    "category": "body-mind",
+    "related_article": "chronic-pain-and-trauma-the-connection-your-doctor-may-not-have-told-you",
+    "questions": [
+      {
+        "id": 1,
+        "text": "Do you experience chronic pain that hasn't responded fully to medical treatment?",
+        "options": [
+          { "label": "No chronic pain", "score": { "somatic": 0 } },
+          { "label": "Some pain with a clear medical cause", "score": { "somatic": 1 } },
+          { "label": "Chronic pain with no clear medical cause", "score": { "somatic": 3 } },
+          { "label": "Pain that seems disproportionate to any physical cause", "score": { "somatic": 2 } }
+        ]
+      },
+      {
+        "id": 2,
+        "text": "Do you experience chronic fatigue that isn't explained by sleep or medical conditions?",
+        "options": [
+          { "label": "No — my energy is generally okay", "score": { "somatic": 0 } },
+          { "label": "Sometimes — fatigue comes and goes", "score": { "somatic": 1 } },
+          { "label": "Yes — I'm exhausted no matter how much I sleep", "score": { "somatic": 3 } },
+          { "label": "My fatigue is explained by a medical condition", "score": { "somatic": 1 } }
+        ]
+      },
+      {
+        "id": 3,
+        "text": "Do you experience digestive issues that seem stress or emotion-related?",
+        "options": [
+          { "label": "No significant digestive issues", "score": { "somatic": 0 } },
+          { "label": "Sometimes — there's a stress-gut connection", "score": { "somatic": 1 } },
+          { "label": "Yes — my gut is very reactive to stress and emotions", "score": { "somatic": 3 } },
+          { "label": "I have digestive issues but they seem purely physical", "score": { "somatic": 1 } }
+        ]
+      },
+      {
+        "id": 4,
+        "text": "Do your physical symptoms worsen when you're emotionally stressed?",
+        "options": [
+          { "label": "No clear connection", "score": { "somatic": 0 } },
+          { "label": "Sometimes — the connection is there but not always obvious", "score": { "somatic": 1 } },
+          { "label": "Yes — there's a very clear mind-body connection in my symptoms", "score": { "somatic": 3 } },
+          { "label": "I haven't paid attention to this connection", "score": { "somatic": 1 } }
+        ]
+      },
+      {
+        "id": 5,
+        "text": "Have you had extensive medical testing that came back normal despite significant symptoms?",
+        "options": [
+          { "label": "No — my symptoms have clear medical explanations", "score": { "somatic": 0 } },
+          { "label": "Some testing has been normal but not all", "score": { "somatic": 1 } },
+          { "label": "Yes — doctors can't find a cause for my symptoms", "score": { "somatic": 3 } },
+          { "label": "I haven't had extensive testing", "score": { "somatic": 0 } }
+        ]
+      },
+      {
+        "id": 6,
+        "text": "Do you experience autoimmune conditions or frequent illness?",
+        "options": [
+          { "label": "No — my immune system seems normal", "score": { "somatic": 0 } },
+          { "label": "I get sick more than average", "score": { "somatic": 1 } },
+          { "label": "Yes — I have autoimmune issues or chronic illness", "score": { "somatic": 2 } },
+          { "label": "I have autoimmune issues but they're well-managed medically", "score": { "somatic": 1 } }
+        ]
+      },
+      {
+        "id": 7,
+        "text": "Do you experience headaches or migraines that seem connected to stress or emotions?",
+        "options": [
+          { "label": "No significant headaches", "score": { "somatic": 0 } },
+          { "label": "Sometimes — there's a connection", "score": { "somatic": 1 } },
+          { "label": "Yes — my headaches are clearly stress or emotion-triggered", "score": { "somatic": 3 } },
+          { "label": "I have headaches but they seem purely physical", "score": { "somatic": 1 } }
+        ]
+      },
+      {
+        "id": 8,
+        "text": "Do you have a history of trauma, adverse childhood experiences, or chronic stress?",
+        "options": [
+          { "label": "Relatively stable childhood and life", "score": { "somatic": 0 } },
+          { "label": "Some difficult experiences but I'm not sure they were traumatic", "score": { "somatic": 1 } },
+          { "label": "Yes — significant trauma history", "score": { "somatic": 3 } },
+          { "label": "I'd rather not say", "score": { "somatic": 1 } }
+        ]
+      },
+      {
+        "id": 9,
+        "text": "Have any of your physical symptoms improved during periods of lower stress or emotional healing?",
+        "options": [
+          { "label": "No — my symptoms don't seem to respond to emotional state", "score": { "somatic": 0 } },
+          { "label": "Sometimes — there seems to be a connection", "score": { "somatic": 1 } },
+          { "label": "Yes — clear improvement when I'm less stressed or doing healing work", "score": { "somatic": 3 } },
+          { "label": "I haven't paid attention to this", "score": { "somatic": 1 } }
+        ]
+      },
+      {
+        "id": 10,
+        "text": "Do you feel that your physical symptoms are connected to your emotional or psychological history?",
+        "options": [
+          { "label": "No — they feel purely physical", "score": { "somatic": 0 } },
+          { "label": "Maybe — I've wondered about this", "score": { "somatic": 1 } },
+          { "label": "Yes — I believe there's a significant connection", "score": { "somatic": 3 } },
+          { "label": "I've never thought about this before", "score": { "somatic": 0 } }
+        ]
+      }
+    ],
+    "results": {
+      "low": {
+        "label": "Minimal Somatic Connection",
+        "range": [0, 10],
+        "color": "#2E8B6E",
+        "emoji": "🌱",
+        "headline": "Your physical symptoms don't appear to have a strong somatic/trauma root.",
+        "body": "Your responses suggest your physical symptoms are likely primarily medical in nature and don't appear to be significantly driven by unresolved trauma or nervous system dysregulation. Continue working with your healthcare providers. Even primarily medical conditions can be influenced by stress and nervous system state, so maintaining good regulation supports overall health.",
+        "practices": ["Continue working with your healthcare team", "Consider stress management practices as supportive care", "Stay curious about the mind-body connection"],
+        "related_article": "chronic-pain-and-trauma-the-connection-your-doctor-may-not-have-told-you"
+      },
+      "moderate": {
+        "label": "Possible Somatic Component",
+        "range": [11, 20],
+        "color": "#C4713A",
+        "emoji": "🔍",
+        "headline": "Your symptoms may have a somatic component worth exploring.",
+        "body": "Your responses suggest there may be a somatic or stress-related component to some of your physical symptoms. Many physical conditions are influenced by stress and nervous system dysregulation, even when they also have clear medical causes. Addressing the somatic component — through nervous system regulation, trauma-informed care, and body-based practices — can improve outcomes even for conditions with known medical causes. This is not about dismissing your physical symptoms; it's about treating the whole person.",
+        "practices": ["Discuss the mind-body connection with your healthcare provider", "Consider adding somatic practices to your treatment", "Explore whether stress reduction and emotional healing improve your symptoms"],
+        "related_article": "chronic-pain-and-trauma-the-connection-your-doctor-may-not-have-told-you"
+      },
+      "high": {
+        "label": "Significant Somatic/Trauma Root",
+        "range": [21, 30],
+        "color": "#6B46C1",
+        "emoji": "💊",
+        "headline": "Your physical symptoms may have significant somatic and trauma roots.",
+        "body": "Your responses strongly suggest your physical symptoms may be significantly influenced by unresolved trauma, chronic stress, or nervous system dysregulation. This is not 'all in your head' — these are real physical symptoms with real physiological mechanisms. The body keeps the score, literally. Unresolved trauma dysregulates the nervous system, the immune system, the endocrine system, and the gut-brain axis. The symptoms you're experiencing are your body's way of expressing what hasn't been processed. Trauma-informed somatic care can make a real difference.",
+        "practices": ["Seek a trauma-informed healthcare provider who understands the mind-body connection", "Consider somatic therapy as part of your treatment approach", "Explore resources on trauma and the body"],
+        "related_article": "chronic-pain-and-trauma-the-connection-your-doctor-may-not-have-told-you"
+      }
+    }
   }
 ]

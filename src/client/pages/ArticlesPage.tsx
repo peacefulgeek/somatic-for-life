@@ -121,7 +121,7 @@ export function ArticlesPage() {
             {category ? `Topic: ${activeCategory}` : 'All Articles'}
           </div>
           <h1 className="page-header-title">
-            {category ? activeCategory : 'The Body Remembers Library'}
+            {category ? activeCategory : 'Somatic For Life Library'}
           </h1>
           <p className="page-header-description">
             {category

@@ -8,9 +8,9 @@ export function Footer() {
     <footer className="site-footer">
       <div className="footer-grid">
         <div>
-          <div className="footer-brand-name">The Body Remembers</div>
+          <div className="footer-brand-name">Somatic For Life</div>
           <p className="footer-brand-desc">
-            The research-grounded resource for body-based trauma healing. What the body does with unprocessed experience, why talk therapy alone often doesn't resolve it, and what somatic approaches actually involve.
+            The research-grounded resource for somatic healing for life. What the body does with unprocessed experience, why talk therapy alone often doesn't resolve it, and what somatic approaches actually involve.
           </p>
           <p className="footer-disclosure">
             As an Amazon Associate I earn from qualifying purchases.
@@ -56,7 +56,7 @@ export function Footer() {
       </div>
 
       <div className="footer-bottom">
-        <span>© {year} The Body Remembers. All rights reserved.</span>
+        <span>© {year} Somatic For Life. All rights reserved.</span>
         <span>
           Written by{' '}
           <a href="https://theoraclelover.com" target="_blank" rel="noopener noreferrer" style={{ color: 'rgba(255,255,255,0.6)' }}>

@@ -1,5 +1,5 @@
 /**
- * Production entry point for The Body Remembers.
+ * Production entry point for Somatic For Life.
  * Starts the Express server as a child process and registers all cron schedules.
  * NO setTimeout for long intervals — cron expressions only (Section 8A).
  */

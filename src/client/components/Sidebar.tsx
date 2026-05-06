@@ -75,8 +75,8 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
       {/* Logo */}
       <div className="sidebar-logo">
         <Link to="/" onClick={onClose}>
-          <span className="sidebar-logo-name">The Body Remembers</span>
-          <span className="sidebar-logo-tagline">Somatic Trauma Healing</span>
+          <span className="sidebar-logo-name">Somatic For Life</span>
+          <span className="sidebar-logo-tagline">Somatic Healing For Life</span>
         </Link>
       </div>
 
@@ -88,7 +88,7 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
         <div className="sidebar-author-name">The Oracle Lover</div>
         <div className="sidebar-author-title">Intuitive Educator & Oracle Guide</div>
         <p className="sidebar-author-bio">
-          Demystifying body-based trauma healing with science, directness, and zero fluff. The body doesn't lie. Let's work with what it's telling you.
+          Demystifying somatic healing for life with science, directness, and zero fluff. The body doesn't lie. Let's work with what it's telling you.
         </p>
         <a
           href="https://theoraclelover.com"
@@ -112,7 +112,11 @@ export function Sidebar({ isOpen, onClose }: SidebarProps) {
         </NavLink>
         <NavLink to="/assessments" className={({ isActive }) => `sidebar-nav-item${isActive ? ' active' : ''}`}>
           <span>✅ Assessments</span>
-          <span className="sidebar-nav-badge">5</span>
+          <span className="sidebar-nav-badge">9</span>
+        </NavLink>
+        <NavLink to="/supplements" className={({ isActive }) => `sidebar-nav-item${isActive ? ' active' : ''}`}>
+          <span>🌿 Herbs & Supplements</span>
+          <span className="sidebar-nav-badge">200+</span>
         </NavLink>
         <NavLink to="/recommended" className={({ isActive }) => `sidebar-nav-item${isActive ? ' active' : ''}`}>
           <span>📦 Recommended</span>

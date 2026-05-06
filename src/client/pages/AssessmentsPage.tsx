@@ -37,7 +37,7 @@ export function AssessmentsPage() {
   const [error, setError] = useState('');
 
   useEffect(() => {
-    document.title = 'Assessments | The Body Remembers';
+    document.title = 'Assessments | Somatic For Life';
     fetch('/api/assessments')
       .then(r => r.json())
       .then(data => { setAssessments(Array.isArray(data) ? data : []); setLoading(false); })
