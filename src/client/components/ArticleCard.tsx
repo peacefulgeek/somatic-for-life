@@ -8,7 +8,7 @@ interface Article {
   category: string;
   hero_url?: string;
   image_alt?: string;
-  reading_time?: number;
+  reading_time?: number | string;
   published_at?: string;
 }
 
@@ -81,7 +81,7 @@ export function ArticleCard({ article, listView = false }: ArticleCardProps) {
           {article.reading_time && (
             <>
               <span className="article-card-meta-dot" />
-              <span>{article.reading_time} min read</span>
+              <span>{typeof article.reading_time === 'string' && String(article.reading_time).includes('min') ? article.reading_time : `${article.reading_time} min read`}</span>
             </>
           )}
           {article.published_at && (
