@@ -3,6 +3,7 @@
  * Starts the Express server as a child process and registers all cron schedules.
  * NO setTimeout for long intervals — cron expressions only (Section 8A).
  */
+process.env.NODE_ENV = 'production';
 import cron from 'node-cron';
 import { spawn } from 'child_process';
 import { fileURLToPath } from 'url';
@@ -16,7 +17,7 @@ const projectRoot = resolve(__dirname, '..');
 const server = spawn('node', ['dist/index.js'], {
   cwd: projectRoot,
   stdio: 'inherit',
-  env: { ...process.env },
+  env: { ...process.env, NODE_ENV: 'production' },
 });
 
 server.on('exit', (code) => {

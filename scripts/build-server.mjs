@@ -21,7 +21,7 @@ await build({
     'fs', 'path', 'url', 'crypto', 'stream', 'http', 'https', 'net', 'os',
     'child_process', 'events', 'util', 'buffer', 'querystring', 'zlib',
     // npm packages (resolved at runtime from node_modules)
-    'express', 'compression', 'serve-static', 'pg', 'openai', 'node-cron',
+    'express', 'compression', 'serve-static', 'openai', 'node-cron',
     'react', 'react-dom', 'react-router-dom',
   ],
   define: {
