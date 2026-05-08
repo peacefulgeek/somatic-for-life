@@ -185,7 +185,15 @@ export async function getArticles({ page = 1, limit = 12, category = '', search 
 
   // JSON fallback
   const all = await readJson(ARTICLES_FILE);
-  let filtered = all.filter(a => a.status === 'published' || a.published === true);
+  const now = new Date();
+  // Include scheduled articles whose publish date has arrived
+  let filtered = all.filter(a => {
+    if (a.status === 'published' || a.published === true) return true;
+    if (a.status === 'scheduled' && a.published_at) {
+      return new Date(a.published_at) <= now;
+    }
+    return false;
+  });
   if (category) filtered = filtered.filter(a => a.category === category);
   if (search) {
     const q = search.toLowerCase();
@@ -208,7 +216,11 @@ export async function getArticleBySlug(slug) {
     return rows[0] || null;
   }
   const all = await readJson(ARTICLES_FILE);
-  return all.find(a => a.slug === slug && (a.status === 'published' || a.published === true)) || null;
+  const now = new Date();
+  return all.find(a => a.slug === slug && (
+    a.status === 'published' || a.published === true ||
+    (a.status === 'scheduled' && a.published_at && new Date(a.published_at) <= now)
+  )) || null;
 }
 
 export async function getRelatedArticles(slug, category, limit = 4) {
@@ -223,7 +235,12 @@ export async function getRelatedArticles(slug, category, limit = 4) {
     return rows;
   }
   const all = await readJson(ARTICLES_FILE);
-  return all.filter(a => (a.status === 'published' || a.published === true) && a.slug !== slug && a.category === category).slice(0, limit);
+  const now = new Date();
+  return all.filter(a => (
+    (a.status === 'published' || a.published === true ||
+    (a.status === 'scheduled' && a.published_at && new Date(a.published_at) <= now))
+    && a.slug !== slug && a.category === category
+  )).slice(0, limit);
 }
 
 export async function getCategoryCounts() {
@@ -235,9 +252,12 @@ export async function getCategoryCounts() {
     return rows.map(r => ({ category: r.category, count: parseInt(r.count, 10) }));
   }
   const all = await readJson(ARTICLES_FILE);
+  const now = new Date();
   const counts = {};
   for (const a of all) {
-    if (a.status === 'published' || a.published === true) counts[a.category] = (counts[a.category] || 0) + 1;
+    const isVisible = a.status === 'published' || a.published === true ||
+      (a.status === 'scheduled' && a.published_at && new Date(a.published_at) <= now);
+    if (isVisible) counts[a.category] = (counts[a.category] || 0) + 1;
   }
   return Object.entries(counts).map(([category, count]) => ({ category, count })).sort((a, b) => b.count - a.count);
 }
@@ -253,7 +273,10 @@ export async function getFeaturedArticles(limit = 6) {
     return rows;
   }
   const all = await readJson(ARTICLES_FILE);
-  return all.filter(a => a.status === 'published' || a.published === true).sort((a, b) => new Date(b.published_at || 0) - new Date(a.published_at || 0)).slice(0, limit);
+  const now = new Date();
+  return all.filter(a => a.status === 'published' || a.published === true ||
+    (a.status === 'scheduled' && a.published_at && new Date(a.published_at) <= now)
+  ).sort((a, b) => new Date(b.published_at || 0) - new Date(a.published_at || 0)).slice(0, limit);
 }
 
 export async function saveArticle(article) {

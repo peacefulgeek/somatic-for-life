@@ -1,0 +1,35 @@
+services:
+  - type: web
+    name: somatic-for-life
+    env: node
+    plan: starter
+    buildCommand: pnpm install && pnpm build
+    startCommand: node scripts/start-with-cron.mjs
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: "3000"
+      - key: SITE_DOMAIN
+        value: somaticforlife.com
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_BASE_URL
+        value: https://api.openai.com/v1
+      - key: OPENAI_MODEL
+        value: gpt-4.1-mini
+      - key: AMAZON_TAG
+        value: spankyspinola-20
+      - key: BUNNY_STORAGE_ZONE
+        value: somatic-forlife
+      - key: BUNNY_API_KEY
+        sync: false
+      - key: BUNNY_CDN_URL
+        value: https://somatic-forlife.b-cdn.net
+      - key: BUNNY_REGION
+        value: ny
+      - key: AUTO_GEN_ENABLED
+        value: "false"

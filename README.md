@@ -1,10 +1,10 @@
-# Somatic For Life — Site 117
+# Somatic For Life
 
 **somaticforlife.com** — The research-grounded guide to somatic healing, nervous system regulation, and body-based trauma recovery. Science, practice, and zero fluff.
 
 Written by **The Oracle Lover** — intuitive educator and oracle guide.
 
-**Stack:** Node.js 22 + Express 5 + Vite + React 18 + TypeScript · JSON data (PostgreSQL-ready) · Bunny CDN · DigitalOcean App Platform
+**Stack:** Node.js 22 + Express 5 + Vite + React 18 + TypeScript · JSON data (no database required) · Bunny CDN · **Render** (deployment)
 
 ---
 
@@ -13,7 +13,7 @@ Written by **The Oracle Lover** — intuitive educator and oracle guide.
 ```bash
 pnpm install
 pnpm build          # builds client + server
-node dist/index.js  # starts production server on PORT (default 3000)
+node scripts/start-with-cron.mjs  # starts production server on PORT (default 3000)
 ```
 
 For development:
@@ -32,23 +32,21 @@ Create a `.env` file (never commit it):
 # Site domain
 SITE_DOMAIN=somaticforlife.com
 
-# DeepSeek API (for daily article cron)
+# OpenAI API (for quarterly article cron)
 OPENAI_API_KEY=sk-...
-OPENAI_BASE_URL=https://api.deepseek.com
+OPENAI_BASE_URL=https://api.openai.com/v1
+OPENAI_MODEL=gpt-4.1-mini
 
 # Amazon affiliate tag
 AMAZON_TAG=spankyspinola-20
 
 # Bunny CDN
 BUNNY_STORAGE_ZONE=somatic-forlife
-BUNNY_API_KEY=9683bfd5-7ef1-4ea7-aaa3bed5d2a0-9722-43fc
+BUNNY_API_KEY=...
 BUNNY_CDN_URL=https://somatic-forlife.b-cdn.net
-BUNNY_REGION=ny.storage.bunnycdn.com
+BUNNY_REGION=ny
 
-# Optional — PostgreSQL. Falls back to data/*.json if not set
-DATABASE_URL=postgresql://user:pass@host:5432/dbname
-
-# Port (DigitalOcean sets this automatically)
+# Port
 PORT=3000
 ```
 
@@ -58,7 +56,7 @@ PORT=3000
 
 ```
 somatic-for-life/
-├── .do/app.yaml              # DigitalOcean App Platform config
+├── render.yaml               # Render deployment config
 ├── data/
 │   ├── articles.json         # 500 articles (date-gated at 6/day)
 │   ├── assessments.json      # 9 assessments with scoring
@@ -177,18 +175,20 @@ somatic-for-life/
 
 ---
 
-## Deploying to DigitalOcean App Platform
+## Deploying to Render
 
-The `.do/app.yaml` is pre-configured. Steps:
+The `render.yaml` is pre-configured. Steps:
 
 1. **Push to GitHub** (see below)
-2. In DigitalOcean App Platform → **New App** → connect your GitHub repo
-3. Select `peacefulgeek/somatic-for-life` → it auto-detects `.do/app.yaml`
-4. Add environment variables in the DO dashboard
+2. In [Render Dashboard](https://dashboard.render.com) → **New** → **Blueprint** → connect your GitHub repo
+3. Render auto-detects `render.yaml` and configures the service
+4. Add the two secret environment variables in the Render dashboard: `OPENAI_API_KEY` and `BUNNY_API_KEY`
 5. Deploy
 
 **Build command:** `pnpm install && pnpm build`
 **Run command:** `node scripts/start-with-cron.mjs`
+
+See [POST_LAUNCH_CHECKLIST.md](./POST_LAUNCH_CHECKLIST.md) for post-launch search engine submission steps.
 
 ---
 
